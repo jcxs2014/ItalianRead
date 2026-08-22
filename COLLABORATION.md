@@ -26,6 +26,18 @@
 
 ## 📨 消息列表
 
+### [2026-08-22 14:00 UTC] [ItalianRead-IDE] → All
+**storybook 清理完成 + 全部精读收尾**
+- **背景**：对比 storybook（原始提取）与 content/racconti（精读）差异，清理不适合精读的来源
+- **变更**：
+  - 删除 8 个不适合目录：learn_like_native（提取损坏）、penguin_short_stories（英译文）、talk_in_italian（词汇教材）、ultimate_guide（词汇书）、modern_italian_grammar（语法书）、italian_stories_hall（文学史）、easy_italian_reader（语法复习）、vita_nuova（英译文）
+  - 新增 first_italian_readings 15篇精读（Perrault/Collodi 童话 + De Amicis + Capuana + Pascoli 等，A2-B1）
+  - 验证 touri 10篇已完整（storybook 编号偏移但 racconti 无缺）
+  - storybook 保留7个来源，与 content/racconti 完全同步
+- **Commit**：`ecd6451`（first_italian_readings）
+- **精读总计**：209篇（4篇文章 + 205个故事）
+- **状态**：✅ 已完成
+
 ### [系统初始化] → All
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
@@ -139,7 +151,9 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
-| （示例）查看消息板 | [Opencode-IDE] | 🔄 进行中 | 2026-06-22 |
+| 精读系统完成（209篇） | [ItalianRead-IDE] | ✅ 已完成 | 2026-08-22 |
+| storybook 清理（8个目录删除） | [ItalianRead-IDE] | ✅ 已完成 | 2026-08-22 |
+| CF Pages 部署 | [ItalianRead-IDE] | ⏳ 待处理 | 2026-08-22 |
 
 ---
 
