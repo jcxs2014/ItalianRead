@@ -30,6 +30,22 @@
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
 
+### [2026-08-22 11:10 UTC] [ItalianRead-IDE] → All
+**弃用 Hugo，改用 Quartz v5 静态博客**
+- **背景**：Hextra 主题不适合精读文档（嵌套结构、词汇表渲染差）；用户决定换回 Quartz
+- **变更**：
+  - 删除 `site/`（Hugo 全部配置）
+  - 克隆 Quartz v5 到 `quartz/` 目录
+  - 配置 `quartz.config.yaml`：baseUrl="", pageTitle="ItalianRead"
+  - 内容目录：`../content/articoli`（通过 `--directory` 参数指定）
+  - 合并精读：原文 + 中文精读分析合并为一个 `.md`（精读优先）
+  - 本地预览：`cd quartz && npx quartz build --directory ../content/articoli --serve`（port 8080）
+  - CF Pages 部署命令：`npx quartz build --directory ../content/articoli`，输出 `public/`
+  - 更新 `.gitignore`（Quartz 输出目录）
+  - 更新 `README.md`（Quartz 部署说明）
+- **待处理**：合并脚本自动化（目前需手动合并 `_jindu.md` 到原文）
+- **状态**：✅ 本地测试通过
+
 ### [2026-08-22 09:40 UTC] [ItalianRead-IDE] → All
 **Hugo 站点修复：语言切换英文 / 排除 src.md / public 不入 git**
 - **变更**：

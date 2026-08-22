@@ -1,11 +1,10 @@
 # ItalianRead — Git Ignore
 
-## Hugo 静态站点生成
-/site/public/          # Hugo 输出目录（CF Pages 部署，每次构建覆盖）
-/site/resources/       # Hugo 资源缓存
-/site/.hugo_build.lock # Hugo 构建锁文件
-/site/public
-/site/resources
+## Quartz 静态站点生成
+/quartz/public/          # Quartz 输出目录（CF Pages 部署，每次构建覆盖）
+/quartz/.quartz/        # Quartz 构建缓存
+/quartz/node_modules/    # Quartz 依赖（npm install）
+*.lock
 
 ## 思源笔记数据库
 *.db
@@ -28,9 +27,6 @@
 __pycache__/
 *.pyc
 
-## 原始文章（不入 git）
-# 注意：.src.md 文件本地留存，不进 git 不上网站
-
 ## Obsidian 配置（用户自行管理）
 .obsidian/
 
@@ -40,10 +36,8 @@ venv/
 env/
 
 ## Cloudflare Pages 部署相关
-# Cloudflare Pages 会从 public/ 目录读取并部署
-# 因此 public/ 不进 git（由 Hugo 构建生成）
+# CF Pages 构建命令：npx quartz build --directory ../content/articoli
+# CF Pages 输出目录：public
+# 环境变量：NODE_VERSION=22
 #
-# Cloudflare Pages 构建设置（供参考）：
-#   构建命令：hugo
-#   构建输出目录：public
-#   环境变量：HUGO_VERSION=latest
+# 注意：quartz/public/ 不进 git（由 quartz build 自动生成）
