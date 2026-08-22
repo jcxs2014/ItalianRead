@@ -8,23 +8,41 @@
 ```
 ~/Documents/Works/ItalianRead/
 ├── README.md              ← 本文件（唯一权威项目文档）
-├── AGENTS.md              ← 本工作区 agent 操作手册
-├── COLLABORATION.md       ← 协作消息板
-├── .memory/               ← 本机工作记忆
+├── AGENTS.md             ← agent 操作手册
+├── COLLABORATION.md      ← 协作消息板
+├── .memory/              ← 本机工作记忆
 │   └── ItalianRead_MEMORY.md
-├── .gitignore             ← 预留（未来建 git 时用）
-├── doppiozero/            ← 文学/文化（难度 B2-C1）
-├── lastampa/              ← 新闻（难度 B1-B2）
-└── lescienze/            ← 科学/文化（难度 B1-B2）
+├── .gitignore            ← gitignore（含 Hugo + CF Pages）
+├── scripts/               ← 抓取脚本
+│   ├── fetch_doppiozero.py
+│   ├── fetch_lastampa.py
+│   ├── fetch_lescienze.py
+│   ├── fetch_corriere.py
+│   ├── fetch_ilsole24ore.py
+│   └── fetch_repubblica.py
+├── content/articles/      ← Hugo 内容目录
+│   ├── doppiozero/       ← 文学/文化（B2-C1）
+│   ├── lastampa/         ← 新闻（B1-B2）
+│   ├── lescienze/        ← 科学/文化（B1-B2）
+│   ├── corriere/         ← 新闻（B1-B2）
+│   ├── ilsole24ore/      ← 经济（B2）
+│   └── repubblica/       ← 新闻（付费墙，仅摘要）
+└── site/                 ← Hugo 静态博客
+    ├── hugo.toml         ← Hugo 配置
+    ├── themes/           ← Hextra + PaperMod
+    └── public/           ← Hugo 输出（CF Pages 部署）
 ```
 
 ## 来源
 
-| 来源               | RSS URL                                    | 类别     | 难度  |
-| ------------------ | ------------------------------------------ | -------- | ------ |
-| **doppiozero**     | `doppiozero.com/articoli-doppiozero/rss.xml` | 文学/文化 | B2-C1 |
-| **La Stampa**      | `lastampa.it/rss`                          | 新闻     | B1-B2 |
-| **Le Scienze**     | `lescienze.it/rss`                         | 科学/文化 | B1-B2 |
+| 来源        | RSS URL                                    | 类别     | 难度  |
+| ----------- | ------------------------------------------ | -------- | ------ |
+| doppiozero  | `doppiozero.com/articoli-doppiozero/rss.xml` | 文学/文化 | B2-C1 |
+| La Stampa   | `lastampa.it/rss`                          | 新闻     | B1-B2 |
+| Le Scienze  | `lescienze.it/rss`                         | 科学/文化 | B1-B2 |
+| Corriere    | `corriere.it/rss/homepage.xml`              | 新闻     | B1-B2 |
+| Il Sole 24  | `ilsole24ore.com/rss/italia.xml`           | 经济     | B2    |
+| Repubblica  | `repubblica.it/rss/homepage/rss2.0.xml`   | 新闻     | B1-B2（付费墙）|
 
 ## 每日工作流
 
@@ -33,7 +51,7 @@
 1. **抓文**（手动触发）
    ```bash
    cd ~/Documents/Works/ItalianRead
-   python3 doppiozero/fetch_doppiozero.py   # 或 lastampa/fetch_lastampa.py 等
+   python3 scripts/fetch_doppiozero.py   # 或其他来源
    ```
 
 2. **自动选 3-4 篇**（AI 完成）
@@ -50,9 +68,10 @@
    - 段落逻辑分析；长难句专项
    - 文末总结：核心词汇 / 表达 / 语法 / 长难句 / 写作技巧 / 可迁移表达
 
-4. **清理**
-   - 未入选且无精读的源文 → 删除
-   - 保留：入选源文 + `index.json` + `selected.json`
+4. **构建博客**
+   ```bash
+   cd site && hugo --gc --minify
+   ```
 
 5. **交互指令**：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
 
@@ -65,11 +84,26 @@
 - 报告要素：原句 / 自然中文 / 句子结构 / 关键词 / 地道表达 / "为什么这样写"；长难句专项。
 - 交互指令：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译。
 
+## Hugo 静态博客
+
+### 主题
+- **主主题**：Hextra（响应式/暗亮切换/侧边栏导航/Tailwind CSS）
+- **Fallback**：PaperMod
+
+### 部署（Cloudflare Pages）
+- 构建命令：`hugo --gc --minify`
+- 输出目录：`public/`
+- 环境变量：`HUGO_VERSION=latest`
+
+### Hugo 命令
+```bash
+cd site
+hugo server        # 本地预览
+hugo --gc --minify # 生产构建
+```
+
 ## 注意事项
 
-- 本目录是**独立个人资产**。
-- 加新来源：新建 `<source>/` 文件夹，写对应 `fetch_<source>.py`。
-- `scan.py` 的 flags 字典需随来源扩充更新。
-- **git**：暂不建，预留 `.gitignore`。
-- **Quartz 网页部署**：预留 `site/` 目录，未来参照 EnglishRead 的 `site/quartz.config.yaml`。
-- **Obsidian**：用户自行配置 `.obsidian/`。
+- 加新来源：新建 `content/articles/<source>/` 目录，写对应 `scripts/fetch_<source>.py`
+- **Obsidian**：用户自行配置 `.obsidian/`
+- **.gitignore**：已配置 Hugo 输出、Python 缓存、macOS 临时文件等

@@ -30,6 +30,19 @@
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
 
+### [2026-08-22 09:35 UTC] [ItalianRead-IDE] → All
+**Hugo 静态博客初始化完成（Hextra + PaperMod fallback）**
+- **背景**：用户决定使用 Hugo + Hextra 做静态博客（替代 Quartz）
+- **变更**：
+  - 初始化 Hugo 站点（`site/` 目录）
+  - 安装 Hugo + Go（Hombrew）
+  - 添加 Hextra v0.12.3（主主题）+ PaperMod（fallback）
+  - 配置 hugo.toml：响应式/暗亮切换/tag分类/多级目录
+  - CF Pages 部署配置
+  - 构建测试通过（11 pages）
+- **相关文件**：`site/hugo.toml`、`site/themes/`
+- **状态**：✅ 已完成
+
 ### [2026-08-22 09:30 UTC] [ItalianRead-IDE] → All
 **重构：采用 Hugo 静态博客方案，调整目录结构**
 - **背景**：用户决定使用 Hugo 替代 Quartz 做静态博客部署
