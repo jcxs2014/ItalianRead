@@ -19,14 +19,19 @@
 │   ├── fetch_lescienze.py
 │   ├── fetch_corriere.py
 │   └── fetch_ilsole24ore.py
-├── content/              ← Quartz 内容目录（Markdown）
+├── content/              ← Quartz 内容目录（精读文档）
 │   ├── index.md          ← 首页
-│   ├── doppiozero/       ← 文学/文化（B2-C1）
+│   ├── doppiozero/       ← 文学/文化精读（B2-C1）
 │   │   └── 20260822_saturday/
 │   │       └── *.md      ← 精读文档
 │   └── racconti/         ← 短篇故事精读（未来）
 │       └── <author>/
-├── storybook/            ← epub 源文件目录（不入git）
+├── storybook/            ← epub 源文件 + 提取的原始故事（不入git）
+│   ├── penguin_parallel/  ← Penguin Parallel Texts（7篇）
+│   │   └── *.epub, *.md
+│   ├── first_italian_reader/ ← First Italian Reader（55篇）
+│   │   └── *.epub, *.md
+│   └── <other_sources>/   ← 更多来源...
 └── quartz/               ← Quartz 静态博客
     ├── quartz.config.yaml ← Quartz 配置
     ├── package.json       ← Node.js 依赖
