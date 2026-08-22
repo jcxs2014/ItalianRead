@@ -10,13 +10,9 @@ description: 意大利语精读文章列表
 
 ## 来源
 
-| 来源        | 类别     | 难度  |
-| ----------- | -------- | ------ |
-| doppiozero  | 文学/文化 | B2-C1 |
-| La Stampa   | 新闻     | B1-B2 |
-| Le Scienze  | 科学/文化 | B1-B2 |
-| Corriere    | 新闻     | B1-B2 |
-| Il Sole 24  | 经济     | B2    |
+| 来源       | 类别     | 难度  |
+| ---------- | -------- | ------ |
+| doppiozero | 文学/文化 | B2-C1 |
 
 ## 精读文章
 
@@ -45,5 +41,5 @@ description: 意大利语精读文章列表
 部署（Cloudflare Pages）：
 
 ```bash
-cd quartz && npx quartz build --directory ../content/articoli
+cd quartz && npx quartz build --directory ../content
 ```
