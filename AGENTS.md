@@ -7,7 +7,9 @@
 ## 精读会话流程
 1. 每次收到意大利语文本后，**只在会话中输出简短的状态/标题/简短结构说明**，不输出大段精读内容
 2. **完整的精读详情（词汇、语法、写作技巧、句型分析等）直接写入 md 文件**
-3. 文件命名格式：`标题_snake_case.md`（无 _jindu 后缀）
+3. 文件命名格式：
+   - **文章**：`标题_snake_case.md`
+   - **故事**：`编号_标题_snake_case.md`（编号根据来源总篇数决定：<100篇用2位如`01`，≥100篇用3位如`001`）
 4. 保存路径：
    - **文章**：`~/Documents/Works/ItalianRead/content/<source>/<日期_星期>/`
    - **故事**：`~/Documents/Works/ItalianRead/content/racconti/<source>/`
