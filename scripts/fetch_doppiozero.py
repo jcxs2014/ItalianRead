@@ -35,7 +35,7 @@ def fetch_articles():
     today = datetime.now(timezone.utc)
     date_str = today.strftime("%Y%m%d")
     weekday = today.strftime("%A").lower()
-    output_dir = Path(__file__).parent.parent / "content" / "articles" / SOURCE / f"{date_str}_{weekday}"
+    output_dir = Path(__file__).parent.parent / "content" / SOURCE / f"{date_str}_{weekday}"
     output_dir.mkdir(exist_ok=True)
 
     articles = []
@@ -48,12 +48,13 @@ def fetch_articles():
         description = description.strip()
 
         slug = to_filename(title)
-        filename = f"{i:02d}_{slug}.src.md"
+        filename = f"{i:02d}_{slug}.md"
 
         content = f"""---
+title: "{title}"
 lang: it
 source: {SOURCE}
-url: {link}
+originalUrl: {link}
 date: {entry.get("published", today.isoformat())}
 ---
 

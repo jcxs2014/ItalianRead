@@ -34,13 +34,11 @@
 
 ## 来源
 
-| 来源       | RSS URL                                    | 类别   | 难度  |
-| ---------- | ----------------------------------------- | ------ | ------ |
-| doppiozero | `doppiozero.com/articoli-doppiozero/rss.xml` | 文学/文化 | B2-C1 |
-| La Stampa  | `lastampa.it/rss`                         | 新闻   | B1-B2 |
-| Le Scienze | `lescienze.it/rss`                        | 科学/文化 | B1-B2 |
-| Corriere   | `corriere.it/rss/homepage.xml`           | 新闻   | B1-B2 |
-| Il Sole 24 | `ilsole24ore.com/rss/italia.xml`          | 经济   | B2    |
+| 来源       | RSS URL                                              | 类别   | 难度  |
+| ---------- | ---------------------------------------------------- | ------ | ------ |
+| doppiozero | `doppiozero.com/articoli-doppiozero/rss.xml`     | 文学/文化 | B2-C1 |
+
+> **注意**：La Stampa / Corriere / Il Sole 24 / Le Scienze 的 RSS 仅含摘要（数十词），不适合精读。如需更多来源，请手动抓取全文或寻找其他 RSS 含全文的来源。
 
 ## 每日工作流
 
@@ -49,7 +47,7 @@
 1. **抓文**（手动触发）
    ```bash
    cd ~/Documents/Works/ItalianRead
-   python3 scripts/fetch_doppiozero.py   # 或其他来源
+   python3 scripts/fetch_doppiozero.py
    ```
 
 2. **自动选 3-4 篇**（AI 完成）
