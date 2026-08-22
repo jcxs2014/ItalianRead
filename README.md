@@ -24,8 +24,9 @@
 │   ├── doppiozero/       ← 文学/文化（B2-C1）
 │   │   └── 20260822_saturday/
 │   │       └── *.md      ← 精读文档
-│   └── racconti/         ← 短篇故事（未来）
+│   └── racconti/         ← 短篇故事精读（未来）
 │       └── <author>/
+├── storybook/            ← epub 源文件目录（不入git）
 └── quartz/               ← Quartz 静态博客
     ├── quartz.config.yaml ← Quartz 配置
     ├── package.json       ← Node.js 依赖
@@ -109,7 +110,9 @@ npx quartz build --directory ../content  # 生产构建
 ## 注意事项
 
 - 加新来源：新建 `content/<source>/` 目录，写对应 `scripts/fetch_<source>.py`
-- 短篇故事：`content/racconti/<author>/<index>_slug_jindu.md`（三位编号 000-999）
+- 短篇故事：`content/racconti/<author>/<index>_slug.md`（三位编号 000-999）
+  - epub 源文件放入 `storybook/`（不入git）
+  - 提取脚本 TBD
 - **Obsidian**：用户自行配置 `.obsidian/`
 - **.gitignore**：已配置 Quartz 输出、Python 缓存、macOS 临时文件等
 - **合并精读**：同一文章的原文 `.md` 和 `_jindu.md` 需要手动合并（未来可自动化）
