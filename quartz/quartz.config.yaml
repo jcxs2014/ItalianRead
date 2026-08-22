@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: ItalianRead
-  pageTitleSuffix: " — 意大利语精读"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -12,6 +12,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    - .git
+    - node_modules
+    - _templates
     - "*.src.md"
   theme:
     fontOrigin: googleFonts
@@ -48,7 +51,6 @@ plugins:
       defaultDateType: modified
       priority:
         - frontmatter
-        - git
         - filesystem
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
@@ -75,10 +77,12 @@ plugins:
       markdownLinkResolution: shortest
   - source: "@quartz-community/description"
     enabled: true
-  - source: "@quartz-community/latex"
+  - source: "@quartz-community/hard-line-breaks"
     enabled: false
   - source: "@quartz-community/remove-draft"
-    enabled: true
+    enabled: false
+  - source: "@quartz-community/explicit-publish"
+    enabled: false
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -87,27 +91,26 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
+  - source: "@quartz-community/cname"
+    enabled: false
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
-    layout:
-      position: right
-      priority: 10
+    enabled: false
   - source: "@quartz-community/search"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20
@@ -115,10 +118,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
-    layout:
-      position: right
-      priority: 50
+    enabled: false
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -129,6 +129,11 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  - source: "@quartz-community/tag-list"
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 30
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
@@ -140,27 +145,41 @@ plugins:
       position: left
       priority: 30
       group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
+  - source: "@quartz-community/comments"
+    enabled: false
   - source: "@quartz-community/footer"
     enabled: true
+    options:
+      links: {}
     layout:
       position: footer
       priority: 50
+  - source: "@quartz-community/recent-notes"
+    enabled: false
+  - source: "@quartz-community/spacer"
+    enabled: false
   - source: "@quartz-community/bases-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
       includeAll: false
       includedProperties:
-        - description
+        - 状态
+        - 难度
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -170,6 +189,14 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+  - source: "@quartz-community/encrypted-pages"
+    enabled: false
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+  - source: "@quartz-community/canvas-page"
+    enabled: false
 layout:
   groups:
     toolbar:
