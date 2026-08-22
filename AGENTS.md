@@ -3,6 +3,11 @@
 ## 工作区信息
 - 本工作区：`~/Documents/Works/ItalianRead/`
 - 精读保存根目录：本工作区自身（所有 md 文件保存于此）
+- **重要目录**：
+  - `storybook/` — 故事 epub 源文件（不 git 追踪）
+  - `news/` — 新闻 epub 源文件（不 git 追踪，Calibre 抓取）
+  - `content/racconti/` — 故事精读文档
+  - `content/doppiozero/` — 文章精读文档
 
 ## 精读会话流程
 1. 每次收到意大利语文本后，**只在会话中输出简短的状态/标题/简短结构说明**，不输出大段精读内容
@@ -128,3 +133,21 @@
 - "标难度" = 标注文中各句难度等级
 
 **核心原则**：会话保持精简，详情写入文件。用户读文件而不是会话。
+
+## 新闻精读工作流
+
+### 源文件管理
+- `news/` 存放 Calibre 抓取的 epub 新闻（不 git 追踪）
+- 支持的意大利语来源：Il Post, Internazionale, Contropiano, Il Corriere della Sera, Il Fatto Quotidiano, Il Manifesto, La Repubblica, La Stampa 等
+
+### 处理流程
+1. 用户用 Calibre 抓取新闻 → epub 保存到 `news/`
+2. 用 ebook-convert 提取文本：`ebook-convert "news/xxx.epub" /tmp/xxx.txt`
+3. 从文本中选择适合精读的文章（1000-3000词，B1-C1难度）
+4. 生成精读文档 → 保存到 `content/<source>/<日期_星期>/`
+
+### 文章选择标准
+- 词数：1000-3000词（太短不够分析，太长阅读负担重）
+- 难度：B1-C1（A1/A2太简单，C2太难）
+- 主题：文化、社会、生活、科技（避免纯政治/体育）
+- 语言：清晰规范，有学习价值
