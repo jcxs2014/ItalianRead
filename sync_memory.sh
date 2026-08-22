@@ -1,0 +1,1 @@
+/Users/jcxs2014/Sites/OpenCodeFiles/multi-ide-template/sync_memory.sh
