@@ -1,5 +1,9 @@
 # ItalianRead — Git Ignore
 
+## CortexKit / OpenChamber 临时文件
+.cortexkit/
+.openchamber/
+
 ## Quartz 静态站点生成
 /quartz/public/          # Quartz 输出目录（CF Pages 部署，每次构建覆盖）
 /quartz/.quartz/        # Quartz 构建缓存
