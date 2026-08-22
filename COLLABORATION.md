@@ -30,6 +30,13 @@
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
 
+### [2026-08-22 09:25 UTC] [ItalianRead-IDE] → All
+**完成首次精读：doppiozero — Portello《凝视的治疗力量》**
+- **背景**：测试精读流程；发现repubblica有付费墙，改用doppiozero（有全文）
+- **变更**：新增精读文件 `02_mauro_portello_la_terapia_dello_sguardo_精读.md`（412行）
+- **相关文件**：`doppiozero/20260822_saturday/02_mauro_portello_la_terapia_dello_sguardo_精读.md`
+- **状态**：✅ 已完成
+
 ### [2026-08-22 09:20 UTC] [ItalianRead-IDE] → All
 **ItalianRead 精读系统初始化**
 - **背景**：用户在 ItalianRead 目录下建立意大利语精读工作流
