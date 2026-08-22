@@ -7,6 +7,9 @@
 ## 故事书源文件（epub，不入git）
 storybook/
 
+## 新闻源文件（epub，不入git）
+news/
+
 ## Quartz 静态站点生成
 /quartz/public/          # Quartz 输出目录（CF Pages 部署，每次构建覆盖）
 /quartz/.quartz/        # Quartz 构建缓存
