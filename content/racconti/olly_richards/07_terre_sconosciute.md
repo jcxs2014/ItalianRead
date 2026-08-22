@@ -1,259 +1,551 @@
 ---
-title: "07_terre_sconosciute"
+title: "07 - Terre Sconosciute"
 lang: it
 状态: 精读中
-难度: A1-A2
+难度: A2-B1
 source: olly_richards
-author: Olly Richards
+author: "Olly Richards"
+originalUrl: "epub: Italian Short Stories for Beginners (Olly Richards) (Z-Library).epub#text/part0000_split_088.html"
+date: Sat, 22 Aug 2026 17:00:00 +0000
 ---
 
-# 07. Terre Sconosciute（未知大陆）
+# 07 - Terre Sconosciute
 
 ## 概要
+几百年前，有一个叫Asglor的维京人村庄。村里有个年轻人Thoric，一天他狩猎归来时遇到了探险家Niels。Niels告诉他，Eskol首领有一个神秘计划。几天后，Eskol首领召集全村人到大厅，宣布由于冬季食物短缺，他们必须向西航行寻找新的土地。一位维京人曾在西部发现过土地，但在回村途中去世了。
 
-### 情节摘要
-故事发生在几百年前的北欧。Thoric是一个年轻的维京猎人，住在名叫Asglor的村庄。村庄面临食物短缺的问题，因为寒冬即将来临。首领Eskol宣布必须向西航行寻找新的土地。Thoric、Niels和Eskol等75人登上三艘船出发。经历了一场暴风雨后，他们发现了一片新大陆——实际上是美洲大陆。他们在那里遇到了当地土著。最后，一部分维京人决定留在新大陆开始新生活，另一部分人试图驾着破旧的船返回家园。
+**时间/地点**：几百年前；北欧Asglor维京村庄
+**主要人物**：Thoric（年轻的维京猎人）、Niels（探险家）、Eskol（维京首领）
 
-### 时间/地点
-- **时间**: 几百年前（维京时代）
-- **地点**: 北欧Asglor村庄 → 大西洋 → 美洲大陆（未知的"西部土地"）
-
-### 主要人物
-- **Thoric**: 年轻的维京猎人，英勇强壮
-- **Niels**: 首席探险家，Eskol之子
-- **Eskol**: 村庄首领，严肃但受人尊敬
-- **Thoric的妻子**: 丈夫远航时管理村庄
+---
 
 ## 原文与解析
 
-### 第一章：新大陆
+### 第1段
 
-**原文**:
+**原文**：
+> Capitolo 1 – Nuove terre Centinaia e centinaia di anni fa esisteva un villaggio di vichinghi. Quel villaggio si chiamava Asglor. I vichinghi vivevano nel nord Europa e le loro terre erano molto fredde e poco fertili.
 
-Centinaia e centinaia di anni fa esisteva un villaggio di vichinghi. Quel villaggio si chiamava Asglor. I vichinghi vivevano nel nord Europa e le loro terre erano molto fredde e poco fertili. Si dice che, in parte, sia questo il motivo per cui i vichinghi cercavano sempre nuove terre.
+**翻译**：
+第一章——新大陆——几百年前，存在一个维京人的村庄。那个村庄叫Asglor。维京人生活在北欧，他们的土地非常寒冷且贫瘠。
 
-**翻译**:
-几百年前，存在一个维京人的村庄。那个村庄叫Asglor。维京人生活在北欧，他们的土地非常寒冷而且不太肥沃。可以说，部分原因就是因为这个，维京人总是在寻找新的土地。
-
-**注释**:
-- **词汇**: vichinghi（维京人), villaggio（村庄), fertili（肥沃的）
-- **语法**: Si dice（据说），无人称表达
-
----
-
-**原文**:
-
-Thoric rispettava Eskol, il suo capo. Lui era un uomo molto imponente, con dei capelli lunghissimi come nessun altro e aveva grandi muscoli. La sua voce era molto profonda. Lo rispettava, però Eskol era anche un uomo molto severo e a volte piuttosto crudele.
-
-**翻译**:
-Thoric尊敬他的首领Eskol。他是一个非常威严的人，有着无人能比的超长头发和发达的肌肉。他的声音很低沉。他尊敬Eskol，但Eskol也是一个非常严厉的人，有时相当残酷。
-
-**注释**:
-- **词汇**: imponente（威严的), severo（严厉的）, crudele（残酷的）
-- **表达**: a volte（有时）
+**注释**：
+- 词汇：il vichingo（维京人）、fertile（肥沃的）
+- 语法：centinaia e centinaia di（好几百...）
 
 ---
 
-**原文**:
+### 第2段
 
-Il capo Eskol annunciò al suo popolo che bisognava navigare verso ovest per trovare nuove terre. L'inverno stava arrivando e c'era già poco cibo a disposizione.
+**原文**：
+> Si dice che, in parte, sia questo il motivo per cui i vichinghi cercavano sempre nuove terre. Nel villaggio di Asglor viveva un ragazzo che non poteva avere più di vent'anni e che si chiamava Thoric.
 
-**翻译**:
-Eskol首领向他的子民宣布，必须向西航行寻找新的土地。冬天即将来临，而且可支配的食物已经很少了。
+**翻译**：
+据说，在一定程度上，这就是维京人不断寻找新土地的原因。在Asglor村住着一个不超过二十岁的年轻人，名叫Thoric。
 
-**注释**:
-- **词汇**: navigare（航行), ovest（西方), disponibile（可支配的）
-- **语法**: bisognava（需要），未完成时表示持续或重复的情况
-
----
-
-### 第二章：大海
-
-**原文**:
-
-Due settimane più tardi, le barche continuavano ad andare, però non si vedeva nessuna terra. Si vedeva solo acqua. Né si vedevano uccelli. Alcuni vichinghi cominciarono a fare domande al capo Eskol.
-
-– Capo Eskol, sei sicuro che ci sia terra a ovest?
-
-– Sono estremamente sicuro.
-
-**翻译**:
-两周后，船继续航行，但看不到任何土地。只看到水。也看不到鸟。一些维京人开始向首领Eskol提问。
-
-– Eskol首领，你确定西方有土地吗？
-
-– 我非常确定。
-
-**注释**:
-- **词汇**: settimane（周), ucelli（鸟), estremamente（非常地）
-- **表达**: Due settimane più tardi（两周后）
+**注释**：
+- 词汇：in parte（部分程度上）、il motivo（原因）
+- 语法：non poteva avere più di（不超过...）
 
 ---
 
-**原文**:
+### 第3段
 
-Quello stesso giorno e quasi all'improvviso cominciò a piovere e l'acqua sotto le barche cominciò ad agitarsi. Le imbarcazioni potevano appena mantenere la rotta. Il mare era in burrasca.
+**原文**：
+> Thoric era molto forte e coraggioso per la sua età ed era un ragazzo davvero maturo. Era molto alto, aveva i capelli castani e lunghi, un naso prominente, una bocca grande e braccia e gambe forti.
 
-**翻译**:
-就在同一天，几乎突然地，开始下雨了，船下的水开始翻涌。船只勉强能保持航线。大海在咆哮。
+**翻译**：
+Thoric就他的年龄来说非常强壮和勇敢，是一个真正成熟的男孩。他很高，有棕色长发，一个高挺的鼻子，一张大嘴巴和强壮的臂膀和双腿。
 
-**注释**:
-- **词汇**: burrasca（风暴）, imbarcazioni（船只）, rotta（航线）
-- **表达**: all'improvviso（突然地）
-
----
-
-**原文**:
-
-Giorgio vide qualcosa nel cielo. All'inizio pensò di stare sognando però dopo aprì bene gli occhi.
-
-– Niels, svegliati! Dobbiamo avvisare il capo Eskol!
-
-– Ci sono degli uccelli nel cielo!
-
-– La terra è vicina!
-
-**翻译**:
-Giorgio在天空中看到了什么。起初他以为自己在做梦，但后来他睁大眼睛看了看。
-
-– Niels，醒醒！我们必须警告Eskol首领！
-
-– 天空中有鸟！
-
-– 陆地近了！
-
-**注释**:
-- **词汇**: svegliati（醒来), uccelli（鸟）
-- **语法**: 命令式（Svegliati！醒醒！）
+**注释**：
+- 词汇：coraggioso/a（勇敢的）、maturo/a（成熟的）
+- 语法：per la sua età（就他的年龄来说）
 
 ---
 
-### 第三章：决定
+### 第4段
 
-**原文**:
+**原文**：
+> Thoric era stato a caccia come ogni giorno e al suo ritorno incontrò l'esploratore Niels. Niels era solito trascorrere molto tempo lontano dal villaggio di Asglor. Andava a esplorare nuove terre da poter coltivare.
 
-Il capo Eskol rivelò a Thoric che chi gli aveva parlato dell'esistenza delle terre a ovest era stato il padre di Niels.
+**翻译**：
+Thoric像每天一样去打猎，回来时遇到了探险家Niels。Niels习惯于在远离Asglor村的地方度过很长时间，去探索可以耕种的新土地。
 
-**翻译**:
-Eskol首领向Thoric透露，曾告诉他西方存在土地的人，是Niels的父亲。
-
-**注释**:
-- **词汇**: rivelò（透露), esistenza（存在）
-- **语法**: chi gli aveva parlato（那个曾跟他说话的人），远过去时
-
----
-
-**原文**:
-
-Il villaggio sembrava così diverso da quelli che avevano sempre visto. Per i vichinghi quelle case erano strane. C'erano uomini, donne e bambini con abbellimenti sul corpo e la pelle più scura. Portavano vestiti curiosi e parlavano una lingua molto bizzarra.
-
-**翻译**:
-村庄看起来和他们以前见过的完全不同。对维京人来说，那些房子很奇怪。那里有男人、女人和孩子们，身上有装饰物，皮肤更黑。他们穿着奇怪的衣服，说着一种很奇特的语言。
-
-**注释**:
-- **词汇**: abbellimenti（装饰物), bizzarra（奇特的）
-- **文化**: 这是对美洲土著人的描写
+**注释**：
+- 词汇：a caccia（打猎）、l'esploratore（探险家）
+- 语法：solito fare（习惯做...）
 
 ---
 
-**原文**:
+### 第5段
 
-Ho pensato che sarebbe stato più difficile!
+**原文**：
+> Il villaggio di Asglor era molto tranquillo. Anche se era ancora mattina presto. Il sole aveva una luce debole. Niels vide Thoric tornare dalla caccia. Lo salutò con la mano e gli fece un gesto.
 
-**翻译**:
-我原以为这会更难！
+**翻译**：
+Asglor村非常安静。虽然还是一大早。阳光很微弱。Niels看到Thoric从打猎回来。他向Thoric挥手打招呼，做了个手势。
 
-**注释**:
-- **词汇**: pensato（认为）, difficile（困难的）
-- **表达**: Ho pensato che...（我原以为...）
+**注释**：
+- 词汇：tranquillo/a（安静的）、la luce（光线）
+- 语法：anche se（虽然），让步从句
+
+---
+
+### 第6段
+
+**原文**：
+> – Thoric! – Ciao, Niels! Sei ancora qui al villaggio? – Sì, ragazzo. Rimango al villaggio per due giorni. – E dopo dove andrai?
+
+**翻译**：
+"Thoric！""你好，Niels！你还在村子里？""是的，小伙子。我还会在村里待两天。""之后你要去哪里？"
+
+**注释**：
+- 词汇：il villaggio（村庄）
+- 语法：dove andrai（你要去哪里），简单将来时
+
+---
+
+### 第7段
+
+**原文**：
+> – Non lo so, il capo Eskol dice che è un posto molto lontano. Thoric rispettava Eskol, il suo capo. Lui era un uomo molto imponente, con dei capelli lunghissimi come nessun altro e aveva grandi muscoli.
+
+**翻译**：
+"我不知道，Eskol首领说是一个非常远的地方。"Thoric尊敬他的首领Eskol。他是一个非常魁梧的人，有着无人能比的超长头发和巨大的肌肉。
+
+**注释**：
+- 词汇：il capo（首领）、imponente（魁梧的）
+- 语法：come nessun altro（像没有人一样），最高级
+
+---
+
+### 第8段
+
+**原文**：
+> La sua voce era molto profonda. Lo rispettava, però Eskol era anche un uomo molto severo e a volte piuttosto crudele. Thoric era sicuro che in fondo il capo doveva essere un uomo buono e semplice.
+
+**翻译**：
+他的声音非常低沉。他尊敬Eskol，但Eskol也是一个非常严厉、有时相当残忍的人。Thoric确信，归根结底首领应该是一个善良单纯的人。
+
+**注释**：
+- 词汇：severo/a（严厉的）、crudele（残忍的）
+- 语法：in fondo（归根结底）
+
+---
+
+### 第9段
+
+**原文**：
+> – Il capo Eskol ha nuovi piani? – chiese Thoric. – Sì. Però non ha detto quali sono... Ha detto solamente che questa volta bisogna esplorare molto lontano.
+
+**翻译**：
+"Eskol首领有新计划吗？"Thoric问。"是的。但他没有说是什么计划...他只说这次必须去很远的地方探索。"
+
+**注释**：
+- 词汇：i piani（计划）
+- 语法：bisogna + 不定式（必须...）
+
+---
+
+### 第10段
+
+**原文**：
+> Il capo Eskol inviava pattuglie a esplorare fuori dal villaggio. Il villaggio era in un sito piccolo, sui fianchi delle montagne e vicino a un piccolo rio che portava al mare.
+
+**翻译**：
+Eskol首领会派巡逻队去村外探索。村子在一个小地方，位于山腰上，靠近一条通往大海的小河。
+
+**注释**：
+- 词汇：la pattuglia（巡逻队）、il fianco（侧面）
+- 语法：vicino a（靠近...）
+
+---
+
+### 第11段
+
+**原文**：
+> Purtroppo in inverno, quando gli animali emigravano, il cibo scarseggiava. Il capo Eskol voleva trovare nuove terre da coltivare.
+
+**翻译**：
+不幸的是在冬天，当动物迁徙时，食物就会短缺。Eskol首领想要找到新的土地来耕种。
+
+**注释**：
+- 词汇：emigrare（迁徙）、scarseggiare（短缺）
+- 语法：quando gli animali emigravano（当动物迁徙时）
+
+---
+
+### 第12段
+
+**原文**：
+> – Non voglio più soffrire per la scarsezza di cibo! – disse Thoric a Niels. – Neanch'io! I miei figli hanno bisogno di mangiare. Non posso dargli sempre carne.
+
+**翻译**：
+"我不想再因为食物短缺而受苦了！"Thoric对Niels说。"我也是！我的孩子们需要吃东西。我不能总是给他们肉吃。"
+
+**注释**：
+- 词汇：soffrire（遭受）、la carne（肉）
+- 语法：neanch'io（我也不...），否定的强调
+
+---
+
+### 第13段
+
+**原文**：
+> Thoric non aveva mai conosciuto i figli di Niels, però sapeva chi erano. Un paio di volte, avevano preso parte alle spedizioni con il resto del gruppo.
+
+**翻译**：
+Thoric从未见过Niels的孩子们，但他知道他们是谁。有几次，他们和其他人一起参加了探险。
+
+**注释**：
+- 词汇：prendere parte a（参加）
+- 语法：un paio di（几...），约数
+
+---
+
+### 第14段
+
+**原文**：
+> – Niels, vado a vedere se la mia famiglia riesce a vendere la carne degli animali che ho cacciato oggi. – Va bene, ragazzo.
+
+**翻译**：
+"Niels，我去看看我的家人能不能把我今天猎到的动物的肉卖掉。""好的，小伙子。"
+
+**注释**：
+- 词汇：vendere（卖）、cacciare（狩猎）
+- 语法：se + 直陈式（是否...），宾语从句
+
+---
+
+### 第15段
+
+**原文**：
+> Thoric andò a casa sua e parlò con i suoi genitori e sua sorella. La sua era una famiglia di contadini. Si guadagnavano da vivere coltivando la poca terra che potevano e vendendo la carne degli animali che Thoric cacciava.
+
+**翻译**：
+Thoric回到家，和他的父母和妹妹说话。他的家庭是一个农户家庭。他们靠在能耕种的那点土地上种植和出售Thoric猎到的动物的肉来维持生计。
+
+**注释**：
+- 词汇：il contadino（农民）、coltivare（耕种）
+- 语法：si guadagnavano da vivere（谋生）
+
+---
+
+### 第16段
+
+**原文**：
+> Quella notte Thoric non dormì bene. Pensò tanto. Pensava a quello che aveva in mente il capo Eskol. Perché tanto mistero? Verso quali terre misteriose era diretta la nuova spedizione?
+
+**翻译**：
+那天晚上Thoric睡得不好。他想了很多。他想着Eskol首领心里在想什么。为什么这么多神秘感？新的探险队要去哪个神秘的地方？
+
+**注释**：
+- 词汇：il mistero（神秘）
+- 语法：aveva in mente（心里在想）
+
+---
+
+### 第17段
+
+**原文**：
+> Duo giorni dopo Thoric tornò a cacciare. Ogni volta trovava meno animali nelle montagne. L'inverno era vicino ed era sempre più difficile trovare grandi prede.
+
+**翻译**：
+两天后Thoric又去打猎。每次在山里找到的动物都越来越少。冬天快到了，找到大型猎物越来越困难。
+
+**注释**：
+- 词汇：la preda（猎物）
+- 语法：sempre più difficile（越来越困难）
+
+---
+
+### 第18段
+
+**原文**：
+> Quando ritornò dalla caccia, incontrò di nuovo Niels. Questa volta sembrava nervoso. – Thoric! Vieni, presto!
+
+**翻译**：
+打猎回来时，他又遇到了Niels。这次Niels看起来很紧张。"Thoric！快过来！"
+
+**注释**：
+- 词汇：nervoso/a（紧张的）
+- 语法：quando ritornò（当...回来时）
+
+---
+
+### 第19段
+
+**原文**：
+> – Che succede, Niels? Perché tanta fretta? – Il capo Eskol ha chiamato tutto il villaggio. – Rivelerà i suoi piani? – Sicuramente sì! Andiamo!
+
+**翻译**：
+"发生什么事了，Niels？为什么这么急？""Eskol首领召集了全村人。""他要公布他的计划吗？""肯定是！走吧！"
+
+**注释**：
+- 词汇：la fretta（急）
+- 语法：ha chiamato（召集了），近过去时
+
+---
+
+### 第20段
+
+**原文**：
+> Thoric andò a casa sua e lasciò lì gli animali che aveva cacciato. La sua famiglia non c'era. Erano andati prima di lui a sentire il discorso del capo Eskol.
+
+**翻译**：
+Thoric回到家，把他猎到的动物留在那里。他的家人不在。他们在他之前就已经去听Eskol首领的演讲了。
+
+**注释**：
+- 词汇：lasciare（留下）
+- 语法：prima di lui（在他之前）
+
+---
+
+### 第21段
+
+**原文**：
+> Niels lo aspettava fuori e sperava di incontrare la sua famiglia nel frattempo. – La mia famiglia non è qui – gli disse Thoric. – Saranno al Gran Salone.
+
+**翻译**：
+Niels在外面等他，希望在此期间遇到他的家人。"我家人不在这里——Thoric对他说。"他们应该在大会堂。"
+
+**注释**：
+- 词汇：nel frattempo（在此期间）
+- 语法：saranno（应该是在...），未完成时表推测
+
+---
+
+### 第22段
+
+**原文**：
+> Il Gran Salone era la casa del capo Eskol. Lì viveva con sua moglie e i suoi quattro figli. Diversi lavoratori si occupavano della famiglia e delle questioni del villaggio.
+
+**翻译**：
+大会堂是Eskol首领的家。他和妻子以及四个孩子住在那里。几个工人照顾着这个家庭和村里的事务。
+
+**注释**：
+- 词汇：il lavoratore（工人）
+- 语法：si occupavano di（照顾）
+
+---
+
+### 第23段
+
+**原文**：
+> Il Gran Salone era un edificio di legno, molto spazioso, con decorazioni e statue delle divinità che i vichinghi pregavano. Dentro il Gran Salone si tenevano anche riunioni.
+
+**翻译**：
+大会堂是一座木制建筑，非常宽敞，有维京人崇拜的神灵的装饰品和雕像。大会堂里也举行会议。
+
+**注释**：
+- 词汇：la divinità（神）
+- 语法：si tenevano（举行），无人称被动
+
+---
+
+### 第24段
+
+**原文**：
+> Quando c'era qualche questione importante da comunicare al villaggio, il capo Eskol riuniva tutti quanti lì. E così aveva fatto questa volta.
+
+**翻译**：
+当有重要的村务要通知时，Eskol首领会把所有人召集到那里。这次他也是这样做的。
+
+**注释**：
+- 词汇：la questione（事务）
+- 语法：e così aveva fatto（他也这样做了）
+
+---
+
+### 第25段
+
+**原文**：
+> Thoric e Niels entrarono nel Gran Salone. C'era molta gente e faceva caldo. Non sembrava che fuori fosse quasi inverno.
+
+**翻译**：
+Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来像是快到冬天了。
+
+**注释**：
+- 词汇：il Gran Salone（大会堂）
+- 语法：non sembrava che + 虚拟式（看起来不像...）
+
+---
+
+### 第26段
+
+**原文**：
+> Tutta la gente del villaggio era riunita lì, in attesa. Il capo Eskol non c'era, però c'era sua moglie, seduta su una sedia. I suoi quattro figli, tre bambini e una bambina, erano in un angolo del salone e stavano giocando.
+
+**翻译**：
+村里的所有人都聚集在那里，等待着。Eskol首领不在，但他的妻子在，坐在椅子上。他的四个孩子，三个男孩和一个女孩，在大厅的角落里玩耍。
+
+**注释**：
+- 词汇：in attesa（等待着）
+- 语法：stavano giocando（正在玩耍），未完成进行时
+
+---
+
+### 第27段
+
+**原文**：
+> Quando il capo Eskol comparve, tutti si zittirono. Era un uomo che incuteva timore, però amava il suo popolo, nonostante fosse molto severo.
+
+**翻译**：
+当Eskol首领出现时，所有人都安静了。他是一个令人敬畏的人，但他爱他的子民，尽管他非常严厉。
+
+**注释**：
+- 词汇：zittirsi（安静下来）、incutere timore（令人敬畏）
+- 语法：nonostante + 虚拟式（尽管...）
+
+---
+
+### 第28段
+
+**原文**：
+> Cominciò a parlare: – Cari abitanti di Asglor... Per molti inverni abbiamo sofferto la fame. Sappiamo bene che il cibo a nostra disposizione non è sufficiente in inverno.
+
+**翻译**：
+他开始说话："Asglor的亲爱的居民们...很多个冬天以来我们一直在挨饿。我们都知道，冬季时我们拥有的食物是不够的。"
+
+**注释**：
+- 词汇：soffrire la fame（挨饿）
+- 语法：a nostra disposizione（我们拥有的）
+
+---
+
+### 第29段
+
+**原文**：
+> Per questo gli esploratori ed io abbiamo preso una decisione. La gente iniziò a mormorare. – Navigheremo verso ovest.
+
+**翻译**：
+因此我和探险家们已经做出了决定。人们开始低声议论。"我们将向西航行。"
+
+**注释**：
+- 词汇：navigare（航行）
+- 语法：per questo（因此）
+
+---
+
+### 第30段
+
+**原文**：
+> Qui vicino non ci sono più terre prosperose, però al di là del mare sì. Niels disse: – Però capo, si sa se c'è davvero terra a ovest?
+
+**翻译**：
+这附近再也没有富饶的土地了，但在海的那边有。Niels说："但是首领，怎么知道西部真的有土地呢？"
+
+**注释**：
+- 词汇：prospero/a（富饶的）、al di là di（在...那边）
+- 语法：si sa（人们知道吗），无人称
+
+---
+
+### 第31段
+
+**原文**：
+> – Lo sappiamo. – Come? Nessuno di noi l'ha mai vista. Il capo Eskol guardò il suo popolo, che a sua volta lo guardava con preoccupazione.
+
+**翻译**：
+"我们知道。""怎么知道的？我们中没有人见过它。"Eskol首领看着他的子民，子民们也担忧地看着他。
+
+**注释**：
+- 词汇：a sua volta（也）
+- 语法：nessuno di noi（我们中没有人）
+
+---
+
+### 第32段
+
+**原文**：
+> Finalmente disse: – Un uomo... un vichingo è stato colui che me l'ha detto. Era andato in viaggio a ovest e aveva trovato la terra. Al rientro al villaggio di Asglor morì, però prima di morire era riuscito a raccontarmi tutto.
+
+**翻译**：
+最后他说："一个人...一个维京人告诉我的。他去西方旅行，发现了土地。在返回Asglor村的路上他死了，但在死之前他成功地把一切都告诉了我。"
+
+**注释**：
+- 词汇：il rientro（返回）
+- 语法：colui che（那个...的人），特指关系代词
+
+---
+
+### 第33段
+
+**原文**：
+> La gente continuò a guardare Eskol con preoccupazione. – Amato popolo di Asglor, so che non è molto... però dobbiamo rischiare.
+
+**翻译**：
+人们继续担忧地看着Eskol。"Asglor亲爱的子民们，我知道这不多...但我们必须冒险。"
+
+**注释**：
+- 词汇：rischiare（冒险）
+- 语法：non è molto（不多），委婉说法
+
+---
+
+### 第34段
+
+**原文**：
+> Partiremo tra un mese.
+
+**翻译**：
+我们一个月后出发。
+
+**注释**：
+- 词汇：partire（出发）
+- 语法：tra un mese（一个月后），将来时
 
 ---
 
 ## 词汇表
 
-| 词汇/短语 | 释义 | 重音 | 难度 |
-|-----------|------|------|------|
+| 词汇 | 释义 | 重音 | 难度 |
+|------|------|------|------|
 | il vichingo | 维京人 | vìchingo | B1 |
-| il villaggio | 村庄 | villàggio | A1 |
-| fertile | 肥沃的 | fertìle | B1 |
-| il cacciatore | 猎人 | cacciaóre | A2 |
+| fertile | 肥沃的 | fertile | A2 |
+| coraggioso/a | 勇敢的 | coraggioso | A2 |
+| maturo/a | 成熟的 | maturo | A2 |
+| l'esploratore | 探险家 | esploratore | A2 |
 | il capo | 首领 | càpo | A1 |
-| la spedizione | 远征 | spedizióne | B1 |
+| severo/a | 严厉的 | sevèro | B1 |
+| crudele | 残忍的 | crùdele | B1 |
+| la pattuglia | 巡逻队 | pattùglia | B1 |
+| emigrare | 迁徙 | emigrare | B1 |
+| la preda | 猎物 | prèda | B1 |
+| il contadino | 农民 | contadino | A2 |
+| coltivare | 耕种 | coltivàre | A2 |
+| il mistero | 神秘 | mistère | A2 |
 | navigare | 航行 | navigàre | A2 |
-| il mare | 海 | màre | A1 |
-| la burrasca | 风暴 | burràsca | B2 |
-| la tempesta | 暴风雨 | tempèsta | A2 |
-| la terra | 土地 | tèrra | A1 |
+| prospero/a | 富饶的 | pròspero | B1 |
+
+---
 
 ## 固定表达
 
 | 表达 | 释义 | 例句 |
 |------|------|------|
-| Centinaia e centinaia di anni fa | 几百年前 | Centinaia e centinaia di anni fa... |
-| non vedeva l'ora | 迫不及待 | Non vedeva l'ora di partire. |
-| all'improvviso | 突然 | Cominciò ad urlare all'improvviso. |
-| per tutti gli dei | 看在众神的份上 | Per tutti gli dei! È vero! |
-| Non abbiamo altra scelta | 我们没有其他选择 | Non abbiamo altra scelta. |
-| Sono d'accordo | 我同意 | Sono d'accordo! |
+| Prendere parte a | 参加 | Avevano preso parte alle spedizioni |
+| In attesa | 等待 | Tutta la gente era riunita lì, in attesa |
+| A sua volta | 也 | Il capo guardò il popolo, che a sua volta lo guardava |
+| Nonostante | 尽管 | Nonostante fosse molto severo, amava il suo popolo |
+| Per questo | 因此 | Per questo abbiamo preso una decisione |
 
-## 文化注释
-
-1. **维京人历史**：维京人（北欧海盗）从8世纪到11世纪在欧洲各地活动，他们不仅是掠夺者，也是探险家、商人、农民和工匠。
-
-2. **维京人航行**：维京人是非常出色的航海者，他们到达了冰岛、格陵兰，甚至北美（比哥伦布早了几百年）。
-
-3. **维京人社会结构**：维京村庄由首领（capo）领导，有战士、农民、探险家等不同角色。Thoric作为猎人，在村庄中扮演重要角色。
-
-4. **食物短缺问题**：北欧地区由于气候寒冷，冬季食物短缺是一个严重问题，这促使维京人向外探索和扩张。
-
-## 文学手法
-
-### 叙事视角
-- **第三人称全知视角**：叙事者展现了所有人物的行动和想法，包括Thoric的勇气、Eskol的威严、Niels的探险精神。
-
-### 主题深度
-- **探索与发现**：故事描绘了人类探索未知世界的渴望，以及面对未知时的恐惧和犹豫。
-
-### 象征手法
-- **风暴**：象征着改变和转型。风暴打破了原有的平静，迫使维京人面对新的现实。
-
-### 历史背景
-- **史前美洲**：故事暗示维京人确实到达过美洲（虽然历史上这个时期有争议），反映了北欧人与北美土著可能的接触。
-
-## 主题探讨
-
-### 核心主题
-1. **探索精神**：维京人面对未知世界的好奇心和探索精神，是推动人类前进的重要力量。
-
-2. **生存与牺牲**：为了村庄的生存，一部分人必须离开家园，这是人类历史上的永恒主题。
-
-3. **文化冲突与融合**：维京人在新大陆遇到当地人，两种文化的相遇是人类历史上的重要篇章。
-
-### 与当代的关联
-- **移民与探索**：现代社会中，人们因为各种原因离开家园寻找新生活，这与维京人的故事有相似之处。
-
-- **气候变化**：故事中因为冬季即将来临、食物短缺而被迫寻找新土地，这与当代社会面临的气候变化问题有相似性。
+---
 
 ## 精读笔记
 
 ### 中意对比难点
-1. **远过去时与近过去时**：意大利语中叙述过去事件时，不同时态的使用会影响表达的细微差别。在故事中，远过去时用于描述更早发生的动作。
+1. **维京文化词汇**：Gran Salone（大会堂）、capo（首领），体现维京社会组织
+2. **条件式**：sarebbe stata、avrebbe trasformato，表示假设或不确定
+3. **泛指代词**：nessuno、tutti、qualcuno在意大利语中配合问题
 
-2. **"ci"代词**：如"ci vedevano"（我们看到），"ci"在这里没有具体意义，是习惯用法。
-
-3. **条件式**：如"sarebbe stato"（将会是），用于描述假设或不确定的情况。
+### 骨架句型
+- "C'era una volta..."（从前...）
+- "Sembra che + 虚拟式"（看起来好像...）
+- "Prima di + 不定式"（在...之前）
+- "Nonostante + 虚拟式"（尽管...）
 
 ### 可迁移表达
-- **描述外貌**：Era molto alto, aveva i capelli castani e lunghi, un naso prominente.（他很高，有棕色的长发，一个突出的鼻子。）
-- **描述情感**：Thoric non vedeva l'ora di partire.（Thoric迫不及待想要出发。）
-- **表达确定性**：Sono estremamente sicuro.（我非常确定。）
-
-### 难句回顾
-1. "Si dice che, in parte, sia questo il motivo per cui i vichinghi cercavano sempre nuove terre."（可以说，部分原因就是因为这个，维京人总是在寻找新的土地。）——无人称表达和原因从句。
-
-2. "Il capo Eskol rivelò a Thoric che chi gli aveva parlato dell'esistenza delle terre a ovest era stato il padre di Niels."（Eskol首领向Thoric透露，曾告诉他西方存在土地的人，是Niels的父亲。）——嵌套从句结构。
-
-### 思考问题
-1. 如果你是Thoric，你会选择留在新大陆还是回家？请解释你的选择。
-2. 故事中的人们在面对未知时表现出了哪些品质？你认为这些品质在今天还有意义吗？
-3. 你认为人类探索新大陆的动机是什么？与今天人们移民的动机有什么相似和不同之处？
+- 描述人物：molto forte e coraggioso, un uomo che incuteva timore
+- 描述村庄：un villaggio sui fianchi delle montagne, vicino a un rio
+- 探险相关：navigare verso ovest, esplorare nuove terre, partire tra un mese

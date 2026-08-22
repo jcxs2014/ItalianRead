@@ -1,261 +1,397 @@
 ---
-title: "02_la_creatura"
+title: "02 - La Creatura"
 lang: it
 状态: 精读中
-难度: A1-A2
+难度: A2-B1
 source: olly_richards
-author: Olly Richards
+author: "Olly Richards"
+originalUrl: "epub: Italian Short Stories for Beginners (Olly Richards) (Z-Library).epub#text/part0000_split_028.html"
+date: Sat, 22 Aug 2026 17:00:00 +0000
 ---
 
-# 02. La Creatura（神秘生物）
+# 02 - La Creatura
 
 ## 概要
+Silvia是一个喜欢远足的女性，每个周末都会去艾米利亚-罗马涅大区的Euria山徒步。这次她和朋友Giorgio一起前往，但在选择路径时，Silvia提到了一条据说有神秘毛茸茸生物的小路。一个小时后，他们发现了一个古老的木屋和一艘破旧的船，在湖中央划船时听到木屋传来奇怪的声音。当他们走近木屋查看时，发现了一些巨大的脚印，突然一个毛茸茸的巨大生物从屋里冲出来消失了。
 
-### 情节摘要
-Silvia是一个喜欢徒步旅行的女性，每个周末都会去Emilia Romagna的Monte Euria山进行徒步。一次，她和好友Giorgio一起去徒步时，发现了一座废弃的木屋和一个小湖，还看到了一些神秘的脚印。他们遇到了一个神秘的毛茸茸的生物并开始寻找它。最终发现这个"生物"其实是Silvia的父亲为了给她庆祝生日而精心策划的一个惊喜——父亲假扮成"怪物"，整个"失踪"事件其实是一场盛大的生日派对，而那座湖边的小木屋则成了送给她的礼物。
+**时间/地点**：六月；意大利艾米利亚-罗马涅大区Euria山
+**主要人物**：Silvia（喜欢远足的女性）、Giorgio（Silvia的朋友）
 
-### 时间/地点
-- **时间**: 一个六月周末
-- **地点**: 意大利Emilia Romagna大区的Monte Euria山、废弃木屋、附近村庄
-
-### 主要人物
-- **Silvia**: 喜欢徒步的中年女性，故事主角
-- **Giorgio**: Silvia的好友，喜欢徒步运动
-- **Silvia的父亲**: 假扮"生物"为女儿策划生日惊喜
-- **Claudia e Veronica**: Silvia的两位好闺蜜
+---
 
 ## 原文与解析
 
-### 第一章：徒步
+### 第1段
 
-**原文**:
+**原文**：
+> Capitolo 1 – L'escursione Silvia era una donna a cui piaceva fare escursioni. Ogni fine settimana preparava lo zaino, una bottiglia d'acqua, indossava abbigliamento da montagna e saliva sul monte Euria, in Emilia Romagna, nel nord-est d'Italia.
 
-Silvia era una donna a cui piaceva fare escursioni. Ogni fine settimana preparava lo zaino, una bottiglia d'acqua, indossava abbigliamento da montagna e saliva sul monte Euria, in Emilia Romagna, nel nord-est d'Italia.
+**翻译**：
+第一章——徒步旅行——Silvia是一个喜欢徒步旅行的女性。每个周末她都会准备背包、水瓶，穿上登山装备，然后登上意大利东北部艾米利亚-罗马涅大区的Euria山。
 
-**翻译**:
-Silvia是一个喜欢徒步旅行的女性。每个周末她都会准备好背包、一瓶水，穿上登山装备，然后去意大利东北部Emilia Romagna大区的Euria山登山。
-
-**注释**:
-- **词汇**: escursioni（徒步）, zaino（背包）, abbigliamento da montagna（登山装备）
-- **语法**: a cui piaceva（关系代词，意为"她喜欢的"）
-
----
-
-**原文**:
-
-– Giorgio, che sentiero prendiamo? Quello a sinistra o quello a destra?
-
-– Io preferisco il sentiero di sinistra.
-
-– Beh, io preferisco il sentiero di destra.
-
-– Perché, Silvia?
-
-– C'è una leggenda su quel sentiero. Sembra che ci sia una creatura grande e pelosa da quelle parti.
-
-**翻译**:
-– Giorgio，我们走哪条路？左边那条还是右边那条？
-
-– 我喜欢左边那条。
-
-– 嗯，我喜欢右边那条。
-
-– 为什么，Silvia？
-
-– 那条路上有一个传说。好像那边有一个又大又毛茸茸的生物。
-
-**注释**:
-- **词汇**: sentiero（小路）, leggenda（传说）, creatura（生物）, pelosa（毛茸茸的）
-- **表达**: che sentiero prendiamo（我们走哪条路）
+**注释**：
+- 词汇：fare escursioni（徒步旅行）、lo zaino（背包）、l'abbigliamento da montagna（登山装备）
+- 语法：a cui piaceva（她喜欢的），关系代词用法
 
 ---
 
-**原文**:
+### 第2段
 
-Pochi passi e subito aprirono la porta della casa. La coppia entrò. All'interno era tutto sporco e abbandonato. Sembrava una casa dove non si viveva più da moltissimi anni. Adesso non c'era altro che polvere.
+**原文**：
+> Si era messa d'accordo con il suo amico Giorgio per andare insieme il primo sabato del mese. Anche a Giorgio piaceva fare trekking e per questo andò volentieri con Silvia. Si incontrarono all'inizio del cammino: – Silvia! Sono qui! – gridò Giorgio. – Ti vedo! – Vengo lì!
 
-**翻译**:
-没走几步他们就推开了房子的门。这对搭档走了进去。里面又脏又荒废。看起来这房子已经很多年没人住了。现在除了灰尘什么都没有。
+**翻译**：
+她和她的朋友Giorgio约好在这个月的第一个星期六一起去。Giorgio也喜欢徒步旅行，所以他很乐意和Silvia一起去。他们在山路起点相遇："Silvia！我在这里！"Giorgio喊道。"我看到你了！""我过来了！"
 
-**注释**:
-- **词汇**: sporco（脏）, abbandonato（废弃的）, polvere（灰尘）
-- **语法**: dove non si viveva（关系从句，描述房子）
-
----
-
-### 第二章：寻找
-
-**原文**:
-
-Giorgio salì in cima alla montagna. Lassù c'era una grotta. Presto si sarebbe fatto notte. Entrò nella grotta, tirò fuori il cellulare dalla tasca e cominciò a fare un video. All'interno della grotta non c'era nessuno, però, all'improvviso sentì un urlo. Era la creatura e gli andava incontro.
-
-**翻译**:
-Giorgio爬到了山顶。那里有一个洞穴。天很快就要黑了。他走进洞穴，从口袋里掏出手机开始录像。洞穴里没有人，但突然他听到了一声尖叫。那个生物出现了，向他走来。
-
-**注释**:
-- **词汇**: grotta（洞穴）, cellulare（手机）, urlo（尖叫）
-- **表达**: si sarebbe fatto notte（天就要黑了）
+**注释**：
+- 词汇：mettersi d'accordo（约定）、il trekking（徒步）、il cammino（山路）
+- 语法：近过去时——si era messa d'accordo、andò
 
 ---
 
-**原文**:
+### 第3段
 
-Silvia non aveva notizie di Giorgio ormai da ore. Non sapeva dove fosse e non c'era copertura per il cellulare nel luogo dove si trovava. Tornò alla vecchia casa perché ormai era notte.
+**原文**：
+> Silvia si fermò e aspettò Giorgio. Giorgio andò verso Silvia correndo. – Giorgio, non correre tanto. Ti stancherai! – Non ti preoccupare, ho una bevanda energetica per il cammino.
 
-**翻译**:
-Silvia已经好几个小时没有Giorgio的消息了。她不知道他在哪里，而且那个地方手机没有信号。因为天已经黑了，她回到了那座旧房子。
+**翻译**：
+Silvia停下来等Giorgio。Giorgio跑向Silvia。"Giorgio，别跑那么快。你会累的！""别担心，我有运动饮料路上喝。"
 
-**注释**:
-- **词汇**: copertura（信号覆盖）, ormai（已经）
-- **语法**: non c'era copertura（没有信号）
-
----
-
-### 第三章：惊喜
-
-**原文**:
-
-La creatura le correva dietro e la raggiunse. Silvia cadde per terra e tirò dei calci per difendersi. La creatura l'aveva afferrata per le gambe e Silvia non poteva liberarsi.
-
-**翻译**:
-那个生物追在她后面，追上了她。Silvia摔倒在地，踢腿自卫。那个生物抓住了她的腿，Silvia无法挣脱。
-
-**注释**:
-- **词汇**: raggiunse（追上）, calci（踢腿）, afferrata（抓住）
-- **表达**: tirò dei calci（踢腿）
+**注释**：
+- 词汇：la bevanda energetica（运动饮料/能量饮品）
+- 语法：将来时——ti stancherai（你会累）、non ti preoccupare（别担心）
 
 ---
 
-**原文**:
+### 第4段
 
-La creatura si tolse la maschera... Era suo padre.
+**原文**：
+> Euria è un monte molto famoso dell'Emilia Romagna, dove molti appassionati di montagna vanno a fare trekking o a correre. Alcune famiglie vanno lì in macchina per mangiare in mezzo alla natura, altri ci vanno a fare delle foto professionali e, in estate, c'è chi va lì in campeggio.
 
-– Buon compleanno, tesoro!
+**翻译**：
+Euria山是艾米利亚-罗马涅大区非常著名的山，许多登山爱好者去那里徒步或跑步。有些家庭开车去那里在自然中野餐，其他人去做专业摄影，夏季还有人在那里露营。
 
-– Tanti auguri, Silvia! – urlarono in coro.
-
-**翻译**:
-那个生物摘下了面具……是她父亲。
-
-– 生日快乐，亲爱的！
-
-– 生日快乐，Silvia！– 大家一起喊道。
-
-**注释**:
-- **词汇**: maschera（面具）, compleanno（生日）, in coro（一起）
-- **表达**: Buon compleanno!（生日快乐！）
+**注释**：
+- 词汇：l'appassionato di montagna（登山爱好者）、il campeggio（露营）
+- 语法：c'è chi（有些人...），表示存在某类人
 
 ---
 
-**原文**:
+### 第5段
 
-Aiutarono Silvia ad alzarsi da terra e andarono davanti alla casa.
+**原文**：
+> L'Emilia Romagna è una regione d'Italia con pianure, colline e montagne, quindi le temperature possono essere molto diverse. Di solito nella zona montuosa piove molto ed è nuvoloso. A giugno il clima è mite.
 
-– I tuoi genitori ti hanno comprato questa vecchia casa e noi la restaureremo. Sarà la tua casa di villeggiatura.
+**翻译**：
+艾米利亚-罗马涅是意大利的一个大区，有平原、丘陵和山脉，因此温度可能差异很大。通常山区多雨多云。六月气候温和。
 
-**翻译**:
-他们帮助Silvia从地上站起来，然后走到房子前面。
+**注释**：
+- 词汇：la pianura（平原）、la collina（丘陵）、mite（温和的）
+- 语法：quindi（所以），表示结果
 
-– 你的父母为你买下了这座旧房子，我们会把它装修好。这将成为你的度假屋。
+---
 
-**注释**:
-- **词汇**: restaurare（装修）, casa di villeggiatura（度假屋）
-- **表达**: Aiutarono Silvia ad alzarsi（帮助Silvia站起来）
+### 第6段
+
+**原文**：
+> Silvia e Giorgio ne approfittano per andare in questo periodo, quando le temperature sono tiepide e non c'è bisogno di portare la giacca. – Giorgio, che sentiero prendiamo? Quello a sinistra o quello a destra?
+
+**翻译**：
+Silvia和Giorgio趁这个时期去，因为温度暖和，不需要带外套。"Giorgio，我们走哪条路？左边那条还是右边那条？"
+
+**注释**：
+- 词汇：il sentiero（小路）、la giacca（外套）
+- 语法：ne approfittano（趁机），ne代替前面提到的内容
+
+---
+
+### 第7段
+
+**原文**：
+> – Io preferisco il sentiero di sinistra. – Beh, io preferisco il sentiero di destra. – Perché, Silvia? – C'è una leggenda su quel sentiero. Sembra che ci sia una creatura grande e pelosa da quelle parti.
+
+**翻译**：
+"我更喜欢左边那条小路。""嗯，我更喜欢右边那条。""为什么呢，Silvia？""那条路上有一个传说。好像那边有一个又大又毛茸茸的生物。"
+
+**注释**：
+- 词汇：la leggenda（传说）、la creatura（生物）、peloso/a（毛茸茸的）
+- 语法：sembra che + 虚拟式（好像...），表示传闻
+
+---
+
+### 第8段
+
+**原文**：
+> – Tu credi a queste storie? – Potremmo andare di là allora! – Va bene, Silvia. Andiamo a destra. Un'ora più tardi, i due camminavano per un sentiero stretto, circondato da alberi e il sole si vedeva appena nel cielo.
+
+**翻译**：
+"你相信这些故事吗？""那我们可以走那边！""好吧，Silvia。我们走右边。"一个小时后，两人走在一条狭窄的小路上，四周都是树木，太阳在天空中几乎看不见。
+
+**注释**：
+- 词汇：stretto/a（狭窄的）、circondato da（被...环绕）
+- 语法：un'ora più tardi（一个小时后）
+
+---
+
+### 第9段
+
+**原文**：
+> Silvia chiese a Giorgio: – Tu credi che ci siano creature misteriose nel bosco? – Io non credo. – Perché? – Non ho mai visto nessuna creatura. Tu sì? – Non in questo bosco…
+
+**翻译**：
+Silvia问Giorgio："你相信森林里有神秘的生物吗？""我不信。""为什么？""我从来没见过任何生物。你呢？""在这片森林里没见过..."
+
+**注释**：
+- 词汇：misterioso/a（神秘的）、il bosco（森林）
+- 语法：nessuna（没有任何），表示否定
+
+---
+
+### 第10段
+
+**原文**：
+> Giorgio si chiese a cosa si riferisse, ma preferì non fare domande e proseguirono in silenzio. Per alcuni chilometri i due amici camminarono in mezzo agli alberi, lungo piccoli sentieri. Il sole non si vedeva e i loro passi li condussero a un lago, dove lì vicino c'era anche una casa.
+
+**翻译**：
+Giorgio想知道Silvia指的是什么，但宁愿不问，继续沉默前行。两位朋友在树林中沿着小路走了几公里。太阳看不见了，他们的脚步把他们带到一个湖泊旁边，湖边还有一座房子。
+
+**注释**：
+- 词汇：proseguire（继续前进）、i passi（脚步）
+- 语法：si chiese（他想知道），自反动词表示心理活动
+
+---
+
+### 第11段
+
+**原文**：
+> La casa era di legno e sembrava molto antica. – Guarda là, Giorgio! – Dove? – Là! C'è una casa di legno. – Ah, sì! La vedo! Andiamo? – E se c'è qualcuno? – Non aver paura, Giorgio. Di sicuro non c'è nessuno!
+
+**翻译**：
+那是一座木屋，看起来非常古老。"看那里，Giorgio！""哪里？""那里！有一座木屋。""啊，是的！我看到了！我们去吗？""万一有人呢？""别怕，Giorgio。肯定没人的！"
+
+**注释**：
+- 词汇：di legno（木制的）、la paura（害怕）
+- 语法：e se + 陈述（万一...），表示假设
+
+---
+
+### 第12段
+
+**原文**：
+> I due andarono verso la casa e prima di entrare esplorarono il luogo. Silvia disse: – Questa casa sembra sia stata costruita tantissimo tempo fa. – Guarda in che stato sono le finestre e il legno con cui è costruita… Sono in un brutto stato.
+
+**翻译**：
+两人朝房子走去，在进去之前先勘察了一下这个地方。Silvia说："这房子好像是很久很久以前建造的。""看看窗户和建造用的木头是什么状态...已经很破旧了。"
+
+**注释**：
+- 词汇：esplorare（勘察）、lo stato（状态）
+- 语法：sembra sia stata costruita（好像是被建造的），被动语态的虚拟式
+
+---
+
+### 第13段
+
+**原文**：
+> Si avvicinarono alla sponda del lago, dove le piccole onde facevano muovere una barchetta. La barca sembrava vecchia quanto la casa. – Silvia, ci saliamo su? – Per fare che? – Possiamo andare in mezzo al lago. Andiamo in esplorazione!
+
+**翻译**：
+他们靠近湖岸，小波浪使一艘小船轻轻晃动。那艘船看起来和房子一样古老。"Silvia，我们上船吗？""干什么？""我们可以去湖中间。探险去！"
+
+**注释**：
+- 词汇：la sponda（岸边）、l'onda（波浪）、la barchetta（小船）
+- 语法：ci saliamo su（我们上船），ci表示地点
+
+---
+
+### 第14段
+
+**原文**：
+> Va bene, andiamo! Silvia e Giorgio salirono sulla barca e si tolsero gli zaini di dosso. Il legno della barca era così vecchio che sembrava quasi spaccato. C'erano due remi. Usarono i remi per arrivare al centro del lago.
+
+**翻译**：
+"好吧，走！"Silvia和Giorgio上了船，卸下背包。船的木头太旧了，看起来几乎要裂开。有两支桨。他们用桨划到湖中心。
+
+**注释**：
+- 词汇：togliersi di dosso（卸下）、il remo（桨）、spaccato/a（裂开的）
+- 语法：così...che（如此...以至于），表示结果
+
+---
+
+### 第15段
+
+**原文**：
+> Silvia disse: – Come si sta bene qui, Giorgio! – Sì, davvero! Possiamo vedere il sole perfettamente da qui. – Sì… Vuoi fare merenda? – Ottima idea! Che hai portato?
+
+**翻译**：
+Silvia说："这里真舒服，Giorgio！""是的，真的！我们可以从这里完美地看到太阳。""是的...你想吃点心吗？""好主意！你带什么了？"
+
+**注释**：
+- 词汇：fare merenda（吃点心/野餐）、ottima idea（好主意）
+- 语法：si sta bene（很舒服），无人称表达
+
+---
+
+### 第16段
+
+**原文**：
+> Silvia tirò fuori dal suo zaino diversi dolci, bevande energetiche e un panino. – Che preferisci? – Il panino sembra buono… – Io non lo voglio, quindi questo è per te. – Grazie!
+
+**翻译**：
+Silvia从背包里拿出各种甜食、运动饮料和一个三明治。"你想要哪个？""三明治看起来不错...我不想要，所以这个给你。""谢谢！"
+
+**注释**：
+- 词汇：tirare fuori（拿出）、il dolce（甜食）、il panino（三明治）
+- 语法：questo è per te（这个给你）
+
+---
+
+### 第17段
+
+**原文**：
+> Mangiarono con calma mentre la barca rimaneva al centro del lago. All'improvviso, sentirono un rumore provenire dalla casa: – Hai sentito? – chiese Giorgio. – Sì, l'ho sentito – rispose Silvia con una faccia spaventata. – Credo che provenga dalla casa.
+
+**翻译**：
+他们悠闲地吃着，船停在湖中央。突然，他们听到一个从房子传来的声音："你听到了吗？"Giorgio问。"是的，我听到了。"Silvia惊恐地回答。"我相信是从房子传来的。"
+
+**注释**：
+- 词汇：all'improvviso（突然）、spaventato/a（惊恐的）、provenire（来自）
+- 语法：ho sentito（我听到了），近过去时
+
+---
+
+### 第18段
+
+**原文**：
+> – Lo credo anch'io. Andiamo a vedere! Giorgio e Silvia cominciarono a remare senza sosta finché arrivarono alla sponda. Si rimisero gli zaini in spalla e andarono in direzione della vecchia casa di legno.
+
+**翻译**：
+"我也这么认为。我们去看看！"Giorgio和Silvia不停地划桨直到到达岸边。他们重新背上背包，朝那座古老的木屋走去。
+
+**注释**：
+- 词汇：senza sosta（不停地）、rimettersi in spalla（重新背上）
+- 语法：finché（直到...），表示时间延续
+
+---
+
+### 第19段
+
+**原文**：
+> – Giorgio, prima non ho detto nulla, ma io volevo entrare nella casa. – Perché? Non siamo qui per fare trekking? – Sì, però nei boschi ci sono tante cose abbandonate e a me piace esplorare tutto.
+
+**翻译**：
+"Giorgio，之前我没说什么，但我想进那座房子。""为什么？我们不是来徒步的吗？""是啊，但是在森林里有很多被遗弃的东西，我喜欢探索一切。"
+
+**注释**：
+- 词汇：abbandonato/a（被遗弃的）、esplorare（探索）
+- 语法：prima（之前），表示时间先后
+
+---
+
+### 第20段
+
+**原文**：
+> – Entriamo nella casa, allora! Pochi passi e subito aprirono la porta della casa. La coppia entrò. All'interno era tutto sporco e abbandonato. Sembrava una casa dove non si viveva più da moltissimi anni. Adesso non c'era altro che polvere.
+
+**翻译**：
+"那我们进房子吧！"几步之后他们立刻推开了门。两人进去了。里面又脏又荒废。看起来像是一座很多年没人住的房子。现在除了灰尘什么都没有。
+
+**注释**：
+- 词汇：la polvere（灰尘）
+- 语法：non c'era altro che（除了...什么都没有）
+
+---
+
+### 第21段
+
+**原文**：
+> – Silvia, guarda queste. – "Queste" cosa? – Qui, accanto alla finestra. Silvia guardò. A terra, nella polvere, c'erano delle orme molto grandi. – Secondo te, di che cosa possono essere queste orme?
+
+**翻译**：
+"Silvia，看这些。""这些是什么？""这里，窗户旁边。"Silvia看过去。在地上的灰尘里，有一些非常大的脚印。"你觉得这些脚印是什么的？"
+
+**注释**：
+- 词汇：l'orma（脚印）
+- 语法：secondo te（你觉得），固定表达
+
+---
+
+### 第22段
+
+**原文**：
+> – Io credo che siano le orme di un orso! – disse Silvia. – Di un orso? Non ci sono orsi da queste parti. Gli orsi più vicini si trovano a molti chilometri di distanza su altre montagne. – Allora non so proprio cosa possano essere. Andiamocene da qui!
+
+**翻译**：
+"我相信是熊的脚印！"Silvia说。"熊？这附近没有熊啊。最近的熊在好几公里外的其他山上。""那我真的不知道可能是什么了。我们离开这里吧！"
+
+**注释**：
+- 词汇：l'orso（熊）、andiamocene（我们离开这里）
+- 语法：non so cosa possano essere（我不知道可能是什么），虚拟式
+
+---
+
+### 第23段
+
+**原文**：
+> All'improvviso, si sentì un rumore in cucina e poco dopo videro una figura molto grande e pelosa uscire di corsa dalla porta rompendo tutta al passaggio. La creatura grugniva e correva molto veloce. I due rimasero immobili finché la creatura si perse di vista nel bosco.
+
+**翻译**：
+突然，厨房里传来一个声音，随后他们看到一个又大又毛茸茸的身影从门口冲出来，所到之处都被撞坏。那个生物发出咕噜声，跑得非常快。两人一直僵在原地，直到那个生物消失在树林中看不见了。
+
+**注释**：
+- 词汇：la figura（身影）、grugnire（发出咕噜声）、persi di vista（消失在视野中）
+- 语法：si sentì（被动无人称），表示"传来"
 
 ---
 
 ## 词汇表
 
-| 词汇/短语 | 释义 | 重音 | 难度 |
-|-----------|------|------|------|
-| la creatura | 生物，生物 | creatùra | A2 |
-| fare escursioni | 徒步旅行 | — | A2 |
-| il fine settimana | 周末 | — | A1 |
-| lo zaino | 背包 | zàino | A1 |
-| la bevanda energetica | 功能饮料 | — | B1 |
-| il campeggio | 露营 | campèggio | A2 |
-| mite | 温暖的 | mìte | B1 |
-| peloso | 毛茸茸的 | pelòso | A2 |
-| il legno | 木头 | légno | A2 |
-| le onde | 波浪 | onde | B1 |
-| fare merenda | 吃点心 | — | B1 |
-| abbandonato | 废弃的 | abbandonàto | B1 |
+| 词汇 | 释义 | 重音 | 难度 |
+|------|------|------|------|
+| l'escursione | 徒步旅行 | escursióne | A2 |
+| lo zaino | 背包 | zaìno | A1 |
+| il trekking | 徒步 | trèkking | A2 |
+| il sentiero | 小路 | sentière | A2 |
+| la leggenda | 传说 | leggènda | B1 |
+| la creatura | 生物 | creatùra | A2 |
+| peloso/a | 毛茸茸的 | pelòso | A2 |
+| il bosco | 森林 | bòsco | A1 |
+| la sponda | 岸边 | spònda | B1 |
+| la barchetta | 小船 | barchétta | B1 |
+| il remo | 桨 | rèmo | B1 |
+| la merenda | 点心/野餐 | merènda | A2 |
 | la polvere | 灰尘 | pòlvere | A2 |
-| le orme | 脚印 | òrme | B1 |
+| l'orma | 脚印 | òrma | B1 |
 | l'orso | 熊 | òrso | A2 |
-| grugniva | 发出咕噜声 | grugnìva | B2 |
+| la figura | 身影 | figùra | B1 |
+
+---
 
 ## 固定表达
 
 | 表达 | 释义 | 例句 |
 |------|------|------|
-| Chi se ne importa? | 谁在乎呢？ | – E chi se ne importa? |
-| Non aver paura | 别害怕 | Non aver paura, Giorgio. |
-| Meno male! | 幸好！ | Meno male che sei qui! |
-| Che succede? | 发生什么了？ | – Che succede, Silvia? |
-| Buon compleanno! | 生日快乐！ | Buon compleanno, tesoro! |
-| in coro | 一起，异口同声 | urlarono in coro |
-| Tantissimi auguri! | 非常多的祝福！ | Tantissimi auguri, Silvia! |
+| Non ti preoccupare | 别担心 | Non ti preoccupare, ho una bevanda energetica |
+| Non aver paura | 别害怕 | Non aver paura, di sicuro non c'è nessuno |
+| E se | 万一 | E se c'è qualcuno? |
+| Andiamocene | 我们离开吧 | Andiamocene da qui! |
+| All'improvviso | 突然 | All'improvviso, sentirono un rumore |
 
-## 文化注释
-
-1. **意大利的徒步文化**：意大利是一个多山的国家，徒步旅行是意大利人非常喜爱的户外活动。Alpine地区和Apennines山区都有很多著名的徒步路线。
-
-2. **Emilia Romagna大区**：位于意大利东北部，是意大利重要的农业和美食地区，以帕尔马干酪和火腿闻名。
-
-3. **意大利的生日文化**：意大利人非常重视生日，家庭成员会精心策划惊喜派对来庆祝。
-
-4. **生日礼物传统**：在意大利，给家人购买房产或赠送贵重礼物作为生日或节日礼物是一种表达爱意的方式。
-
-## 文学手法
-
-### 叙事视角
-- **第三人称有限视角**：故事采用第三人称视角，主要跟随Silvia的视角展开，让读者与Silvia一起经历困惑、恐惧和惊喜。
-
-### 悬念设置
-- **层层悬念**：故事通过设置多重悬念吸引读者——神秘的生物是什么？Giorgio去了哪里？为什么所有人都消失了？
-
-### 前后呼应
-- **伏笔与揭示**：故事前半部分埋下的伏笔（Leggenda di una creatura pelosa）在结尾得到揭示，形成完整的故事闭环。
-
-### 幽默元素
-- **反转与惊喜**：故事的结局是一个大反转，原本恐怖的情节变成了一场温馨的生日惊喜，体现了"出乎意料又在情理之中"的喜剧效果。
-
-## 主题探讨
-
-### 核心主题
-1. **家庭之爱**：故事最核心的主题是父母对子女的爱。Silvia的父亲精心策划了这一切，只为给女儿一个难忘的生日惊喜。
-
-2. **友情与信任**：Silvia和Giorgio之间的友谊，以及所有人共同参与这个秘密行动，体现了友情的力量。
-
-3. **勇气与成长**：Silvia在面对未知恐惧时表现出勇气，最终这种"恐惧"变成了幸福的惊喜。
-
-### 与作者其他作品的联系
-Olly Richards的故事常常通过"看似恐怖实则温馨"的情节设置来制造反差，本故事延续了这一风格。
-
-### 与当代的关联
-在现代社会，人们常常忙于工作和生活，家人之间的联系可能会变得疏远。故事提醒我们，家庭成员之间的关爱和联系是非常重要的。
+---
 
 ## 精读笔记
 
 ### 中意对比难点
-1. **意大利语的"a"+定冠词结构**：如"alla casa"（到房子那里），这种结构在中文中没有直接对应。
+1. **近过去时与简单过去时**：意大利语用近过去时（ho sentito）表示刚发生的事，而中文只用"了"或"刚才"
+2. **关系代词a cui**：中文没有对应结构，需拆分为"她喜欢..."或"...的人"
+3. **虚拟式用法**：sembra che + 虚拟式表示传闻和不确定，中文常用"好像"、"据说"
 
-2. **远过去时与近过去时的区别**：故事中"si era messa d'accordo"（她已经约好）使用了远过去时，表示过去的过去发生的动作。
-
-3. **意大利语的无人称表达**：如"non si viveva più"（不再有人居住），使用si+第三人称单数形式。
+### 骨架句型
+- "Si era messo d'accordo con..."（和...约好）
+- "C'è una leggenda su..."（有...的传说）
+- "All'improvviso, sentì..."（突然，听到...）
+- "Non so cosa possano essere"（我不知道可能是什么）
 
 ### 可迁移表达
-- **描述地点方位**：nel nord-est d'Italia（在意大利东北部）
-- **描述外貌特征**：una creatura grande e pelosa（一个又大又毛茸茸的生物）
-- **表达时间**：ormai era notte（天已经黑了）
-
-### 难句回顾
-1. "Si era messa d'accordo con il suo amico Giorgio per andare insieme..."（她已经和好友Giorgio约好一起去...）——远过去时的使用。
-
-2. "Non ho mai visto niente di simile."（我从未见过类似的东西。）——典型表达。
-
-### 思考问题
-1. 你认为这个故事的主题是什么？它想告诉我们什么？
-2. 如果你是Silvia，当你发现真相时，你会有什么感受？
-3. 你的家人有没有为你策划过类似的惊喜？分享你的经历。
+- 描述徒步旅行：preparare lo zaino, indossare abbigliamento da montagna
+- 描述自然环境：un sentiero stretto circondato da alberi, un lago con una casa di legno
+- 表达害怕：con una faccia spaventata, non aver paura
