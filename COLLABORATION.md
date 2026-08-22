@@ -33,8 +33,8 @@
 ### [2026-08-22 09:20 UTC] [ItalianRead-IDE] → All
 **ItalianRead 精读系统初始化**
 - **背景**：用户在 ItalianRead 目录下建立意大利语精读工作流
-- **来源**：doppiozero（文学/B2-C1）、La Stampa（新闻/B1-B2）、Le Scienze（科学/B1-B2）
-- **变更**：创建 AGENTS.md（含 A1/A2 精读规则）、精读文件格式定义、RSS 抓取脚本 ×3
+- **来源**：doppiozero（文学/B2-C1）、La Stampa（新闻/B1-B2）、Le Scienze（科学/B1-B2）、Corriere della Sera（新闻/B1-B2）、La Repubblica（新闻/B1-B2）、Il Sole 24 Ore（经济/B2）
+- **变更**：创建 AGENTS.md（含 A1/A2 精读规则）、精读文件格式定义、RSS 抓取脚本 ×6
 - **相关文件**：`AGENTS.md`、`doppiozero/`、`lastampa/`、`lescienze/`
 - **状态**：✅ 已完成
 
