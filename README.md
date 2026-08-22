@@ -19,15 +19,17 @@
 │   ├── fetch_lescienze.py
 │   ├── fetch_corriere.py
 │   └── fetch_ilsole24ore.py
-├── content/articoli/     ← Quartz 内容目录（Markdown）
-│   └── doppiozero/       ← 文学/文化（B2-C1）
-│       └── 20260822_saturday/
-│           └── *.md       ← 合并后的精读文档（原文 + 中文分析）
+├── content/              ← Quartz 内容目录（Markdown）
+│   ├── index.md          ← 首页
+│   ├── doppiozero/       ← 文学/文化（B2-C1）
+│   │   └── 20260822_saturday/
+│   │       └── *.md      ← 精读文档
+│   └── racconti/         ← 短篇故事（未来）
+│       └── <author>/
 └── quartz/               ← Quartz 静态博客
     ├── quartz.config.yaml ← Quartz 配置
     ├── package.json       ← Node.js 依赖
-    ├── public/           ← Quartz 输出（CF Pages 部署）
-    └── content/          ← Quartz 默认内容目录（空，使用 ../content/articoli）
+    └── public/           ← Quartz 输出（CF Pages 部署）
 ```
 
 ## 来源
@@ -67,8 +69,7 @@
 
 4. **本地预览**
    ```bash
-   cd quartz
-   npx quartz build --directory ../content/articoli --serve
+   ./serve.sh
    ```
 
 5. **交互指令**：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
@@ -93,7 +94,7 @@
 
 ### 部署（Cloudflare Pages）
 
-- **构建命令**：`npx quartz build --directory ../content/articoli`
+- **构建命令**：`npx quartz build --directory ../content`
 - **输出目录**：`public/`
 - **环境变量**：`NODE_VERSION=22`
 
@@ -103,14 +104,14 @@
 
 ```bash
 cd quartz
-npm install                    # 首次安装依赖
-npx quartz build --directory ../content/articoli --serve  # 本地预览（http://localhost:8080）
-npx quartz build --directory ../content/articoli           # 生产构建
+npm install                              # 首次安装依赖
+npx quartz build --directory ../content  # 生产构建
 ```
 
 ## 注意事项
 
-- 加新来源：新建 `content/articoli/<source>/` 目录，写对应 `scripts/fetch_<source>.py`
+- 加新来源：新建 `content/<source>/` 目录，写对应 `scripts/fetch_<source>.py`
+- 短篇故事：`content/racconti/<author>/<index>_slug_jindu.md`（三位编号 000-999）
 - **Obsidian**：用户自行配置 `.obsidian/`
 - **.gitignore**：已配置 Quartz 输出、Python 缓存、macOS 临时文件等
 - **合并精读**：同一文章的原文 `.md` 和 `_jindu.md` 需要手动合并（未来可自动化）

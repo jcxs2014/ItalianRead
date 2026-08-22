@@ -22,7 +22,7 @@ show_help() {
 cmd_build() {
     echo "Building..."
     cd "$QUARTZ_DIR"
-    npx quartz build --directory ../content/articoli 2>&1 | tail -5
+    npx quartz build --directory ../content 2>&1 | tail -5
     echo "Done"
 }
 
@@ -33,7 +33,7 @@ cmd_serve() {
 
     cd "$QUARTZ_DIR"
     echo "Building..."
-    npx quartz build --directory ../content/articoli 2>&1 | tail -3
+    npx quartz build --directory ../content 2>&1 | tail -3
     echo "http://localhost:$PORT"
     echo "Ctrl+C to stop"
     (sleep 2 && open "http://localhost:$PORT") &
