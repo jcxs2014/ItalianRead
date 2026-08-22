@@ -16,7 +16,7 @@
 
 ## 文件命名规范
 - 原文：`标题_snake_case.src.md`
-- 精读：`标题_snake_case_精读.md`
+- 精读：`标题_snake_case_jindu.md`
 - 目录：`<source>/<日期_星期>/`
 
 ## 系统设计决策

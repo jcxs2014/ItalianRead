@@ -33,7 +33,7 @@
 ### [2026-08-22 09:25 UTC] [ItalianRead-IDE] → All
 **完成首次精读：doppiozero — Portello《凝视的治疗力量》**
 - **背景**：测试精读流程；发现repubblica有付费墙，改用doppiozero（有全文）
-- **变更**：新增精读文件 `02_mauro_portello_la_terapia_dello_sguardo_精读.md`（412行）
+- **变更**：新增精读文件 `02_mauro_portello_la_terapia_dello_sguardo_jindu.md`（412行）
 - **相关文件**：`doppiozero/20260822_saturday/02_mauro_portello_la_terapia_dello_sguardo_jindu.md`
 - **状态**：✅ 已完成
 
