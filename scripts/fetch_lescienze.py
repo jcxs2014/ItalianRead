@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
 """
-Fetch articles from doppiozero RSS feed.
-doppiozero - 文学/文化网站，难度 B2-C1
-RSS: https://www.doppiozero.com/articoli-doppiozero/rss.xml
+Fetch articles from Le Scienze RSS feed.
+Le Scienze - 科学/文化网站，难度 B1-B2
+RSS: https://www.lescienze.it/rss
 """
 
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
 
-FEED_URL = "https://www.doppiozero.com/articoli-doppiozero/rss.xml"
-SOURCE = "doppiozero"
+FEED_URL = "https://www.lescienze.it/rss"
+SOURCE = "lescienze"
 MAX_ARTICLES = 10
 
 
@@ -32,10 +32,10 @@ def fetch_articles():
         print("No entries found!")
         sys.exit(1)
 
-    today = datetime.utcnow()
+    today = datetime.now(timezone.utc)
     date_str = today.strftime("%Y%m%d")
     weekday = today.strftime("%A").lower()
-    output_dir = Path(__file__).parent / f"{date_str}_{weekday}"
+    output_dir = Path(__file__).parent.parent / "content" / "articles" / SOURCE / f"{date_str}_{weekday}"
     output_dir.mkdir(exist_ok=True)
 
     articles = []

@@ -1,37 +1,47 @@
 # ItalianRead — Git Ignore
 
-# 思源笔记数据库
+## Hugo 静态站点生成
+public/                 # Hugo 输出目录（部署用）
+resources/              # Hugo 资源缓存
+.hugo_build.lock        # Hugo 构建锁文件
+
+## 思源笔记数据库
 *.db
 *.db-shm
 *.db-wal
 
-# macOS
+## macOS
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# 临时文件
+## 临时文件
 *.swp
 *.swo
 *~
 .#*
 
-# 抓取缓存
+## 抓取缓存
 *.cache/
 __pycache__/
 *.pyc
 
-# 原始文章（不入 git）
+## 原始文章（不入 git）
 # 注意：.src.md 文件本地留存，不进 git 不上网站
 
-# Quartz 部署输出（未来使用）
-site/public/
-site/resource/
-
-# Obsidian 配置（用户自行管理）
+## Obsidian 配置（用户自行管理）
 .obsidian/
 
-# Python 虚拟环境
+## Python 虚拟环境
 venv/
 .venv/
 env/
+
+## Cloudflare Pages 部署相关
+# Cloudflare Pages 会从 public/ 目录读取并部署
+# 因此 public/ 不进 git（由 Hugo 构建生成）
+#
+# Cloudflare Pages 构建设置（供参考）：
+#   构建命令：hugo
+#   构建输出目录：public
+#   环境变量：HUGO_VERSION=latest

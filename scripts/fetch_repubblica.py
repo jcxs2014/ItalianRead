@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
 """
-Fetch articles from La Stampa RSS feed.
-La Stampa - 新闻网站，难度 B1-B2
-RSS: https://www.lastampa.it/rss
+Fetch articles from La Repubblica RSS feed.
+La Repubblica - 新闻网站，难度 B1-B2
+RSS: https://www.repubblica.it/rss/homepage/rss2.0.xml
 """
 
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
 
-FEED_URL = "https://www.lastampa.it/rss"
-SOURCE = "lastampa"
+FEED_URL = "https://www.repubblica.it/rss/homepage/rss2.0.xml"
+SOURCE = "repubblica"
 MAX_ARTICLES = 10
 
 
@@ -32,10 +32,10 @@ def fetch_articles():
         print("No entries found!")
         sys.exit(1)
 
-    today = datetime.utcnow()
+    today = datetime.now(timezone.utc)
     date_str = today.strftime("%Y%m%d")
     weekday = today.strftime("%A").lower()
-    output_dir = Path(__file__).parent / f"{date_str}_{weekday}"
+    output_dir = Path(__file__).parent.parent / "content" / "articles" / SOURCE / f"{date_str}_{weekday}"
     output_dir.mkdir(exist_ok=True)
 
     articles = []

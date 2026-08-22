@@ -30,6 +30,18 @@
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
 
+### [2026-08-22 09:30 UTC] [ItalianRead-IDE] → All
+**重构：采用 Hugo 静态博客方案，调整目录结构**
+- **背景**：用户决定使用 Hugo 替代 Quartz 做静态博客部署
+- **变更**：
+  - 抓取脚本移至 `scripts/`
+  - 文章移至 `content/articles/<source>/`
+  - 新增 `site/` 预留 Hugo 输出目录
+  - 更新 `.gitignore`（Hugo + Cloudflare Pages）
+  - 修正所有脚本 `datetime.utcnow()` deprecated 警告
+- **相关文件**：`scripts/`、`content/articles/`、`.gitignore`
+- **状态**：✅ 已完成
+
 ### [2026-08-22 09:25 UTC] [ItalianRead-IDE] → All
 **完成首次精读：doppiozero — Portello《凝视的治疗力量》**
 - **背景**：测试精读流程；发现repubblica有付费墙，改用doppiozero（有全文）

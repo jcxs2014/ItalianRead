@@ -8,7 +8,7 @@ RSS: https://www.ilsole24ore.com/rss/italia.xml
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
@@ -32,10 +32,10 @@ def fetch_articles():
         print("No entries found!")
         sys.exit(1)
 
-    today = datetime.utcnow()
+    today = datetime.now(timezone.utc)
     date_str = today.strftime("%Y%m%d")
     weekday = today.strftime("%A").lower()
-    output_dir = Path(__file__).parent / f"{date_str}_{weekday}"
+    output_dir = Path(__file__).parent.parent / "content" / "articles" / SOURCE / f"{date_str}_{weekday}"
     output_dir.mkdir(exist_ok=True)
 
     articles = []
