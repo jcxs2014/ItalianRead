@@ -1,18 +1,19 @@
 baseURL = "https://italianread.example.com/"
-locale = "it-IT"
+locale = "en-US"
 title = "ItalianRead — 意大利语精读"
 theme = ["github.com/imfing/hextra", "PaperMod"]
+contentDir = "../content"
 enableRobotsTXT = true
 hasCJKLanguage = true
 enableEmoji = true
 
-defaultContentLanguage = "it"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 paginate = 10
 
 [permalinks]
-  articles = "/:sections/:slug/"
+  articoli = "/:sections/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -39,7 +40,7 @@ paginate = 10
   preset = "fuzzy"
 
 [[menu.main]]
-  name = "Articoli"
+  name = "Articles"
   url = "/articoli/"
   weight = 10
 
@@ -49,6 +50,6 @@ paginate = 10
   weight = 20
 
 [[menu.main]]
-  name = "Categorie"
+  name = "Categories"
   url = "/categories/"
   weight = 30

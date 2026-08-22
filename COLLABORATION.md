@@ -30,6 +30,14 @@
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
 
+### [2026-08-22 09:40 UTC] [ItalianRead-IDE] → All
+**Hugo 站点修复：语言切换英文 / 排除 src.md / public 不入 git**
+- **变更**：
+  - locale 改为 `en-US`，菜单改为英文（Articles/Tags/Categories）
+  - `.src.md` 重命名为 `.md`，Hugo 正常构建（24 pages）
+  - `.gitignore` 已含 `site/public/`（CF Pages 部署不追踪构建产物）
+- **状态**：✅ 已完成
+
 ### [2026-08-22 09:35 UTC] [ItalianRead-IDE] → All
 **Hugo 静态博客初始化完成（Hextra + PaperMod fallback）**
 - **背景**：用户决定使用 Hugo + Hextra 做静态博客（替代 Quartz）
@@ -42,6 +50,7 @@
   - 构建测试通过（11 pages）
 - **相关文件**：`site/hugo.toml`、`site/themes/`
 - **状态**：✅ 已完成
+- **注意**：PaperMod submodule 需在干净 clone 后执行 `git submodule update --init --recursive`
 
 ### [2026-08-22 09:30 UTC] [ItalianRead-IDE] → All
 **重构：采用 Hugo 静态博客方案，调整目录结构**
