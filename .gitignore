@@ -1,9 +1,9 @@
 # ItalianRead — Git Ignore
 
 ## Hugo 静态站点生成
-public/                 # Hugo 输出目录（部署用）
-resources/              # Hugo 资源缓存
-.hugo_build.lock        # Hugo 构建锁文件
+site/public/           # Hugo 输出目录（CF Pages 部署）
+site/resources/        # Hugo 资源缓存
+site/.hugo_build.lock # Hugo 构建锁文件
 
 ## 思源笔记数据库
 *.db
