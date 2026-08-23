@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "http://localhost:8080"
+  baseUrl: "italianread.jcxs2014.workers.dev"
   ignorePatterns:
     - private
     - templates

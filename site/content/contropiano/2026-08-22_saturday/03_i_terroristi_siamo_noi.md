@@ -1,5 +1,5 @@
 ---
-title: "I "terroristi" siamo noi!"
+title: 'I "terroristi" siamo noi!'
 lang: it
 状态: 未读
 难度: B2-C1

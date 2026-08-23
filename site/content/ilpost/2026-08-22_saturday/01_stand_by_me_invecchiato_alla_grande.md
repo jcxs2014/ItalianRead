@@ -1,5 +1,5 @@
 ---
-title: ""Stand by Me" è invecchiato alla grande"
+title: '"Stand by Me" è invecchiato alla grande'
 lang: it
 状态: 未读
 难度: B1-B2

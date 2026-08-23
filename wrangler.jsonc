@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "italianread",
+  "compatibility_date": "2025-08-01",
+  "assets": {
+    "directory": "./site/quartz/public",
+    "not_found_handling": "404-page"
+  }
+}

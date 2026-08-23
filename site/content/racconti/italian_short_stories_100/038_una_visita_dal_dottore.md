@@ -1,6 +1,6 @@
 ---
 title: "038 - Una Visita Dal Dottore"
-lang it
+lang: it
 状态: 精读中
 难度: A2-B1
 source: italian_short_stories_100
