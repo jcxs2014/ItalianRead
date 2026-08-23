@@ -47,6 +47,7 @@ __pycache__/
 
 ## Obsidian 配置（用户自行管理）
 .obsidian/
+setup_obsidian.sh
 
 ## Python 虚拟环境
 venv/
