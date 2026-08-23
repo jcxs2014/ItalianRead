@@ -32,9 +32,9 @@ cmd_serve() {
     PID=$(lsof -ti :$PORT 2>/dev/null)
     [ -n "$PID" ] && echo "Port $PORT occupied, killing..." && kill $PID 2>/dev/null && sleep 1
 
-    cd "$QUARTZ_DIR"
+    cd "$SITE_DIR"
     echo "Building..."
-    npx quartz build -d ../content 2>&1 | tail -3
+    npx quartz build -d content 2>&1 | tail -3
     echo "http://localhost:$PORT"
     echo "Ctrl+C to stop"
     (sleep 2 && open "http://localhost:$PORT") &

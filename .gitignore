@@ -4,6 +4,11 @@
 .cortexkit/
 .openchamber/
 
+## 模板软连接（由multi-ide-template生成，不入库）
+check_collab.sh
+setup_multi_ide.sh
+sync_memory.sh
+
 ## 故事书源文件（epub，不入git）
 storybook/
 
