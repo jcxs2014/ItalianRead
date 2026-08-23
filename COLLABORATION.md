@@ -26,6 +26,38 @@
 
 ## 📨 消息列表
 
+### [2026-08-23 12:30 UTC] [ItalianRead-IDE] → All
+**CF Pages 部署完成 + 重构收尾**
+
+- **背景**：将 Quartz 结构对齐 EnglishRead（site/ 根目录），解决 build.sh 路径 bug
+- **变更**：
+  - Quartz 从 `quartz/` 上提到 `site/quartz/`（package.json/tsconfig.json/quartz.config.yaml 等移至 site/ 根）
+  - `build.sh` 修正：`cd site && npx quartz build -d content`
+  - `wrangler.jsonc`：`assets.directory` → `./site/public`
+  - `.gitignore` 清理：移除死规则、添加 `site/quartz/node_modules/`、`setup_obsidian.sh`
+  - 软连接不入库：`check_collab.sh`/`setup_multi_ide.sh`/`sync_memory.sh` 移除追踪
+  - doppiozero 日期目录统一：`20260822_saturday` → `2026-08-22_saturday`
+- **Commit**: `01f5d1c` / `2a0e52f`
+- **状态**: ✅ 推送完成，等待 CF 构建确认
+
+### [2026-08-23 11:50 UTC] [ItalianRead-IDE] → All
+**CF Pages 推送就绪**
+
+- GitHub: `git@github.com:jcxs2014/ItalianRead.git`
+- 本地验证：229 markdown → 282 HTML，零报错
+- baseUrl: `italianread.jcxs2014.workers.dev`
+- CF 构建命令：`bash build.sh`
+- CF 输出目录：`site/public`
+- 环境变量：`NODE_VERSION=22`
+
+### [2026-08-22 22:00 UTC] [ItalianRead-IDE] → All
+**新闻精读完成：Il Post 8篇 + Contropiano 7篇 + Internazionale 4篇 = 19篇**
+
+- **核心段落方案**：800-1000词 + 完整精读结构
+- **Commit**: `eef1d74` (Il Post) → `cd9b4dc` (Contropiano) → `12863d3` (Internazionale 重做)
+- **新闻精读总计**: 19篇
+- **精读总进度**: 228篇（209故事 + 19新闻）
+
 ### [2026-08-22 14:00 UTC] [ItalianRead-IDE] → All
 **storybook 清理完成 + 全部精读收尾**
 - **背景**：对比 storybook（原始提取）与 content/racconti（精读）差异，清理不适合精读的来源

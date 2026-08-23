@@ -7,117 +7,88 @@
 
 ```
 ~/Documents/Works/ItalianRead/
-├── README.md              ← 本文件（唯一权威项目文档）
+├── README.md              ← 本文件
 ├── AGENTS.md             ← agent 操作手册
-├── COLLABORATION.md      ← 协作消息板
+├── COLLABORATION.md      ← 协作记录
 ├── .memory/              ← 本机工作记忆
-│   └── ItalianRead_MEMORY.md
+├── .obsidian/            ← Obsidian 配置（用户自行管理，不入git）
 ├── .gitignore            ← gitignore（含 Quartz + CF Pages）
+├── build.sh              ← CF Pages 构建脚本
+├── serve.sh              ← 本地预览脚本
+├── wrangler.jsonc        ← Workers 配置文件
 ├── scripts/              ← 抓取脚本
 │   ├── fetch_doppiozero.py
-│   ├── fetch_lastampa.py
-│   ├── fetch_lescienze.py
-│   ├── fetch_corriere.py
-│   └── fetch_ilsole24ore.py
-├── content/              ← Quartz 内容目录（精读文档）
-│   ├── index.md          ← 首页
-│   ├── doppiozero/       ← 文学/文化精读（B2-C1）
-│   │   └── 20260822_saturday/
-│   │       └── *.md      ← 精读文档
-│   └── racconti/         ← 短篇故事精读（未来）
-│       └── <author>/
-├── storybook/            ← epub 源文件 + 提取的原始故事（不入git）
-│   ├── penguin_parallel/  ← Penguin Parallel Texts（7篇）
-│   │   └── *.epub, *.md
-│   ├── first_italian_reader/ ← First Italian Reader（55篇）
-│   │   └── *.epub, *.md
-│   └── <other_sources>/   ← 更多来源...
-└── quartz/               ← Quartz 静态博客
-    ├── quartz.config.yaml ← Quartz 配置
-    ├── package.json       ← Node.js 依赖
-    └── public/           ← Quartz 输出（CF Pages 部署）
+│   └── ...
+├── site/                 ← Quartz 静态博客（CF Pages 部署）
+│   ├── content/          ← 精读文档源
+│   │   ├── index.md      ← 首页
+│   │   ├── doppiozero/   ← 文学/文化（B2-C1）
+│   │   ├── ilpost/       ← 新闻（B1-B2）
+│   │   ├── contropiano/  ← 新闻（B2-C1）
+│   │   ├── internazionale/ ← 国际新闻（B2-C1）
+│   │   └── racconti/     ← 短篇故事精读
+│   │       ├── first_italian_reader/    ← 55篇
+│   │       ├── italian_short_stories_100/ ← 97篇
+│   │       ├── penguin_parallel/         ← 7篇
+│   │       └── ...
+│   ├── quartz/           ← Quartz 框架
+│   │   ├── quartz.config.yaml
+│   │   ├── package.json
+│   │   └── public/       ← 构建产物（自动生成）
+│   └── public/           ← 静态输出（CF Pages 托管）
+├── storybook/            ← epub 源文件（不入git）
+└── news/                 ← Calibre 新闻抓取（不入git）
 ```
 
-## 来源
+## 内容统计
 
-| 来源       | RSS URL                                              | 类别   | 难度  |
-| ---------- | ---------------------------------------------------- | ------ | ------ |
-| doppiozero | `doppiozero.com/articoli-doppiozero/rss.xml`     | 文学/文化 | B2-C1 |
+| 来源                      | 篇数 | 难度     |
+| ------------------------- | ---- | -------- |
+| doppiozero                | 4    | B2-C1   |
+| ilpost                    | 8    | B1-B2   |
+| contropiano               | 7    | B2-C1   |
+| internazionale            | 4    | B2-C1   |
+| racconti (总计)           | 205  | A2-C1   |
+| **总计**                      | **228** |          |
 
-> **注意**：La Stampa / Corriere / Il Sole 24 / Le Scienze 的 RSS 仅含摘要（数十词），不适合精读。如需更多来源，请手动抓取全文或寻找其他 RSS 含全文的来源。
+## Quartz 部署
 
-## 每日工作流
+### 本地预览
 
-> **节奏**：手动触发，用户说"抓文" → 抓文 + 自动选 3-4 篇 + 开精读。
+```bash
+./serve.sh          # 启动 http://localhost:8080
+./serve.sh build    # 仅构建
+./serve.sh clean    # 清理产物
+```
 
-1. **抓文**（手动触发）
-   ```bash
-   cd ~/Documents/Works/ItalianRead
-   python3 scripts/fetch_doppiozero.py
-   ```
+### Cloudflare Pages 部署
 
-2. **自动选 3-4 篇**（AI 完成）
-   - 长度适中（约 500–2500 词）
-   - 题材多样，避免撞主题
-   - 敏感剔除：政治/宗教极端/暴力 → 跳过
-   - **语言密度**：长难句多、可读性高者优先
-   - 去重：检查之前已抓取的 URL
-
-3. **精读**（交给 AI 助手）
-   - 逐句：原句 / 自然中文 / 句子结构 / 关键词 / 地道表达 / "为什么这样写"
-   - 重点标注**动词变位**、**名词单复数**、**前置词搭配**
-   - 词汇分级标注 A1/A2/B1/B2 级别
-   - 段落逻辑分析；长难句专项
-   - 文末总结：核心词汇 / 表达 / 语法 / 长难句 / 写作技巧 / 可迁移表达
-   - **合并规则**：每篇原文 + 对应精读合并为一个 `.md` 文件，精读内容优先展示
-
-4. **本地预览**
-   ```bash
-   ./serve.sh
-   ```
-
-5. **交互指令**：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
-
-## 精读核心原则
-
-- 以理解意语原文为核心，**不做逐词翻译**。
-- A1/A2 级别需更注重**动词变位**标注和**基础语法解释**。
-- 词汇分级：A1/A2（基础）→ B1/B2（进阶）→ C1（高级）。
-- 重点放在长难句、易误解句、高级词汇、地道/学术表达、论证衔接词。
-- 报告要素：原句 / 自然中文 / 句子结构 / 关键词 / 地道表达 / "为什么这样写"；长难句专项。
-- 交互指令：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译。
-
-## Quartz 静态博客
-
-### 特点
-- Obsidian 兼容（wikilinks、backlinks、transclusions）
-- 双向图谱视图
-- SPA 路由，快速导航
-- 全局搜索
-- 响应式设计，暗/亮模式切换
-
-### 部署（Cloudflare Pages）
-
-- **构建命令**：`npx quartz build --directory ../content`
-- **输出目录**：`public/`
-- **环境变量**：`NODE_VERSION=22`
-
-> 注意：本地 `npm install` 只需首次运行或 `package.json` 变化时执行。CF Pages 会自动安装依赖。
+- **Build command**: `bash build.sh`
+- **Build output directory**: `site/public`
+- **环境变量**: `NODE_VERSION=22`
 
 ### Quartz 命令
 
 ```bash
-cd quartz
-npm install                              # 首次安装依赖
-npx quartz build --directory ../content  # 生产构建
+cd site
+npm install --legacy-peer-deps
+npx quartz build -d content    # 构建
 ```
 
-## 注意事项
+## 精读核心原则
 
-- 加新来源：新建 `content/<source>/` 目录，写对应 `scripts/fetch_<source>.py`
-- 短篇故事：`content/racconti/<author>/<index>_slug.md`（三位编号 000-999）
-  - epub 源文件放入 `storybook/`（不入git）
-  - 提取脚本 TBD
-- **Obsidian**：用户自行配置 `.obsidian/`
-- **.gitignore**：已配置 Quartz 输出、Python 缓存、macOS 临时文件等
-- **合并精读**：同一文章的原文 `.md` 和 `_jindu.md` 需要手动合并（未来可自动化）
+- **精读格式**：概览 → 逐句精读（中文理解/句子结构/动词变位/关键词/表达方式）→ 词汇分级 → 长难句 → 总结 → 可迁移表达
+- **词汇分级**：⭐基础(A1-A2) / ⭐⭐中级(B1) / ⭐⭐⭐进阶(B2) / ⭐⭐⭐⭐高级(C1)
+- **故事精读**：chunk分段结构（原文→翻译→注释）+ 词汇表 + 固定表达 + 文化注释 + 文学手法 + 主题探讨 + 精读笔记
+- **新闻精读**：800-1000词核心段落 + 完整精读结构
+
+## 来源
+
+| 来源           | 类型   | 难度  |
+| -------------- | ------ | ----- |
+| doppiozero     | 文学/文化 | B2-C1 |
+| Il Post        | 新闻   | B1-B2 |
+| Contropiano    | 政治/社会 | B2-C1 |
+| Internazionale  | 国际   | B2-C1 |
+
+Calibre 新闻源（需手动抓取）：Il Post, Internazionale, Contropiano 等。
