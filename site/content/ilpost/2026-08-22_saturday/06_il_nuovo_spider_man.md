@@ -57,6 +57,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："meno cervellotica" = "不那么烧脑的"；"rispetto a" = "与...相比"。
 
+**段落逻辑**：票房成绩 → 三周破20亿 → 故事简单吸引更广观众
+
 ---
 
 ### 第2段：成功原因
@@ -101,6 +103,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 ---
 
+**段落逻辑**：成功归因 → 角色熟悉度、动作幽默平衡、演员阵容 → 新锐导演注入个人风格
+
 ### 第3段：电影特色
 
 > **原句5:** A differenza dei precedenti film Marvel, questo Spider-Man si concentra maggiormente sulle relazioni umane e sul senso di responsabilità.
@@ -141,6 +145,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - richiamano i primi fumetti（让人想起最早的漫画）
 
 **表达方式**："apprezzare" = "赞赏"；"richiamare" = "让人想起/呼应"。
+
+**段落逻辑**：聚焦人际关系和责任感 → 保留经典元素呼应原作 → 观众认可
 
 ---
 

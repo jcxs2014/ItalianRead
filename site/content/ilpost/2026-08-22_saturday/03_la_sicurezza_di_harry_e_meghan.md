@@ -58,6 +58,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："rinunciare a" = "放弃..."。
 
+**段落逻辑**：退出王室 → 美国新生活 → 安保问题重现 → 哈里上诉 → 法律专家评估 → 政府称非权利是风险决策
+
 ---
 
 ### 第2段：安全争议
@@ -117,6 +119,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - in pericolo（处于危险中）
 
 **表达方式**："fare ricorso contro" = "对...提出上诉"；"essere in pericolo" = "处于危险中"。
+
+**段落逻辑**：安全争议核心 → 政府撤回外交保护 → 哈里上诉 → 政府称基于风险评估 → 法律专家警告先例
 
 ---
 

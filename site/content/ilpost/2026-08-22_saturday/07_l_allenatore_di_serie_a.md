@@ -61,6 +61,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："fare scalpore" = "引起轰动/关注"。
 
+**段落逻辑**：前意甲教练LinkedIn求职 → 足球界传统方式通过人脉 → 引发轰动
+
 ---
 
 ### 第2段：背景分析
@@ -98,7 +100,11 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："la maggior parte di" = "...的大多数"。
 
+**段落逻辑**：帅位频繁变动 → 教练常一夜失业 → 传统依靠人脉而非公共平台
+
 ---
+
+**段落逻辑**：帅位频繁变动 → 教练常一夜失业 → 传统依靠人脉而非公共平台
 
 ### 第3段：社会反响
 
@@ -133,6 +139,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - nell'era digitale（在数字化时代）
 
 **表达方式**："sollevare domande" = "引发问题"。
+
+**段落逻辑**：赞扬勇气 vs 质疑透明度 → 引发足球就业市场数字化思考
 
 ---
 

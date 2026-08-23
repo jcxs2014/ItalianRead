@@ -67,6 +67,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Perché X non Y?"（为什么X不Y？）
 
+**段落逻辑**：最严重问题 → 仅极端事件才被讨论 → 日常性遗忘 → 核心问题提出
+
 ---
 
 ### 第2段：媒体机制
@@ -124,6 +126,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："fare notizia" = "成为新闻"。
 
+**段落逻辑**：新闻依赖时事 → 气候危机是缓慢过程 → 不符合新闻价值逻辑 → 洪水上新闻渐暖不上
+
 ---
 
 ### 第3段：经济利益
@@ -178,6 +182,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - distogliere l'attenzione（转移注意力）
 
 **表达方式**："distogliere l'attenzione da" = "从...转移注意力"。
+
+**段落逻辑**：资本主义需要消费者 → 广告驱动媒体 → 化石公司巨额传播投资 → 转移责任关注
 
 ---
 

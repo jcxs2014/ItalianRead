@@ -61,6 +61,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - bombano paesi stranieri（轰炸外国）
 - per interessi economici（为了经济利益）
 
+**段落逻辑**：移民与恐怖主义挂钩 → 术语工具性使用 → 真正恐怖分子另有其人
+
 ---
 
 ### 第2段：历史分析
@@ -108,6 +110,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："additare come" = "指责为..."。
 
+**段落逻辑**：八十年构建敌人形象 → 西方发明恐怖主义控制世界 → 移民成替罪羊
+
 ---
 
 ### 第3段：社会反思
@@ -138,6 +142,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - costruire ponti（建造桥梁）
 
 **表达方式**："costruire ponti" = "建造桥梁"（比喻）。
+
+**段落逻辑**：制度性种族主义是民主威胁 → 停止寻找敌人 → 开始建造桥梁
 
 ---
 

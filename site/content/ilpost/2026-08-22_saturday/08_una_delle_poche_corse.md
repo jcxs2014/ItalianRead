@@ -72,6 +72,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："tranne" = "除了"。
 
+**段落逻辑**：赛事介绍 → 波加查尔近年绝对统治 → 几乎赢得所有比赛
+
 ---
 
 ### 第2段：竞争格局
@@ -124,6 +126,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："si chiede se" = "自问是否..."。
 
+**段落逻辑**：对手认命争第二 → 近年差距惊人 → 组织者质疑对运动利弊
+
 ---
 
 ### 第3段：未来展望
@@ -155,6 +159,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - la partecipazione a tutte le grandi corse（参加所有大赛）
 
 **表达方式**："rendere difficile" = "使...变得困难"。
+
+**段落逻辑**：仍有目标未完成 → 赛程拥挤难以参加所有大赛
 
 ---
 

@@ -64,6 +64,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - il pilastro meridionale della Nato（北约的南部支柱）
 - per decenni（几十年来）
 
+**段落逻辑**：土耳其对内塔尼亚胡发国际逮捕令 → 象征性多于实质 → 但显示日益增长的对立
+
 ---
 
 ### 第2段：利益分析
@@ -113,6 +115,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："stare in entrambe le alleanze" = "同时处于两个联盟"。
 
 ---
+
+**段落逻辑**：埃尔多安大马士革主导野心 → 内塔尼亚胡维持分裂现状 → 土耳其平衡两边但不孤立
 
 ## 词汇分级
 

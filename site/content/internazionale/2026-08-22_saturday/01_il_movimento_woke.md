@@ -50,6 +50,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - essere consapevoli（有意识的）
 - le ingiustizie sociali（社会不公正）
 
+**段落逻辑**：woke常被贬义使用 → 实际意味着对社会不公正的意识
+
 ---
 
 ### 第2段：批评反驳
@@ -100,6 +102,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - un processo di apprendimento collettivo（集体学习过程）
 - la società sta attraversando（社会正在经历）
 
+**段落逻辑**：被指责精英主义分裂 → 忽视社会意识不能是特权 → 是集体学习过程
+
 ---
 
 ### 第3段：积极意义
@@ -144,6 +148,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："si tratta di" = "是关于..."。
 
 ---
+
+**段落逻辑**：批评常以自由作掩护 → 扩展纳入不同视角 → 不是取消而是丰富辩论
 
 ## 词汇分级
 

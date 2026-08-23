@@ -63,6 +63,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："esistono da sempre" = "一直存在"；"non soltanto...ma anche..." = "不仅...而且..."。
 
+**段落逻辑**：失窃事件 → 普遍性问题 → 欧洲范围
+
 ---
 
 ### 第2段：安保现状
@@ -102,6 +104,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："bilanciare...e..." = "平衡...和..."；"osservare da vicino" = "近距离观察"。
 
+**段落逻辑**：价值与设施的矛盾 → 安保与开放的平衡
+
 ---
 
 ### 第3段：挑战与平衡
@@ -136,6 +140,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："a rischio" = "处于风险中"；"per via di" = "因为"。
 
+**段落逻辑**：失窃罕见但风险并存 → 风险多元（火灾/损坏/保存）
+
 ---
 
 ### 第4段：防护措施
@@ -153,6 +159,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - casseforti e teche resistenti（保险箱和坚固展示柜）
 
 ---
+
+**段落逻辑**：防护措施 → 具体设备要求 → 实际操作的困难
 
 ## 词汇分级
 

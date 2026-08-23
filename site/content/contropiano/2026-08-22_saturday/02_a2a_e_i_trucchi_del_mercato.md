@@ -68,6 +68,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - sia dovuto a（是由于）
 - i costi del mercato energetico（能源市场成本）
 
+**段落逻辑**：A2A意大利最大能源公司 → 利润创新高vs账单持续上涨 → 公司声称是市场成本
+
 ---
 
 ### 第2段：市场机制
@@ -108,6 +110,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **关键词**：
 - in modo speculativo（以投机的方式）
 - far salire i prezzi（使价格上涨）
+
+**段落逻辑**：能源公司操控价格 → 制造人为稀缺 → 投机性涨价 → 剥削公民
 
 ---
 
@@ -151,6 +155,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - per tutelare（来保护）
 
 **表达方式**："tutelare" = "保护"。
+
+**段落逻辑**：利润创新高vs账单上涨 → 公司推卸市场成本 → 能源公司操控价格
 
 ---
 

@@ -57,6 +57,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："a distanza di sicurezza" = "安全距离"。
 
+**段落逻辑**：两航母千公里外停驻 → 历史最强舰队保持安全距离 → 避免暴露对新军事技术的脆弱性
+
 ---
 
 ### 第2段：霍尔木兹封锁
@@ -91,6 +93,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - l'embargo navale（海上封锁）
 - contro Riad（针对利雅得）
 - gli impianti Aramco（沙特阿美炼油厂）
+
+**段落逻辑**：霍尔木兹海峡实际封锁 → 全球五分之一石油受阻 → 胡塞宣布海上封锁
 
 ---
 
@@ -141,6 +145,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："per X, ... per Y" = "对于X，...对于Y"。
 
 ---
+
+**段落逻辑**：最有效选项行不通 → 能惩罚却无法保护不再是霸权 → 对受害者粗暴对盟友勒索
 
 ## 词汇分级
 

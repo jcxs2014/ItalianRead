@@ -69,6 +69,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："ti fa vedere" = "让你看到"。
 
+**段落逻辑**：选择缓慢 → 十二小时威尼斯到锡拉库扎 → 区域火车让人看到真实意大利
+
 ---
 
 ### 第2段：旅途观察
@@ -115,6 +117,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - uliveti（橄榄园）
 - mare（大海）
 
+**段落逻辑**：乘客：退休人员学生工人 → 时间交谈看风景思考 → 风景缓慢变化
+
 ---
 
 ### 第3段：文化反思
@@ -149,6 +153,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："non solo...ma anche" = "不仅...而且"。
 
 ---
+
+**段落逻辑**：慢速火车成生活方式 → 重新发现旅行乐趣不仅是目的地
 
 ## 词汇分级
 

@@ -62,6 +62,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 ---
 
+**段落逻辑**：回归1990年都柏林公约 → 法规规定责任归属 → 海路抵达须遣返
+
 ### 第2段：政治背景
 
 > **原句4:** Chi arriva via mare in Italia e poi si sposta in un altro Paese europeo viola il regolamento, e può essere rispedito indietro.
@@ -99,6 +101,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - intensificato i controlli alle frontiere（加强边境管制）
 - le procedure di espulsione（驱逐程序）
 
+**段落逻辑**：术语定义 → 非法越境申请庇护 → 政府加强边境控制 → 加速驱逐程序
+
 ---
 
 ### 第3段：社会反响
@@ -123,6 +127,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 **关键词**：
 - riflette le tensioni（反映紧张局势）
 - la gestione dell'immigrazione（移民管理）
+
+**段落逻辑**：反对派指责 → 移民作替罪羊 → 反映欧洲移民管理深层矛盾
 
 ---
 

@@ -52,6 +52,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - attraversare frontiere（穿越边界）
 - essere attraversato da（被...塑造）
 
+**段落逻辑**：传教士人类学家的跨边界经历 → 城市不安全感促使反思
+
 ---
 
 ### 第2段：社会观察
@@ -114,6 +116,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："la forza di" = "...的力量"。
 
+**段落逻辑**：恐惧是制造的 → 民主基于宪法 → 思想力量不同于武器力量
+
 ---
 
 ### 第3段：历史与权力
@@ -143,6 +147,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："un campo di battaglia" = "一个战场"。
 
 ---
+
+**段落逻辑**：控制现在控制过去 → 记忆是政治战场 → 权力与历史书写
 
 ## 词汇分级
 

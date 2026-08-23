@@ -60,7 +60,11 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："essere riservato a" = "仅限于..."；"rivolto a" = "面向..."。
 
+**段落逻辑**：仅限成人酒店扩散至中档 → 从豪华专属到中价位普及 → 招致批评
+
 ---
+
+**段落逻辑**：从豪华专属到中价位普及 → 招致批评
 
 ### 第2段：原因分析
 
@@ -116,6 +120,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - gestire i bisogni dei più piccoli（照顾小孩子的需求）
 
 **表达方式**："apprezzare" = "赞赏/欢迎"。
+
+**段落逻辑**：无儿童房间需求增长 → 寻求宁静 → 避免冲突 → 家长欢迎无需照顾孩子的度假
 
 ---
 

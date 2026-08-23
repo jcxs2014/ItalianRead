@@ -69,6 +69,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - gli indiani americani（美国印度安人）
 - la cittadinanza statunitense（美国公民身份）
 
+**段落逻辑**：欧洲殖民暴力 → 土地被掠文化被毁语言被禁 → 1924年才获公民权
+
 ---
 
 ### 第2段：当代挑战
@@ -115,6 +117,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - l'attenzione nazionale（全国注意力）
 - la lotta per la terra（争取土地的斗争）
 
+**段落逻辑**：当代贫困歧视污染 → 输油管道环境威胁 → Standing Rock引发全国关注
+
 ---
 
 ### 第3段：未来展望
@@ -149,6 +153,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："lungi dall'essere" = "还远未..."。
 
 ---
+
+**段落逻辑**：新一代自豪要求文化遗产 → 斗争远未结束但在进步
 
 ## 词汇分级
 

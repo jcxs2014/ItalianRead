@@ -68,6 +68,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - nazista（纳粹）
 - detenuto in Italia（被关押在意大利）
 
+**段落逻辑**：1977年8月15日越狱 → 纳粹战犯被判终身 → 唯一关押意纳粹军官
+
 ---
 
 ### 第2段：越狱经过
@@ -104,6 +106,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - in Germania（在德国）
 - fino alla morte（直到死亡）
 
+**段落逻辑**：妻子同谋帮助 → 德国藏匿多年直至死亡
+
 ---
 
 ### 第3段：历史反思
@@ -136,6 +140,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **表达方式**："sollevare interrogativi" = "引发疑问"。
 
 ---
+
+**段落逻辑**：意大利历史上最可耻篇章 → 战后司法与外交质疑
 
 ## 词汇分级
 
