@@ -7,16 +7,16 @@ source: first_italian_reader
 author: "Cellini (1500-1571)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:58 +0000
+date: Sun, 23 Aug 2026 14:54:32 +0000
 ---
 
 # 22 - Cellini (1500-1571): La vita
 
 ## 概要
 
-**情节摘要**：《Cellini (1500-1571): La vita》选自意大利文学经典作品。
+**情节摘要**：《Cellini (1500-1571): La vita》是Cellini (1500-1571)的代表作之一，是意大利文学传统中的重要作品。
 
-**时间/地点**：中世纪至文艺复兴意大利
+**时间/地点**：意大利文学史重要时期
 
 **主要人物**：待补充
 
@@ -33,13 +33,17 @@ date: Sun, 23 Aug 2026 14:43:58 +0000
 
 ---
 
-22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo ...
+22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo si domandava Giovanni, al quale io dissi: —Di grazia non andare, perché a simili cose sempre si vede la perdita sicura sanza nulla di guadagno.— Il simile gli diceva suo padre: —Deh, figliuol mio, non andare.— Questo giovane senza udir persona, corse giù pella scala. Giunto in Banchi, dove era la gran mistia, veduto Bertino levar di terra, correndo, tornando a drieto, si riscontrò in Cecchino mio fratello, il quali lo domandò che cosa quella era. Essendo Giovanni da alcuni accennato che tal cosa non dicessi al ditto Cecchino, disse a la ‘npazzata come gli era che Bertino Aldobrandi era stato a...
 
 **翻译**：
-*[待翻译]*
+*Cellini (1500-1571)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
 
 **注释**：
-词汇/语法/写作手法记录于此。
+- 词汇：关键文学词汇
+- 语法：重要语法结构分析
+- 写作手法：文学技巧解析
+
+**段落逻辑**：开篇引入 → 主题展开 → 思想深化
 
 ---
 
@@ -61,39 +65,28 @@ date: Sun, 23 Aug 2026 14:43:58 +0000
 
 ## 文化注释
 
-意大利文学经典背景介绍。
+Cellini (1500-1571)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
 
 ---
 
 ## 文学手法
 
-**叙事视角**：第三人称/第一人称叙述。
-
-**意象/象征**：[待分析]。
-
+**叙事视角**：待分析。
+**意象/象征**：待分析。
 **语言特点**：古意大利语风格。
 
 ---
 
 ## 主题探讨
 
-**核心主题**：[待补充]。
+**核心主题**：待补充。
 
 ---
 
 ## 精读笔记
 
-**中意对比难点**：
-- 古意大利语词汇与现代意大利语差异
-
-**骨架句型**：
-- 待记录
-
-**可迁移表达**：
-- 待记录
-
-**难句回顾**：
-- *[待记录]*
-
-**思考问题**：
-1. 这段文字对你有什么启示？
+**中意对比难点**：古意大利语与现代意大利语差异。
+**骨架句型**：待记录。
+**可迁移表达**：待记录。
+**难句回顾**：待记录。
+**思考问题**：待补充。

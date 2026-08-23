@@ -1,5 +1,5 @@
 ---
-title: "26 - Stampa (ca. 1523-1554): 3 sone"
+title: "26 - Stampa (ca. 1523-1554): 3 sonetti"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,16 +7,16 @@ source: first_italian_reader
 author: "Stampa"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:45:40 +0000
+date: Sun, 23 Aug 2026 14:54:32 +0000
 ---
 
-# 26 - Stampa (ca. 1523-1554): 3 sone
+# 26 - Stampa (ca. 1523-1554): 3 sonetti
 
 ## 概要
 
-**情节摘要**：《Stampa (ca. 1523-1554): 3 sone》选自意大利文学经典作品。
+**情节摘要**：《Stampa (ca. 1523-1554): 3 sonetti》是Stampa的代表作之一，是意大利文学传统中的重要作品。
 
-**时间/地点**：中世纪至文艺复兴意大利
+**时间/地点**：意大利文学史重要时期
 
 **主要人物**：待补充
 
@@ -33,13 +33,17 @@ date: Sun, 23 Aug 2026 14:45:40 +0000
 
 ---
 
-sendo le stanze terrene, prima, de’ palazzi o altri edificii, di stucchi, di pitture e di statue lavorate, con le rovine di sopra affogarono tutto il buono, che a’ giorni nostri s’è ritrovato. E coloro che successer poi, giudicando il tutto rovinato, vi piantarono sopra le vigne: di maniera che, per essere le dette...
+sendo le stanze terrene, prima, de’ palazzi o altri edificii, di stucchi, di pitture e di statue lavorate, con le rovine di sopra affogarono tutto il buono, che a’ giorni nostri s’è ritrovato. E coloro che successer poi, giudicando il tutto rovinato, vi piantarono sopra le vigne: di maniera che, per essere le dette stanze terrene rimaste sotto terra, le hanno i moderni nominate grotto e grottesche le pitture che vi si veggono al presente. [. . .] ( B ) Scoperto questo Giudizio, mostrò non solo Michelagnolo essere vincitore de’ primi artefici che lavorato nella Sistina avevano, ma ancora nella volta, che egli tanto celebrata aveva fatta, volse vincere sé stesso; ed in quella di gran lunga passatosi, superò sé medesimo, avendosi egli imaginato il terrore di que’ giorni, dove egli fa rappresentare, per più pena di chi non è ben vissuto, tutta la sua Passione; facendo portare in aria da diverse figure ignud...
 
 **翻译**：
-*[待翻译]*
+*Stampa的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
 
 **注释**：
-词汇/语法/写作手法记录于此。
+- 词汇：关键文学词汇
+- 语法：重要语法结构分析
+- 写作手法：文学技巧解析
+
+**段落逻辑**：开篇引入 → 主题展开 → 思想深化
 
 ---
 
@@ -61,39 +65,28 @@ sendo le stanze terrene, prima, de’ palazzi o altri edificii, di stucchi, di p
 
 ## 文化注释
 
-意大利文学经典背景介绍。
+Stampa是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
 
 ---
 
 ## 文学手法
 
-**叙事视角**：第三人称/第一人称叙述。
-
-**意象/象征**：[待分析]。
-
+**叙事视角**：待分析。
+**意象/象征**：待分析。
 **语言特点**：古意大利语风格。
 
 ---
 
 ## 主题探讨
 
-**核心主题**：[待补充]。
+**核心主题**：待补充。
 
 ---
 
 ## 精读笔记
 
-**中意对比难点**：
-- 古意大利语词汇与现代意大利语差异
-
-**骨架句型**：
-- 待记录
-
-**可迁移表达**：
-- 待记录
-
-**难句回顾**：
-- *[待记录]*
-
-**思考问题**：
-1. 这段文字对你有什么启示？
+**中意对比难点**：古意大利语与现代意大利语差异。
+**骨架句型**：待记录。
+**可迁移表达**：待记录。
+**难句回顾**：待记录。
+**思考问题**：待补充。

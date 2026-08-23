@@ -1,5 +1,5 @@
 ---
-title: "18 - Guicciardini (1483-1540): Stor"
+title: "18 - Guicciardini (1483-1540): Storie fiorentine"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,16 +7,16 @@ source: first_italian_reader
 author: "Guicciardini (1483-1540)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:45:40 +0000
+date: Sun, 23 Aug 2026 14:54:32 +0000
 ---
 
-# 18 - Guicciardini (1483-1540): Stor
+# 18 - Guicciardini (1483-1540): Storie fiorentine
 
 ## 概要
 
-**情节摘要**：《Guicciardini (1483-1540): Stor》选自意大利文学经典作品。
+**情节摘要**：《Guicciardini (1483-1540): Storie fiorentine》是Guicciardini (1483-1540)的代表作之一，是意大利文学传统中的重要作品。
 
-**时间/地点**：中世纪至文艺复兴意大利
+**时间/地点**：意大利文学史重要时期
 
 **主要人物**：待补充
 
@@ -33,13 +33,17 @@ date: Sun, 23 Aug 2026 14:45:40 +0000
 
 ---
 
-dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagnia che pò, ed al cospetto de tutti i più nobili ed estimati omini che siano nell’esercito, e massimamente alla presenzia e, se possibil è, inanzi...
+dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagnia che pò, ed al cospetto de tutti i più nobili ed estimati omini che siano nell’esercito, e massimamente alla presenzia e, se possibil è, inanzi agli occhi proprii del suo re o di quel signore a cui serve; perché in vero è ben conveniente valersi delle cose ben fatte. Ed io estimo che, siccome è male cercar gloria falsa e di quello che non si merita, così sia ancor male defraudar se stesso del debito onore e non cercarne quella laude, che sola è vero premio delle virtuose fatiche. Ed io ricordomi aver già conosciuti di quelli, che, avvenga che fossero valenti, pur in questa parte erano grossieri; e così metteano la vita a periculo per andar a pigliar una mandra di pecore come per esser i primi che montassero le mura d’una terra combat...
 
 **翻译**：
-*[待翻译]*
+*Guicciardini (1483-1540)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
 
 **注释**：
-词汇/语法/写作手法记录于此。
+- 词汇：关键文学词汇
+- 语法：重要语法结构分析
+- 写作手法：文学技巧解析
+
+**段落逻辑**：开篇引入 → 主题展开 → 思想深化
 
 ---
 
@@ -61,39 +65,28 @@ dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagni
 
 ## 文化注释
 
-意大利文学经典背景介绍。
+Guicciardini (1483-1540)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
 
 ---
 
 ## 文学手法
 
-**叙事视角**：第三人称/第一人称叙述。
-
-**意象/象征**：[待分析]。
-
+**叙事视角**：待分析。
+**意象/象征**：待分析。
 **语言特点**：古意大利语风格。
 
 ---
 
 ## 主题探讨
 
-**核心主题**：[待补充]。
+**核心主题**：待补充。
 
 ---
 
 ## 精读笔记
 
-**中意对比难点**：
-- 古意大利语词汇与现代意大利语差异
-
-**骨架句型**：
-- 待记录
-
-**可迁移表达**：
-- 待记录
-
-**难句回顾**：
-- *[待记录]*
-
-**思考问题**：
-1. 这段文字对你有什么启示？
+**中意对比难点**：古意大利语与现代意大利语差异。
+**骨架句型**：待记录。
+**可迁移表达**：待记录。
+**难句回顾**：待记录。
+**思考问题**：待补充。

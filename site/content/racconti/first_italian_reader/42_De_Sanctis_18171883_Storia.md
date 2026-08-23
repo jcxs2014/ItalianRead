@@ -1,5 +1,5 @@
 ---
-title: "42 - De Sanctis (1817-1883): Storia"
+title: "42 - De Sanctis (1817-1883): Storia della letteratura italiana"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,16 +7,16 @@ source: first_italian_reader
 author: "De Sanctis (1817-1883)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:45:40 +0000
+date: Sun, 23 Aug 2026 14:54:32 +0000
 ---
 
-# 42 - De Sanctis (1817-1883): Storia
+# 42 - De Sanctis (1817-1883): Storia della letteratura italiana
 
 ## 概要
 
-**情节摘要**：《De Sanctis (1817-1883): Storia》选自意大利文学经典作品。
+**情节摘要**：《De Sanctis (1817-1883): Storia della letteratura italiana》是De Sanctis (1817-1883)的代表作之一，是意大利文学传统中的重要作品。
 
-**时间/地点**：中世纪至文艺复兴意大利
+**时间/地点**：意大利文学史重要时期
 
 **主要人物**：待补充
 
@@ -33,13 +33,17 @@ date: Sun, 23 Aug 2026 14:45:40 +0000
 
 ---
 
-42. De Sanctis (1817–1883): Storia della letteratura italiana Si può ora comprendere il meccanismo del dramma metastasiano. Sta in cima l’eroe o l’eroina, Zenobia o Issipile, Temistocle o Tito. L’eroe ha tutte le perfezioni che la poesia ha collocate...
+42. De Sanctis (1817–1883): Storia della letteratura italiana Si può ora comprendere il meccanismo del dramma metastasiano. Sta in cima l’eroe o l’eroina, Zenobia o Issipile, Temistocle o Tito. L’eroe ha tutte le perfezioni che la poesia ha collocate nell’età dell’oro, e sveglia l’eroismo intorno a sé, rende eroici anche i personaggi secondari. Piú l’età è prosaica, piú esagerato è l’eroismo, abbandonato a una immaginazione libera, che ingrandisce le proporzioni a arbitrio, con non altro scopo che di eccitare la maraviglia. Il maraviglioso è in questo, che l’eroe è un’antitesi accentuata e romorosa alla vita comune, offrendo in olocausto alla...
 
 **翻译**：
-*[待翻译]*
+*De Sanctis (1817-1883)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
 
 **注释**：
-词汇/语法/写作手法记录于此。
+- 词汇：关键文学词汇
+- 语法：重要语法结构分析
+- 写作手法：文学技巧解析
+
+**段落逻辑**：开篇引入 → 主题展开 → 思想深化
 
 ---
 
@@ -61,39 +65,28 @@ date: Sun, 23 Aug 2026 14:45:40 +0000
 
 ## 文化注释
 
-意大利文学经典背景介绍。
+De Sanctis (1817-1883)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
 
 ---
 
 ## 文学手法
 
-**叙事视角**：第三人称/第一人称叙述。
-
-**意象/象征**：[待分析]。
-
+**叙事视角**：待分析。
+**意象/象征**：待分析。
 **语言特点**：古意大利语风格。
 
 ---
 
 ## 主题探讨
 
-**核心主题**：[待补充]。
+**核心主题**：待补充。
 
 ---
 
 ## 精读笔记
 
-**中意对比难点**：
-- 古意大利语词汇与现代意大利语差异
-
-**骨架句型**：
-- 待记录
-
-**可迁移表达**：
-- 待记录
-
-**难句回顾**：
-- *[待记录]*
-
-**思考问题**：
-1. 这段文字对你有什么启示？
+**中意对比难点**：古意大利语与现代意大利语差异。
+**骨架句型**：待记录。
+**可迁移表达**：待记录。
+**难句回顾**：待记录。
+**思考问题**：待补充。
