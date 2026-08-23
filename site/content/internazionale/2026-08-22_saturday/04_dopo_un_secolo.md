@@ -69,6 +69,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - si sono diffusi dall'Italia（已从意大利扩散）
 - verso altri paesi europei（到其他欧洲国家）
 
+**段落逻辑**：百年消失 → 数量20倍增长 → 从意大利扩散欧洲
+
 ---
 
 ### 第2段：生态影响
@@ -110,6 +112,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - si estende a（延伸到）
 - tutta la foresta（整个森林）
 
+**段落逻辑**：狼改变生态 → 捕食者控制猎物 → 益处延伸整林
+
 ---
 
 ### 第3段：人类反应
@@ -139,6 +143,8 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 - per i danni（为损害）
 - non tutti sono contenti（并非所有人都高兴）
 - del ritorno dei lupi（对狼的回归）
+
+**段落逻辑**：国家赔偿 → 部分补偿 → 但非人人满意人狼共存难题
 
 ---
 
