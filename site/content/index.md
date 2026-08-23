@@ -16,8 +16,8 @@ description: 意大利语精读文章列表
 | Il Post        | 8    | B1-B2   |
 | Contropiano    | 7    | B2-C1   |
 | Internazionale  | 4    | B2-C1   |
-| racconti       | 205  | A2-C1   |
-| **总计**           | **228** |          |
+| racconti       | 220  | A2-C1   |
+| **总计**           | **243** |          |
 
 ## 精读格式
 
