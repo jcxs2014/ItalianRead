@@ -18,9 +18,7 @@
 ├── wrangler.jsonc        ← Workers 配置文件
 ├── scripts/              ← 抓取脚本
 │   ├── fetch_doppiozero.py    ← doppiozero RSS（唯一有全文的RSS）
-│   ├── fetch_trafilatura.py   ← 通用全文提取（支持任意URL）
-│   ├── fetch_ilpost.py        ← Il Post API（需 pip install ilpost-api-wrapper）
-│   ├── extract_calibre.py      ← Calibre epub 批量提取
+│   ├── extract_calibre.py     ← Calibre epub 批量提取
 │   └── extract_*.py           ← 各来源专用提取
 ├── site/                 ← Quartz 静态博客（CF Pages 部署）
 │   ├── content/          ← 精读文档源
@@ -41,6 +39,7 @@
 │   └── public/           ← 静态输出（CF Pages 托管）
 ├── storybook/            ← epub 源文件（不入git）
 └── news/                 ← Calibre 新闻抓取（不入git）
+    └── scraped/          ← 手动下载的原始文章（不入git）
 ```
 
 ## 内容统计

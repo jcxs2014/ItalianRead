@@ -141,10 +141,8 @@
 - `content/<source>/` 存放精读文档
 
 ### 抓取工具
-1. **Calibre Fetch News**：用户手动抓取 epub 到 `news/`
-2. **fetch_ilpost.py**：使用 Il Post API（`pip install ilpost-api-wrapper`）
-3. **fetch_trafilatura.py**：通用全文提取，支持任意 URL（`pip install trafilatura`）
-4. **fetch_doppiozero.py**：doppiozero RSS（唯一有全文的 RSS 源）
+1. **Calibre Fetch News**：用户手动抓取 epub 到 `news/`，用 `ebook-convert` 提取
+2. **fetch_doppiozero.py**：doppiozero RSS（唯一有全文的 RSS 源）
 
 ### 处理流程
 1. 用户用 Calibre 抓取新闻 → epub 保存到 `news/`
