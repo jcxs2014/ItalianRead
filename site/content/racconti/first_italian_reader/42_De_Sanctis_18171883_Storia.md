@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "42 - De Sanctis (1817-1883): Storia"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "De Sanctis (1817-1883)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 42 - De Sanctis (1817-1883): Storia
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《De Sanctis (1817-1883): Storia》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 42. De Sanctis (1817&#8211;1883): Storia della letteratura italiana / History of Italian Literature
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: De Sanctis (1817&#8211;1883)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+42. De Sanctis (1817–1883): Storia della letteratura italiana Si può ora comprendere il meccanismo del dramma metastasiano. Sta in cima l’eroe o l’eroina, Zenobia o Issipile, Temistocle o Tito. L’eroe ha tutte le perfezioni che la poesia ha collocate...
 
 **翻译**：
 *[待翻译]*

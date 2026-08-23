@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "27 - Tasso (1544-1595): Gerusalemme"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Tasso (1544-1595)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 27 - Tasso (1544-1595): Gerusalemme
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Tasso (1544-1595): Gerusalemme》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 27. Tasso (1544&#8211;1595): Gerusalemme liberata / Jerusalem Delivered
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Tasso (1544&#8211;1595)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+e que’ disir di ciò che braman pieni, stando voi sempre a l’alto Sire avanti; perché i diletti miei son tali e tanti, che non posson capire in cor terreni, mentr’ho davanti i lumi almi e sereni, di cui conven che sempre scriva e canti. E come in ciel gran refrigerio e vita dal volto...
 
 **翻译**：
 *[待翻译]*

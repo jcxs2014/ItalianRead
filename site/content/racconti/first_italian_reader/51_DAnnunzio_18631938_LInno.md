@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "51 - D-Annunzio (1863-1938): L-Inno"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "D-Annunzio (1863-1938)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 51 - D-Annunzio (1863-1938): L-Inno
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《D-Annunzio (1863-1938): L-Inno》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 51. D&#8217;Annunzio (1863&#8211;1938): L&#8217;Innocente / The Innocent One &#38; versi / verse
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: D&#8217;Annunzio (1863&#8211;1938)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+un ufficio che a lui non spettava, di allontanare da lei il pericolo. L’affetto ch’egli le offriva ne ebbe l’aspetto di fraternamente dolce. Fatte quelle premesse, l’altro si sentì tranquillo e ripigliò un tono più adatto alla circostanza. Fece pi...
 
 **翻译**：
 *[待翻译]*

@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "52 - Croce (1866-1952): Breviario d"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Croce (1866-1952)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 52 - Croce (1866-1952): Breviario d
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Croce (1866-1952): Breviario d》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 52. Croce (1866&#8211;1952): Breviario di estetica / Breviary of Esthetics
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Croce (1866&#8211;1952)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+Ne l’abbandono il caro luogo ancora sorriderà, se tu sorriderai. Ti dirò come sia dolce il sorriso di certe cose che l’oblío afflisse. Che proveresti tu se ti fiorisse la terra sotto i piedi, all’improvviso? Tanto accadrà, benché non sia d’aprile. Usciamo. Non coprirti il capo. È...
 
 **翻译**：
 *[待翻译]*

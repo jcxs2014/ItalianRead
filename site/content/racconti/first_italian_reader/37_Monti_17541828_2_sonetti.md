@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Monti (1754-1828)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 37 - Monti (1754-1828): 2 sonetti
 
 ## 概要
 
-**情节摘要**：《Monti (1754-1828): 2 sonetti》选自意大利文学经典。
+**情节摘要**：《Monti (1754-1828): 2 sonetti》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-già mi mostran l’angusto ed erto passo, per cui convien che al Tirolese io monte. L’amoroso pensiero agili e pronte l’ali ha così, ch’oltre quei massi al basso, là dove il Reno è assai già lungi al fonte, io fortemente immaginando passo, e del gran fiume in su la manca riva trovo, tra vespro e sera, entro un bel bosco, sola e pensosa una terrena Diva. Già, per le folte piante, è l’aer fosco; non visto...
+già mi mostran l’angusto ed erto passo, per cui convien che al Tirolese io monte. L’amoroso pensiero agili e pronte l’ali ha così, ch’oltre quei massi al basso, là dove il Reno è assai già lungi al fonte, io fortemente immaginando passo, e del gran fiume in su la manca riva trovo, tra vespro e sera, ent...
 
 **翻译**：
 *[待翻译]*

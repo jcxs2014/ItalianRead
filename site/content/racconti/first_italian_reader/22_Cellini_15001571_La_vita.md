@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Cellini (1500-1571)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 22 - Cellini (1500-1571): La vita
 
 ## 概要
 
-**情节摘要**：《Cellini (1500-1571): La vita》选自意大利文学经典。
+**情节摘要**：《Cellini (1500-1571): La vita》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo si domandava Giovanni, al quale io dissi: —Di grazia non andare, perché a simili cose sempre si vede...
+22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo ...
 
 **翻译**：
 *[待翻译]*

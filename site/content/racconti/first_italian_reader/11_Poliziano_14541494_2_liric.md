@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "11 - Poliziano (1454-1494): 2 liric"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Poliziano (1454-1494)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:12 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 11 - Poliziano (1454-1494): 2 liric
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Poliziano (1454-1494): 2 liric》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 11. Poliziano (1454&#8211;1494): 2 liriche / 2 lyric poems
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Poliziano (1454&#8211;1494)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+Questa soma, che vien drieto sopra l’asino, è Sileno: così vecchio è ebbro e lieto, già di carne e d’anni pieno; se non può star ritto, almeno ride e gode tuttavia. Chi vuol esser lieto, sia: di doman non c’è certezza. Mida vien drieto a costoro: ciò che tocca, oro diventa. E che giova aver ...
 
 **翻译**：
 *[待翻译]*

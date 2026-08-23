@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "21 - Straparola (ca. 1490-ca. 1557)"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Straparola"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 21 - Straparola (ca. 1490-ca. 1557)
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Straparola (ca. 1490-ca. 1557)》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 21. Straparola (ca. 1490&#8211;ca. 1557): Le piacevoli notti / The Pleasant Nights
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Straparola
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+forza tiratosi, ivi, sanza ch’ella od altri lo sapesse, ad udire lo suo bel parlare si sedea, e ora sopra la strada giacea. [. . .] 21. Straparola (ca 1490–ca 1557): Le piacevoli notti In Boemia, piacevoli donne, non è gran tempo che si trovò una vecchiarella, Bagolana Savonese per no...
 
 **翻译**：
 *[待翻译]*

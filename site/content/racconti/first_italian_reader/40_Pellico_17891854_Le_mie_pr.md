@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "40 - Pellico (1789-1854): Le mie pr"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Pellico (1789-1854)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 40 - Pellico (1789-1854): Le mie pr
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Pellico (1789-1854): Le mie pr》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 40. Pellico (1789&#8211;1854): Le mie prigioni / My Prisons
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Pellico (1789&#8211;1854)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+rito fu qui condotto o portato dalla folla, quasi fuori di sentimento; e i frati lo ricevettero dalle mani del popolo, che glielo raccomandava dicendo: «è un uomo dabbene che ha freddato un birbone superbo: l’ha fatto per sua difesa: c’è stato tirato per i capelli.»[. . .] 40. Pellico (1789–1...
 
 **翻译**：
 *[待翻译]*

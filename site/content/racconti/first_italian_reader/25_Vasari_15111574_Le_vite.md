@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Vasari (1511-1574)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 25 - Vasari (1511-1574): Le vite
 
 ## 概要
 
-**情节摘要**：《Vasari (1511-1574): Le vite》选自意大利文学经典。
+**情节摘要**：《Vasari (1511-1574): Le vite》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-lei; ma non ardiva di dimostrarsi, temendo che se il Moro se ne avedesse, non gli desse subito morte. Cercò egli con varii modi, quanto più occultamente poteva, di fare accorta la donna ch’egli l’amava; ma ella, ch’avea nel Moro ogni suo pensiero, non pensava punto né allo alfiero, né ad altri. E tutte le cose ch’egli facea per accenderla di lui, non più operavano, che se fatte non le avesse. Onde s’i...
+lei; ma non ardiva di dimostrarsi, temendo che se il Moro se ne avedesse, non gli desse subito morte. Cercò egli con varii modi, quanto più occultamente poteva, di fare accorta la donna ch’egli l’amava; ma ella, ch’avea nel Moro ogni suo pensiero, non pensava punto né allo alfiero, né ad altri. E tutte ...
 
 **翻译**：
 *[待翻译]*

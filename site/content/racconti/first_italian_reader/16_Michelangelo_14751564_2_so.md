@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "16 - Michelangelo (1475-1564): 2 so"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Michelangelo (1475-1564)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 16 - Michelangelo (1475-1564): 2 so
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Michelangelo (1475-1564): 2 so》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 16. Michelangelo (1475&#8211;1564): 2 sonetti / 2 sonnets
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Michelangelo (1475&#8211;1564)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+16. Michelangelo (1475–1564): 2 sonetti ( A ) Veggio co’ be’ vostr’ occhi un dolce lume che co’ mie’ ciechi già veder non posso, porto co’ vostri piedi un pondo addosso che de’ miei zoppi non è lor costume. Volo con le vostr’ale e senza piume. Col vostro ingegno al ciel sempre son mosso. D...
 
 **翻译**：
 *[待翻译]*

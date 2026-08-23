@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "43 - Collodi (1826-1890): Le avvent"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Collodi (1826-1890)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 43 - Collodi (1826-1890): Le avvent
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Collodi (1826-1890): Le avvent》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 43. Collodi (1826&#8211;1890): Le avventure di Pinocchio / The Adventures of Pinocchio
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Collodi (1826&#8211;1890)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+smo e la natura. L’eroismo ha la sua sublimità nello splendore delle sentenze. La natura ha il suo patetico nelle tenere effusioni de’ sentimenti. Ne nasce un urto vivace di sentimenti e di sentenze, con alterna vittoria e con crescente sospensione, come nel soliloq...
 
 **翻译**：
 *[待翻译]*

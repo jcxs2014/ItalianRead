@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "28 - Bruno (1548-1600): De la causa"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Bruno (1548-1600)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 28 - Bruno (1548-1600): De la causa
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Bruno (1548-1600): De la causa》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 28. Bruno (1548&#8211;1600): De la causa, principio e uno / Cause, Principle, and Unity
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Bruno (1548&#8211;1600)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+Vedendo quivi comparir repente l’insolite arme, sbigottir costoro; ma li saluta Erminia e dolcemente gli affida, e gli occhi scopre e i bei crin d’oro: —Seguite, —dice— aventurosa gente al Ciel diletta, il bel vostro lavoro, ché non portano già guerra quest’armi a l’...
 
 **翻译**：
 *[待翻译]*

@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "39 - Manzoni (1785-1873): I promess"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Manzoni (1785-1873)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 39 - Manzoni (1785-1873): I promess
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Manzoni (1785-1873): I promess》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 39. Manzoni (1785&#8211;1873): I promessi sposi / The Betrothed
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Manzoni (1785&#8211;1873)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+39. Manzoni (1785–1873): I promessi sposi Andava un giorno per una strada della sua città, seguito da due bravi, e accompagnato da un tal Cristoforo, altre volte giovine di bottega e, dopo chiusa questa, diventato maestro di casa. Era un uomo di circa cinquanta anni, affezionato dalla gio...
 
 **翻译**：
 *[待翻译]*

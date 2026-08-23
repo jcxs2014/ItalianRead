@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "33 - Metastasio (1698-1782): 2 sone"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Metastasio (1698-1782)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 33 - Metastasio (1698-1782): 2 sone
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Metastasio (1698-1782): 2 sone》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 33. Metastasio (1698&#8211;1782): 2 sonetti / 2 sonnets
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Metastasio (1698&#8211;1782)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+tichi, abitatori presso il Mar Agghiacciato, de’ quali Tacito narra che dicevano d’udire la notte il Sole, che dall’occidente passava per mare nell’oriente, ed affermavano di vedere gli dèi: le quali rozzissime e semplicissime nazioni ci dànno ad intendere molto più di questi autori della gent...
 
 **翻译**：
 *[待翻译]*

@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Parini (1729-1799)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 35 - Parini (1729-1799): sonetto
 
 ## 概要
 
-**情节摘要**：《Parini (1729-1799): sonetto》选自意大利文学经典。
+**情节摘要**：《Parini (1729-1799): sonetto》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-35. Parini (1729–1799): sonetto Quell’io che già con lungo amaro carme Amor derisi, e il suo regno potente, e tutta osai chiamar l’Itala gente col mio riso maligno ad ascoltarme; or sento anch’io sotto a le indomit’ arme tra la folla del popolo imminente dietro a le rote del gran carro lente dall’offeso tiranno strascinarme. Ognun per osservar l’infame multa preme urta e grida al suo propinquo: È quei! e...
+35. Parini (1729–1799): sonetto Quell’io che già con lungo amaro carme Amor derisi, e il suo regno potente, e tutta osai chiamar l’Itala gente col mio riso maligno ad ascoltarme; or sento anch’io sotto a le indomit’ arme tra la folla del popolo imminente dietro a le rote del gran carro lente dall’offeso ti...
 
 **翻译**：
 *[待翻译]*

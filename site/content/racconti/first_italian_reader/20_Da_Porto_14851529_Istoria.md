@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "20 - Da Porto (1485-1529): -Istoria"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Da Porto (1485-1529)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 14:43:46 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 20 - Da Porto (1485-1529): -Istoria
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Da Porto (1485-1529): -Istoria》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 20. Da Porto (1485&#8211;1529): &#8220;Istoria . . . di due nobili amanti&#8221; / &#8220;History . . . of Two Noble Sweethearts&#8221;
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Da Porto (1485&#8211;1529)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+20. Da Porto (1485–1529): “Istoria . . . di due nobili amanti” Furono adunque, come dico, in Verona sotto il già detto signor le sopradette nobilissime famiglie, di valorosi omini e di richezza ugualmente dal cielo, ...
 
 **翻译**：
 *[待翻译]*

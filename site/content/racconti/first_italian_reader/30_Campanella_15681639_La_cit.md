@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "30 - Campanella (1568-1639): La cit"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Campanella (1568-1639)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 30 - Campanella (1568-1639): La cit
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Campanella (1568-1639): La cit》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 30. Campanella (1568&#8211;1639): La citt&#224; del sole / The City of the Sun
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Campanella (1568&#8211;1639)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+vossi più che mai rinvolto nell’ignoranza e nello stupore nel capitargli in mano una cicala, e che né per serrarle la bocca né per fermarle l’ali poteva né pur diminuire il suo altissimo stridore, né le vedeva muovere squamme né altra parte, e che finalmente, alzandole i...
 
 **翻译**：
 *[待翻译]*

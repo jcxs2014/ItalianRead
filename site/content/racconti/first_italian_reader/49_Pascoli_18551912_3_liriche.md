@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Pascoli (1855-1912)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 49 - Pascoli (1855-1912): 3 liriche
 
 ## 概要
 
-**情节摘要**：《Pascoli (1855-1912): 3 liriche》选自意大利文学经典。
+**情节摘要**：《Pascoli (1855-1912): 3 liriche》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-«Ah, è lui, è lui, è lui tal e quale come mi hanno detto. Un giovinotto, occhi neri, capelli neri, nera mica male anche la faccia. Bravo signore.» «Ma chi ti ha detto? . . .» «Lui, il signore, il conte!» “Oh, diavolo” pensò colui, “un uomo che non ho mai visto e che mi scrive di non avermi mai visto!” «To’!» esclamò l’altro lasciando cader la frusta e cacciandosi la mano in tasca. «Proprio ver...
+«Ah, è lui, è lui, è lui tal e quale come mi hanno detto. Un giovinotto, occhi neri, capelli neri, nera mica male anche la faccia. Bravo signore.» «Ma chi ti ha detto? . . .» «Lui, il signore, il conte!» “Oh, diavolo” pensò colui, “un uomo che non ho mai visto e che mi scrive di non avermi mai v...
 
 **翻译**：
 *[待翻译]*

@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "32 - Vico (1668-1744): La Scienza n"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Vico (1668-1744)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 32 - Vico (1668-1744): La Scienza n
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Vico (1668-1744): La Scienza n》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 32. Vico (1668&#8211;1744): La Scienza nuova / The New Science
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Vico (1668&#8211;1744)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+32. Vico (1668–1744): La Scienza nuova ( A ) La filosofia, per giovar al genere umano, dee sollevar e reggere l’uomo caduto e debole, non convellergli la natura né abbandonarlo nella sua corrozione. Questa degnità allontana dalla scuola di questa Scienza gli stoici, i quali vogliono l’ammorti...
 
 **翻译**：
 *[待翻译]*

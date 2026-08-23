@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "45 - Carducci (1835-1907): 2 lirich"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Carducci (1835-1907)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 45 - Carducci (1835-1907): 2 lirich
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Carducci (1835-1907): 2 lirich》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 45. Carducci (1835&#8211;1907): 2 liriche e una prosa / 2 lyric poems and a prose passage
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Carducci (1835&#8211;1907)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+45. Carducci (1835–1907): 2 liriche e una prosa (A) Pianto antico L’albero a cui tendevi la pargoletta mano, il verde melograno da’ bei vermigli fior, nel muto orto solingo rinverdí tutto, or ora, e giugno lo ristora di luce e di calor. Tu, fior della mia pianta...
 
 **翻译**：
 *[待翻译]*

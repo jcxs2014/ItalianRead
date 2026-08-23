@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "47 - Boito (1842-1918): -L-alfier n"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Boito (1842-1918)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 47 - Boito (1842-1918): -L-alfier n
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Boito (1842-1918): -L-alfier n》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 47. Boito (1842&#8211;1918): &#8220;L&#8217;alfier nero&#8221; / &#8220;The Black Chess Bishop&#8221;
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Boito (1842&#8211;1918)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+lazioni! Ma son stanco, veh, di portare la soma! L’asino quand’è stanco si corica in mezzo alla via e non va piú avanti . . .» E spronò la mula, che borbottava ancora; la sorella sbraitandogli dietro, dall’uscio della stalla, finché si udirono i ferri d...
 
 **翻译**：
 *[待翻译]*

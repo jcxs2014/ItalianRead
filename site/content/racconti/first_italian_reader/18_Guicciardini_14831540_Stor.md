@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "18 - Guicciardini (1483-1540): Stor"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Guicciardini (1483-1540)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 18 - Guicciardini (1483-1540): Stor
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Guicciardini (1483-1540): Stor》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 18. Guicciardini (1483&#8211;1540): Storie fiorentine / Florentine Histories &#38; Storia d&#8217;Italia / History of Italy
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Guicciardini (1483&#8211;1540)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagnia che pò, ed al cospetto de tutti i più nobili ed estimati omini che siano nell’esercito, e massimamente alla presenzia e, se possibil è, inanzi...
 
 **翻译**：
 *[待翻译]*

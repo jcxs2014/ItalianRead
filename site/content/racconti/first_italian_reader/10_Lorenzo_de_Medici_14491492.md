@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "10 - Lorenzo de- Medici (1449-1492)"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Lorenzo de- Medici (1449-1492)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:12 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 10 - Lorenzo de- Medici (1449-1492)
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Lorenzo de- Medici (1449-1492)》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 10. Lorenzo de&#8217; Medici (1449&#8211;1492): 2 liriche / 2 lyric poems
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Lorenzo de&#8217; Medici (1449&#8211;1492)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+che e soi magni baron provede e conta; imperò che ogni principe cristiano, ogni duca e signore a lui se afronta per una giostra che avea ordinata allor di maggio, alla pasqua rosata. Erano in corte tutti i paladini per onorar quella festa gradita, e da ogni part...
 
 **翻译**：
 *[待翻译]*

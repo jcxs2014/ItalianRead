@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Foscolo (1778-1827)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 38 - Foscolo (1778-1827): 5 sonetti
 
 ## 概要
 
-**情节摘要**：《Foscolo (1778-1827): 5 sonetti》选自意大利文学经典。
+**情节摘要**：《Foscolo (1778-1827): 5 sonetti》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-quel ferro implora troncator degli anni, e ride all’appressar dell’ore estreme. Fra la polve di Marte e le vicende ti sfida il forte, che ne’ rischi indura; e il saggio senza impallidir ti attende. Morte, che se’ tu dunque? Un’ombra oscura, un bene, un male, che diversa prende dagli affetti dell’uom forma e natura. Per un dipinto dell’Agricola rappresentante la figlia sua Più la contemplo, più van...
+quel ferro implora troncator degli anni, e ride all’appressar dell’ore estreme. Fra la polve di Marte e le vicende ti sfida il forte, che ne’ rischi indura; e il saggio senza impallidir ti attende. Morte, che se’ tu dunque? Un’ombra oscura, un bene, un male, che diversa prende dagli affetti dell’uom...
 
 **翻译**：
 *[待翻译]*

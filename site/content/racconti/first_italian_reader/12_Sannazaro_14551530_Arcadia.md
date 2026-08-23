@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Sannazaro (1455-1530)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:38 +0000
+date: Sun, 23 Aug 2026 14:43:46 +0000
 ---
 
 # 12 - Sannazaro (1455-1530): Arcadia
 
 ## 概要
 
-**情节摘要**：《Sannazaro (1455-1530): Arcadia》选自意大利文学经典。
+**情节摘要**：《Sannazaro (1455-1530): Arcadia》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:38 +0000
 
 ---
 
-e cinger di grillanda el vago crino. I’ mi trovai, fanciulle . . . Ma poi ch’i’ ebbi pien di fiori un lembo, vidi le rose, e non pur d’un colore; io corsi allor per empier tutto el grembo, perch’era sì soave il loro odore, che tutto mi senti’ destar el core di dolce voglia e d’un piacer divino. I’ mi trovai, fanciulle . . . I’ posi mente: quelle rose allora mai non vi potre’ dir quant’eran belle: quale scop...
+e cinger di grillanda el vago crino. I’ mi trovai, fanciulle . . . Ma poi ch’i’ ebbi pien di fiori un lembo, vidi le rose, e non pur d’un colore; io corsi allor per empier tutto el grembo, perch’era sì soave il loro odore, che tutto mi senti’ destar el core di dolce voglia e d’un piacer divino. I’ mi trovai, ...
 
 **翻译**：
 *[待翻译]*

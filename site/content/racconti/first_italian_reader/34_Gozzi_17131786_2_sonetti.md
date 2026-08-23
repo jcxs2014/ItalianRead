@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Gozzi (1713-1786)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 34 - Gozzi (1713-1786): 2 sonetti
 
 ## 概要
 
-**情节摘要**：《Gozzi (1713-1786): 2 sonetti》选自意大利文学经典。
+**情节摘要**：《Gozzi (1713-1786): 2 sonetti》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-che vide il Termodonte a maggior uso troncar Pentesilea la mamma imbelle, ed in asta cangiar la rocca e il fuso. 34. Gozzi (1713–1786): 2 sonetti Dell’ortolano e dell’asino Nel più fresco mattin, carco di fiori coll’Ortolano un Asinel sen gìa; e passo passo tutta empiea la via e l’aere intorno di graditi odori. Seguiano l’orme sue ninfe e pastori, per la fragranza che del carco uscia, ma sulla sera og...
+che vide il Termodonte a maggior uso troncar Pentesilea la mamma imbelle, ed in asta cangiar la rocca e il fuso. 34. Gozzi (1713–1786): 2 sonetti Dell’ortolano e dell’asino Nel più fresco mattin, carco di fiori coll’Ortolano un Asinel sen gìa; e passo passo tutta empiea la via e l’aere intorno di gradit...
 
 **翻译**：
 *[待翻译]*

@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Marino (1569-1625)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
 # 31 - Marino (1569-1625): L-Adone
 
 ## 概要
 
-**情节摘要**：《Marino (1569-1625): L-Adone》选自意大利文学经典。
+**情节摘要**：《Marino (1569-1625): L-Adone》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-31. Marino (1569–1625): L’Adone Ma sovr’ogni augellin vago e gentile che più spieghi leggiadro il canto e ’l volo, versa il suo spirto tremulo e sottile la sirena de’ boschi, il rosignuolo; e tempra in guisa il peregrino stile che par maestro de l’alato stuolo. In mille fogge il suo cantar distingue, e trasforma una lingua in mille lingue. Udir musico mostro, oh meraviglia, che s’ode sì ma si disce...
+31. Marino (1569–1625): L’Adone Ma sovr’ogni augellin vago e gentile che più spieghi leggiadro il canto e ’l volo, versa il suo spirto tremulo e sottile la sirena de’ boschi, il rosignuolo; e tempra in guisa il peregrino stile che par maestro de l’alato stuolo. In mille fogge il suo cantar distingue,...
 
 **翻译**：
 *[待翻译]*

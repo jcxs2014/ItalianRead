@@ -1,20 +1,20 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "13 - Machiavelli (1469-1527): Il pr"
 lang: it
 状态: 精读中
 难度: A2-B1
 source: first_italian_reader
-author: "Bandello (1484-1561)"
+author: "Machiavelli (1469-1527)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:43:46 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 13 - Machiavelli (1469-1527): Il pr
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》选自意大利文学经典作品。
+**情节摘要**：《Machiavelli (1469-1527): Il pr》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -27,13 +27,13 @@ date: Sun, 23 Aug 2026 14:43:46 +0000
 ### 第1部分
 
 **原文**：
-># 19. Bandello (1484&#8211;1561): Novelle / Stories
+># 13. Machiavelli (1469&#8211;1527): Il principe / The Prince
 
-**Author**: Bandello (1484&#8211;1561)
+**Author**: Machiavelli (1469&#8211;1527)
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per ri...
+In questo dì giocondo nacque l’alma beltade, e le virtuti raquistaro albergo; per questo il cieco mondo conobbe castitade, la qual tant’anni avea gittata a tergo; per questo io scrivo e vergo i faggi in ogni bosco; tal che omai non è pianta che non chiami ‘Amaranta’, quella ch’adolcir bas...
 
 **翻译**：
 *[待翻译]*

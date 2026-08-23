@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Bembo (1470-1547)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:38 +0000
+date: Sun, 23 Aug 2026 14:45:40 +0000
 ---
 
 # 14 - Bembo (1470-1547): Gli Asolani
 
 ## 概要
 
-**情节摘要**：《Bembo (1470-1547): Gli Asolani》选自意大利文学经典。
+**情节摘要**：《Bembo (1470-1547): Gli Asolani》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:38 +0000
 
 ---
 
-14. Bembo (1470–1547): Gli Asolani “Hanno tra le loro più secrete memorie gli antichi maestri delle sante cose, essere una Reina in quelle isole, che io dico, Fortunate, bellissima e di maraviglioso aspetto e ornata di cari e preziosi vestiri e sempre giovane. La qual marito non vuole già e servasi vergine tutto tempo, ma bene d’essere amata e vagheggiata si contenta. E a quegli, che più ...
+14. Bembo (1470–1547): Gli Asolani “Hanno tra le loro più secrete memorie gli antichi maestri delle sante cose, essere una Reina in quelle isole, che io dico, Fortunate, bellissima e di maraviglioso aspetto e ornata di cari e preziosi vestiri e sempre giovane. La qual marito non vuole già e...
 
 **翻译**：
 *[待翻译]*

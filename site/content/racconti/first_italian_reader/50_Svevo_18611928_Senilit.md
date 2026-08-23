@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Svevo (1861-1928)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:33:50 +0000
+date: Sun, 23 Aug 2026 14:43:58 +0000
 ---
 
 # 50 - Svevo (1861-1928): Senilit-
 
 ## 概要
 
-**情节摘要**：《Svevo (1861-1928): Senilit-》选自意大利文学经典。
+**情节摘要**：《Svevo (1861-1928): Senilit-》选自意大利文学经典作品。
 
 **时间/地点**：中世纪至文艺复兴意大利
 
@@ -33,7 +33,7 @@ date: Sun, 23 Aug 2026 14:33:50 +0000
 
 ---
 
-Ed ecco — quasi sopra la sua tomba siede, tra l’invisibile caduta — passa uno squillo tremulo di tromba che tra la nebbia, nel passar, saluta; squillo che viene d’oltre l’ombra muta, d’oltre la nebbia: di più su: più su, dove serene brillano le stelle sul mar di nebbia, sul fumoso mare in cui t’allunghi in pallide fiammelle tu, lento Carro, e tu, Stella polare, passano squilli come di fanfare, passa...
+Ed ecco — quasi sopra la sua tomba siede, tra l’invisibile caduta — passa uno squillo tremulo di tromba che tra la nebbia, nel passar, saluta; squillo che viene d’oltre l’ombra muta, d’oltre la nebbia: di più su: più su, dove serene brillano le stelle sul mar di nebbia, sul fumoso mare in cui t’allung...
 
 **翻译**：
 *[待翻译]*
