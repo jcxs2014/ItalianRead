@@ -94,7 +94,7 @@ Laura是一位在罗马工作的中年职业女性。一个周末，她和童年
 ### 第6段
 
 **原文**：
-> – Dove siamo, Laura? – chiese Nicola. – Siamo alla periferia di Roma. Qui si possono fare grigliate. – Abbiamo abbastanza cibo per la grigliata? – Sì, è in macchina. Andiamo a prendere le borse.
+> – Dove siamo, Laura? – chiese Nicola. – Siamo alla periferia di Roma. Qui si possono fare grigliate. – Abbiamo abbastanza cibo per la grigliata? – Sì, è in macchina. Andiamo a prendere le borse.   
 
 **翻译**：
 "我们在哪里，Laura？"Nicola问。"我们在罗马郊区。这里可以烧烤。""我们有足够的食物烧烤吗？""是的，在车里。我们去拿包吧。"
@@ -122,7 +122,7 @@ Laura、Nicola和Elvira从车上拿下包，开始准备烧烤。Elvira试着点
 ### 第8段
 
 **原文**：
-> Laura ricordò di dover fare una chiamata col cellulare, così disse ai suoi amici: –Nicola, Elvira. Torno subito. Devo fare una chiamata di lavoro.
+> Laura ricordò di dover fare una chiamata col cellulare, così disse ai suoi amici: –Nicola, Elvira. Torno subito. Devo fare una chiamata di lavoro.   
 
 **翻译**：
 Laura想起必须打一个电话，于是对朋友们说："Nicola，Elvira。我马上回来。我得打一个工作电话。"
@@ -136,7 +136,7 @@ Laura想起必须打一个电话，于是对朋友们说："Nicola，Elvira。�
 ### 第9段
 
 **原文**：
-> – Tu lavori sempre, anche i fine settimana! – disse Nicola. – Ha ragione Nicola! – disse Elvira. – Dovresti riposare di più. Lavori molto. I fine settimana devi staccare.
+> – Tu lavori sempre, anche i fine settimana! – disse Nicola. – Ha ragione Nicola! – disse Elvira. – Dovresti riposare di più. Lavori molto. I fine settimana devi staccare.   
 
 **翻译**：
 "你总是在工作，周末也不例外！"Nicola说。"Nicola说得对！"Elvira说。"你应该多休息。你工作太多了。周末你应该放松。"
@@ -150,7 +150,7 @@ Laura想起必须打一个电话，于是对朋友们说："Nicola，Elvira。�
 ### 第10段
 
 **原文**：
-> – Avete ragione! – rispose Laura. –Però devo fare questa chiamata... Laura si allontanò dal gruppo e andò verso degli alberi nelle vicinanze.
+> – Avete ragione! – rispose Laura. –Però devo fare questa chiamata... Laura si allontanò dal gruppo e andò verso degli alberi nelle vicinanze.   
 
 **翻译**：
 "你们说得对！"Laura回答。"但我必须打这个电话..."Laura离开同伴，走向附近的树林。
@@ -220,7 +220,7 @@ Laura触碰了那个物体，光就熄灭了。她不知道那是什么物体，
 ### 第15段
 
 **原文**：
-> Quando tornò si sedette a fianco dei sui amici Nicola ed Elvira. Loro stavano parlando di lei. – Beh sì... – diceva Nicola. –Laura lavora troppo.
+> Quando tornò si sedette a fianco dei sui amici Nicola ed Elvira. Loro stavano parlando di lei. – Beh sì... – diceva Nicola. –Laura lavora troppo.   
 
 **翻译**：
 当她回来时，她坐在朋友Nicola和Elvira旁边。他们正在谈论她。"嗯，是的..."Nicola说，"Laura工作太努力了。"
@@ -234,7 +234,7 @@ Laura触碰了那个物体，光就熄灭了。她不知道那是什么物体，
 ### 第16段
 
 **原文**：
-> Dovrebbe spegnere il cellulare il fine settimana. – Sono d'accordo! – disse Elvira. –Non fa bene lavorare tanto. Il corpo e la mente hanno bisogno di riposare.
+> Dovrebbe spegnere il cellulare il fine settimana. – Sono d'accordo! – disse Elvira. –Non fa bene lavorare tanto. Il corpo e la mente hanno bisogno di riposare.   
 
 **翻译**：
 她周末应该关掉手机。"我同意！"Elvira说。"工作太多不好。身体和心灵都需要休息。"
@@ -332,7 +332,7 @@ Laura站起来帮忙烤肉，烤肉已经冒烟了。但是发生了奇怪的事
 ### 第23段
 
 **原文**：
-> – Beh, sì, Nicola, – disse lei. –Laura lavora tanto, però è normale! Ha studiato per molti anni e duramente. Si merita di avere soddisfazioni a lavoro e di avere un buon stipendio.
+> – Beh, sì, Nicola, – disse lei. –Laura lavora tanto, però è normale! Ha studiato per molti anni e duramente. Si merita di avere soddisfazioni a lavoro e di avere un buon stipendio.   
 
 **翻译**：
 "嗯，是的，Nicola，"她说。"Laura工作很努力，但这是正常的！她学习了很多年，非常努力。她值得在工作中得到满足感和一份好工资。"
@@ -346,7 +346,7 @@ Laura站起来帮忙烤肉，烤肉已经冒烟了。但是发生了奇怪的事
 ### 第24段
 
 **原文**：
-> – Non la pagano a sufficienza! – disse lui. – È vero, però sicuramente riuscirà a guadagnare di più in futuro. Lei è molto preparata.
+> – Non la pagano a sufficienza! – disse lui. – È vero, però sicuramente riuscirà a guadagnare di più in futuro. Lei è molto preparata.   
 
 **翻译**：
 "她的工资不够高！"他说。"这倒是真的，但她肯定将来会赚得更多。她很称职。"
@@ -360,7 +360,7 @@ Laura站起来帮忙烤肉，烤肉已经冒烟了。但是发生了奇怪的事
 ### 第25段
 
 **原文**：
-> – Questo è vero. Sono orgoglioso di essere suo amico però dobbiamo fare in modo che stacchi di più i fine settimana. Guarda adesso per esempio: stiamo facendo una grigliata però lei continua a parlare di lavoro con il suo capo.
+> – Questo è vero. Sono orgoglioso di essere suo amico però dobbiamo fare in modo che stacchi di più i fine settimana. Guarda adesso per esempio: stiamo facendo una grigliata però lei continua a parlare di lavoro con il suo capo.   
 
 **翻译**：
 "这倒是真的。我很自豪是她的朋友，但我们得让她周末多放松放松。就说现在吧：我们正在烧烤，但她还在和老板谈工作。"
@@ -374,7 +374,7 @@ Laura站起来帮忙烤肉，烤肉已经冒烟了。但是发生了奇怪的事
 ### 第26段
 
 **原文**：
-> – Il suo capo è molto severo. Si aspetta sempre che lei lavori molto. – Lei lavora già molto e molto bene! Il suo capo dovrebbe saperlo che è la sua migliore impiegata.
+> – Il suo capo è molto severo. Si aspetta sempre che lei lavori molto. – Lei lavora già molto e molto bene! Il suo capo dovrebbe saperlo che è la sua migliore impiegata.   
 
 **翻译**：
 "她的老板很严格。他总是期望她努力工作。""她已经工作很努力也很好了！她的老板应该知道她是最好的员工。"
@@ -402,7 +402,7 @@ Laura意识到她的朋友们是多么尊重她。她不喜欢偷偷听他们说
 ### 第28段
 
 **原文**：
-> Dicevano solo cose carine su di lei e quindi sorrise. – Però adesso dov'è? – disse Nicola. – Non lo so, è già da un po' che è andata via a parlare al cellulare.
+> Dicevano solo cose carine su di lei e quindi sorrise. – Però adesso dov'è? – disse Nicola. – Non lo so, è già da un po' che è andata via a parlare al cellulare.   
 
 **翻译**：
 他们只说她好话，所以她笑了。"但是她现在在哪里呢？"Nicola说。"我不知道，她打电话离开已经有一会儿了。"
@@ -416,7 +416,7 @@ Laura意识到她的朋友们是多么尊重她。她不喜欢偷偷听他们说
 ### 第29段
 
 **原文**：
-> – Andiamo a cercarla. Spensero il fuoco del barbecue e andarono dov'erano gli alberi. Lì videro lo strano oggetto. – Guarda Elvira, che è questo?
+> – Andiamo a cercarla. Spensero il fuoco del barbecue e andarono dov'erano gli alberi. Lì videro lo strano oggetto. – Guarda Elvira, che è questo?   
 
 **翻译**：
 "我们去找她吧。"他们熄灭了烧烤的火，走到树林那里。他们在那里看到了那个奇怪的物体。"你看Elvira，这是个什么东西？"
@@ -430,7 +430,7 @@ Laura意识到她的朋友们是多么尊重她。她不喜欢偷偷听他们说
 ### 第30段
 
 **原文**：
-> – Non lo so. Buttalo. Non abbiamo bisogno di altre cose inutili. E l'oggetto strano tornò a posarsi tra gli alberi.
+> – Non lo so. Buttalo. Non abbiamo bisogno di altre cose inutili. E l'oggetto strano tornò a posarsi tra gli alberi.   
 
 **翻译**：
 "我不知道。扔掉它吧。我们不需要其他没用的东西。"那个奇怪的物体被扔回了树林里。

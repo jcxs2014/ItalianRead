@@ -94,7 +94,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第6段
 
 **原文**：
-> Il cameriere della taverna disse a Giosuè, un cliente assiduo: –Sì, sì! Io l'ho visto! Era un drago enorme! Molto grande! Con grandi squame! L'aria si riscaldava quando volava!
+> Il cameriere della taverna disse a Giosuè, un cliente assiduo: –Sì, sì! Io l'ho visto! Era un drago enorme! Molto grande! Con grandi squame! L'aria si riscaldava quando volava!   
 
 **翻译**：
 酒馆服务员对一个常客Giosuè说："是的，是的！我见过它！是一条巨大的龙！非常大！有着巨大的鳞片！它飞的时候空气都会变热！"
@@ -108,7 +108,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第7段
 
 **原文**：
-> Un giorno lo vidi che andava in esplorazione. Giosuè rise mentre beveva un sorso di birra. – Come no! Questa è una frottola! Tu non hai mai visto Ferrg!
+> Un giorno lo vidi che andava in esplorazione. Giosuè rise mentre beveva un sorso di birra. – Come no! Questa è una frottola! Tu non hai mai visto Ferrg!   
 
 **翻译**：
 有一天我看到它去巡逻。"Giosuè一边喝一口啤酒一边笑。"才不是呢！这是一个谎话！你从来没有见过Ferrg！"
@@ -122,7 +122,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第8段
 
 **原文**：
-> – Sì che l'ho visto! Io l'ho visto prima che la gente cominciasse a chiamarlo Ferrg. – Sei un bugiardo! Va', portami un'altra birra!
+> – Sì che l'ho visto! Io l'ho visto prima che la gente cominciasse a chiamarlo Ferrg. – Sei un bugiardo! Va', portami un'altra birra!   
 
 **翻译**：
 "我确实见过它！我在人们开始叫它Ferrg之前就见过它了。""你是个骗子！去，再给我拿杯啤酒！"
@@ -150,7 +150,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第10段
 
 **原文**：
-> Il cameriere gli disse: – E tu, Giosuè? Lo hai mai visto Ferrg? – Io no! Però non vado nemmeno dicendo di averlo visto!
+> Il cameriere gli disse: – E tu, Giosuè? Lo hai mai visto Ferrg? – Io no! Però non vado nemmeno dicendo di averlo visto!   
 
 **翻译**：
 服务员对他说："那你呢，Giosuè？你有没有见过Ferrg？""我没有！但我也从来没谎称见过它！"
@@ -164,7 +164,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第11段
 
 **原文**：
-> – Bah! Il cameriere fece un gesto e andò a servire gli altri clienti assetati. Giosuè rimase da solo al bancone della taverna. Beveva la sua birra e quasi si stava addormentando.
+> – Bah! Il cameriere fece un gesto e andò a servire gli altri clienti assetati. Giosuè rimase da solo al bancone della taverna. Beveva la sua birra e quasi si stava addormentando.   
 
 **翻译**：
 "哼！"服务员做了个手势，去服务其他口渴的客人了。Giosuè独自待在酒馆吧台。他喝着啤酒，差点睡着了。
@@ -178,7 +178,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第12段
 
 **原文**：
-> All'improvviso, si sentì un forte rumore e tutta la taverna tremò. Gli abitanti del villaggio si inquietarono. – Che cos'è stato? – Ha tremato tutta la taverna! – Attenti!
+> All'improvviso, si sentì un forte rumore e tutta la taverna tremò. Gli abitanti del villaggio si inquietarono. – Che cos'è stato? – Ha tremato tutta la taverna! – Attenti!   
 
 **翻译**：
 突然，一声巨响传来，整个酒馆都摇晃起来。村民们不安起来。"那是什么？""整个酒馆都在晃！""小心！"
@@ -206,7 +206,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第14段
 
 **原文**：
-> Il cameriere disse a tutti: – Andate! Uscite da qui! Nessuno si mosse. – Siete sordi? Uscite da qui! – ripeté. – Andiamo, andiamo... – disse Giosuè mentre finiva la sua birra. –Nessuno si muoverà da qui!
+> Il cameriere disse a tutti: – Andate! Uscite da qui! Nessuno si mosse. – Siete sordi? Uscite da qui! – ripeté. – Andiamo, andiamo... – disse Giosuè mentre finiva la sua birra. –Nessuno si muoverà da qui!   
 
 **翻译**：
 服务员对所有人说："走吧！离开这里！"没人动。"你们聋了吗？离开这里！"他重复道。"我们走，我们走..."Giosuè一边说一边喝完啤酒。"没人会从这里离开！"
@@ -220,7 +220,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第15段
 
 **原文**：
-> Le ali del drago si sentivano sbattere fuori dalla taverna e la gente aveva paura. Nella taverna erano tutti in silenzio. – Qualcuno forse mi ascolterà adesso!
+> Le ali del drago si sentivano sbattere fuori dalla taverna e la gente aveva paura. Nella taverna erano tutti in silenzio. – Qualcuno forse mi ascolterà adesso!   
 
 **翻译**：
 龙的翅膀在酒馆外面拍打的声音都能听到，人们很害怕。酒馆里所有人都沉默了。"现在也许有人会听我的了吧！"
@@ -248,7 +248,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第17段
 
 **原文**：
-> – Nessuno mi crede... Però io conosco il drago! Di solito la gente rideva di lui però questa volta erano spaventati e lo ascoltavano.
+> – Nessuno mi crede... Però io conosco il drago! Di solito la gente rideva di lui però questa volta erano spaventati e lo ascoltavano.   
 
 **翻译**：
 "没人相信我...但我认识那条龙！通常人们都会嘲笑他，但这次他们很害怕，都在听。"
@@ -262,7 +262,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第18段
 
 **原文**：
-> Si sentiva molto rumore fuori dalla taverna. Il drago volava attorno senza fermarsi, però non sembrava fare altro. Uno degli abitanti disse: – Ah, sì? Allora perché non esci e gli dici di andarsene?
+> Si sentiva molto rumore fuori dalla taverna. Il drago volava attorno senza fermarsi, però non sembrava fare altro. Uno degli abitanti disse: – Ah, sì? Allora perché non esci e gli dici di andarsene?   
 
 **翻译**：
 酒馆外面能听到很大的噪音。龙不停地盘旋，但没有看起来做别的事。一个村民说："啊，真的吗？那你为什么不出去让它走开？"
@@ -276,7 +276,7 @@ date: Sat, 22 Aug 2026 17:00:00 +0000
 ### 第19段
 
 **原文**：
-> Giosuè guardò l'uomo che aveva detto questo e gli rispose: – Tu te ne andresti dal villaggio se io te lo chiedessi? La paura della gente iniziò a diminuire un poco perché tutti scoppiarono a ridere.
+> Giosuè guardò l'uomo che aveva detto questo e gli rispose: – Tu te ne andresti dal villaggio se io te lo chiedessi? La paura della gente iniziò a diminuire un poco perché tutti scoppiarono a ridere.   
 
 **翻译**：
 Giosuè看着说这话的人，回答说："如果我让你离开村庄，你会走吗？"人们的恐惧开始稍微减轻，因为大家都哄堂大笑。
@@ -290,7 +290,7 @@ Giosuè看着说这话的人，回答说："如果我让你离开村庄，你会
 ### 第20段
 
 **原文**：
-> Giosuè approfittò del momento per spiegare. – Io ero una guardia dell'impero… Una volta ci inviarono in missione in una torre qui vicino.
+> Giosuè approfittò del momento per spiegare. – Io ero una guardia dell'impero… Una volta ci inviarono in missione in una torre qui vicino.   
 
 **翻译**：
 Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派我们去附近的一座塔执行任务。"
@@ -318,7 +318,7 @@ Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派
 ### 第22段
 
 **原文**：
-> – Menzogna! – urlò il cameriere. – È la verità! – disse Giosuè. – È una bugia! Giosuè ignorò il cameriere. – Uscirò là fuori! – disse indicando la porta della taverna. –Qualcuno vuole venire con me?
+> – Menzogna! – urlò il cameriere. – È la verità! – disse Giosuè. – È una bugia! Giosuè ignorò il cameriere. – Uscirò là fuori! – disse indicando la porta della taverna. –Qualcuno vuole venire con me?   
 
 **翻译**：
 "谎言！"服务员喊道。"这是真的！"Giosuè说。"这是骗人的！"Giosuè无视服务员。"我要出去！"他指着酒馆的门说。"有人想和我一起去吗？"
@@ -332,7 +332,7 @@ Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派
 ### 第23段
 
 **原文**：
-> Nessuno disse nulla per alcuni secondi. Poi il cameriere parlò: – Adesso basta con le sciocchezze! Andrò io con te! Non sopporto che mi si menta senza pudore.
+> Nessuno disse nulla per alcuni secondi. Poi il cameriere parlò: – Adesso basta con le sciocchezze! Andrò io con te! Non sopporto che mi si menta senza pudore.   
 
 **翻译**：
 好几秒没人说话。然后服务员开口了："现在别再说废话了！我和你一起去！我不能忍受有人厚颜无耻地对我撒谎。"
@@ -346,7 +346,7 @@ Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派
 ### 第24段
 
 **原文**：
-> – Va bene! Vieni con me. Qualcun altro? Nessuno parlò. Nessuno si mosse. La taverna era in silenzio e il drago continuava a volare sopra di loro.
+> – Va bene! Vieni con me. Qualcun altro? Nessuno parlò. Nessuno si mosse. La taverna era in silenzio e il drago continuava a volare sopra di loro.   
 
 **翻译**：
 "好吧！你跟我来。其他人呢？"没人说话。没人动。酒馆里一片寂静，龙继续在他们头顶盘旋。
@@ -360,7 +360,7 @@ Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派
 ### 第25段
 
 **原文**：
-> Il locale tremava ogni volta che le ali del drago si muovevano. Il cameriere guardò gli abitanti: – Che nessuno prenda birra senza pagare!
+> Il locale tremava ogni volta che le ali del drago si muovevano. Il cameriere guardò gli abitanti: – Che nessuno prenda birra senza pagare!   
 
 **翻译**：
 每当龙的翅膀动一下，酒吧就会晃动。服务员看着村民们："谁都不准不付钱就拿啤酒！"
@@ -374,7 +374,7 @@ Giosuè利用这个机会解释。"我曾是帝国的卫兵...有一次他们派
 ### 第26段
 
 **原文**：
-> Giosuè gli disse: – Sei un taccagno! – Usciamo! Il cameriere e Giosuè uscirono fuori. La gente del villaggio correva da un lato all'altro.
+> Giosuè gli disse: – Sei un taccagno! – Usciamo! Il cameriere e Giosuè uscirono fuori. La gente del villaggio correva da un lato all'altro.   
 
 **翻译**：
 Giosuè对他说："你真小气！""我们出去！"服务员和Giosuè走了出去。村民们到处乱跑。
@@ -388,7 +388,7 @@ Giosuè对他说："你真小气！""我们出去！"服务员和Giosuè走了�
 ### 第27段
 
 **原文**：
-> I bambini gridavano e piangevano, gli uomini prendevano i loro scudi per difendere la propria famiglia. Giosuè provò a calmare la gente: – Non abbiate paura! Ferrg è inoffensivo!
+> I bambini gridavano e piangevano, gli uomini prendevano i loro scudi per difendere la propria famiglia. Giosuè provò a calmare la gente: – Non abbiate paura! Ferrg è inoffensivo!   
 
 **翻译**：
 孩子们又叫又哭，男人们拿起盾牌保护家人。Giosuè试图让大家冷静："别害怕！Ferrg是无害的！"
@@ -444,7 +444,7 @@ Giosuè对他说："你真小气！""我们出去！"服务员和Giosuè走了�
 ### 第31段
 
 **原文**：
-> – Un arco! Qualcuno può passarmi un arco? Una donna si avvicinò e gli diede un arco. – Vuoi ucciderlo? – chiese a Giosuè.
+> – Un arco! Qualcuno può passarmi un arco? Una donna si avvicinò e gli diede un arco. – Vuoi ucciderlo? – chiese a Giosuè.   
 
 **翻译**：
 "一张弓！谁能给我一张弓？"一个女人走近，给了他一张弓。"你想杀了它吗？"她问Giosuè。
@@ -458,7 +458,7 @@ Giosuè对他说："你真小气！""我们出去！"服务员和Giosuè走了�
 ### 第32段
 
 **原文**：
-> – No. Non potrei farlo neppure con cento archi. Le sue squame sono molto resistenti. – Per cosa ti serve l'arco? – Per questo!
+> – No. Non potrei farlo neppure con cento archi. Le sue squame sono molto resistenti. – Per cosa ti serve l'arco? – Per questo!   
 
 **翻译**：
 "不。即使有一百张弓我也杀不了它。它的鳞片非常坚硬。"那你要弓干什么？""为了这个！"
@@ -472,7 +472,7 @@ Giosuè对他说："你真小气！""我们出去！"服务员和Giosuè走了�
 ### 第33段
 
 **原文**：
-> Giosuè prese l'arco e scoccò una freccia in aria mentre il drago volava. Il drago non si fermò. – Ne scoccherò un'altra! – disse.
+> Giosuè prese l'arco e scoccò una freccia in aria mentre il drago volava. Il drago non si fermò. – Ne scoccherò un'altra! – disse.   
 
 **翻译**：
 Giosuè拿起弓，在龙飞翔时向空中射了一箭。龙没有停下来。"我再射一支！"他说。
@@ -500,7 +500,7 @@ Giosuè拿起弓，在龙飞翔时向空中射了一箭。龙没有停下来。"
 ### 第35段
 
 **原文**：
-> – GIOOOOOOOSUUUÈÈÈÈÈÈ…? – urlò il drago. Il cameriere si spaventò. – Quella voce è del…? È del...? – Sì, è Ferrg che mi sta chiamando.
+> – GIOOOOOOOSUUUÈÈÈÈÈÈ…? – urlò il drago. Il cameriere si spaventò. – Quella voce è del…? È del...? – Sì, è Ferrg che mi sta chiamando.   
 
 **翻译**：
 "GIOOOOOOOSUUÈÈÈÈÈ..."龙喊道。服务员吓坏了。"那个声音是...？是...？""是的，是Ferrg在叫我。"

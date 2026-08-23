@@ -94,7 +94,7 @@ Asglor村非常安静。虽然还是一大早。阳光很微弱。Niels看到Tho
 ### 第6段
 
 **原文**：
-> – Thoric! – Ciao, Niels! Sei ancora qui al villaggio? – Sì, ragazzo. Rimango al villaggio per due giorni. – E dopo dove andrai?
+> – Thoric! – Ciao, Niels! Sei ancora qui al villaggio? – Sì, ragazzo. Rimango al villaggio per due giorni. – E dopo dove andrai?   
 
 **翻译**：
 "Thoric！""你好，Niels！你还在村子里？""是的，小伙子。我还会在村里待两天。""之后你要去哪里？"
@@ -108,7 +108,7 @@ Asglor村非常安静。虽然还是一大早。阳光很微弱。Niels看到Tho
 ### 第7段
 
 **原文**：
-> – Non lo so, il capo Eskol dice che è un posto molto lontano. Thoric rispettava Eskol, il suo capo. Lui era un uomo molto imponente, con dei capelli lunghissimi come nessun altro e aveva grandi muscoli.
+> – Non lo so, il capo Eskol dice che è un posto molto lontano. Thoric rispettava Eskol, il suo capo. Lui era un uomo molto imponente, con dei capelli lunghissimi come nessun altro e aveva grandi muscoli.   
 
 **翻译**：
 "我不知道，Eskol首领说是一个非常远的地方。"Thoric尊敬他的首领Eskol。他是一个非常魁梧的人，有着无人能比的超长头发和巨大的肌肉。
@@ -136,7 +136,7 @@ Asglor村非常安静。虽然还是一大早。阳光很微弱。Niels看到Tho
 ### 第9段
 
 **原文**：
-> – Il capo Eskol ha nuovi piani? – chiese Thoric. – Sì. Però non ha detto quali sono... Ha detto solamente che questa volta bisogna esplorare molto lontano.
+> – Il capo Eskol ha nuovi piani? – chiese Thoric. – Sì. Però non ha detto quali sono... Ha detto solamente che questa volta bisogna esplorare molto lontano.   
 
 **翻译**：
 "Eskol首领有新计划吗？"Thoric问。"是的。但他没有说是什么计划...他只说这次必须去很远的地方探索。"
@@ -178,7 +178,7 @@ Eskol首领会派巡逻队去村外探索。村子在一个小地方，位于山
 ### 第12段
 
 **原文**：
-> – Non voglio più soffrire per la scarsezza di cibo! – disse Thoric a Niels. – Neanch'io! I miei figli hanno bisogno di mangiare. Non posso dargli sempre carne.
+> – Non voglio più soffrire per la scarsezza di cibo! – disse Thoric a Niels. – Neanch'io! I miei figli hanno bisogno di mangiare. Non posso dargli sempre carne.   
 
 **翻译**：
 "我不想再因为食物短缺而受苦了！"Thoric对Niels说。"我也是！我的孩子们需要吃东西。我不能总是给他们肉吃。"
@@ -206,7 +206,7 @@ Thoric从未见过Niels的孩子们，但他知道他们是谁。有几次，他
 ### 第14段
 
 **原文**：
-> – Niels, vado a vedere se la mia famiglia riesce a vendere la carne degli animali che ho cacciato oggi. – Va bene, ragazzo.
+> – Niels, vado a vedere se la mia famiglia riesce a vendere la carne degli animali che ho cacciato oggi. – Va bene, ragazzo.   
 
 **翻译**：
 "Niels，我去看看我的家人能不能把我今天猎到的动物的肉卖掉。""好的，小伙子。"
@@ -262,7 +262,7 @@ Thoric回到家，和他的父母和妹妹说话。他的家庭是一个农户�
 ### 第18段
 
 **原文**：
-> Quando ritornò dalla caccia, incontrò di nuovo Niels. Questa volta sembrava nervoso. – Thoric! Vieni, presto!
+> Quando ritornò dalla caccia, incontrò di nuovo Niels. Questa volta sembrava nervoso. – Thoric! Vieni, presto!   
 
 **翻译**：
 打猎回来时，他又遇到了Niels。这次Niels看起来很紧张。"Thoric！快过来！"
@@ -276,7 +276,7 @@ Thoric回到家，和他的父母和妹妹说话。他的家庭是一个农户�
 ### 第19段
 
 **原文**：
-> – Che succede, Niels? Perché tanta fretta? – Il capo Eskol ha chiamato tutto il villaggio. – Rivelerà i suoi piani? – Sicuramente sì! Andiamo!
+> – Che succede, Niels? Perché tanta fretta? – Il capo Eskol ha chiamato tutto il villaggio. – Rivelerà i suoi piani? – Sicuramente sì! Andiamo!   
 
 **翻译**：
 "发生什么事了，Niels？为什么这么急？""Eskol首领召集了全村人。""他要公布他的计划吗？""肯定是！走吧！"
@@ -304,7 +304,7 @@ Thoric回到家，把他猎到的动物留在那里。他的家人不在。他�
 ### 第21段
 
 **原文**：
-> Niels lo aspettava fuori e sperava di incontrare la sua famiglia nel frattempo. – La mia famiglia non è qui – gli disse Thoric. – Saranno al Gran Salone.
+> Niels lo aspettava fuori e sperava di incontrare la sua famiglia nel frattempo. – La mia famiglia non è qui – gli disse Thoric. – Saranno al Gran Salone.   
 
 **翻译**：
 Niels在外面等他，希望在此期间遇到他的家人。"我家人不在这里——Thoric对他说。"他们应该在大会堂。"
@@ -402,7 +402,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第28段
 
 **原文**：
-> Cominciò a parlare: – Cari abitanti di Asglor... Per molti inverni abbiamo sofferto la fame. Sappiamo bene che il cibo a nostra disposizione non è sufficiente in inverno.
+> Cominciò a parlare: – Cari abitanti di Asglor... Per molti inverni abbiamo sofferto la fame. Sappiamo bene che il cibo a nostra disposizione non è sufficiente in inverno.   
 
 **翻译**：
 他开始说话："Asglor的亲爱的居民们...很多个冬天以来我们一直在挨饿。我们都知道，冬季时我们拥有的食物是不够的。"
@@ -416,7 +416,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第29段
 
 **原文**：
-> Per questo gli esploratori ed io abbiamo preso una decisione. La gente iniziò a mormorare. – Navigheremo verso ovest.
+> Per questo gli esploratori ed io abbiamo preso una decisione. La gente iniziò a mormorare. – Navigheremo verso ovest.   
 
 **翻译**：
 因此我和探险家们已经做出了决定。人们开始低声议论。"我们将向西航行。"
@@ -430,7 +430,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第30段
 
 **原文**：
-> Qui vicino non ci sono più terre prosperose, però al di là del mare sì. Niels disse: – Però capo, si sa se c'è davvero terra a ovest?
+> Qui vicino non ci sono più terre prosperose, però al di là del mare sì. Niels disse: – Però capo, si sa se c'è davvero terra a ovest?   
 
 **翻译**：
 这附近再也没有富饶的土地了，但在海的那边有。Niels说："但是首领，怎么知道西部真的有土地呢？"
@@ -444,7 +444,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第31段
 
 **原文**：
-> – Lo sappiamo. – Come? Nessuno di noi l'ha mai vista. Il capo Eskol guardò il suo popolo, che a sua volta lo guardava con preoccupazione.
+> – Lo sappiamo. – Come? Nessuno di noi l'ha mai vista. Il capo Eskol guardò il suo popolo, che a sua volta lo guardava con preoccupazione.   
 
 **翻译**：
 "我们知道。""怎么知道的？我们中没有人见过它。"Eskol首领看着他的子民，子民们也担忧地看着他。
@@ -458,7 +458,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第32段
 
 **原文**：
-> Finalmente disse: – Un uomo... un vichingo è stato colui che me l'ha detto. Era andato in viaggio a ovest e aveva trovato la terra. Al rientro al villaggio di Asglor morì, però prima di morire era riuscito a raccontarmi tutto.
+> Finalmente disse: – Un uomo... un vichingo è stato colui che me l'ha detto. Era andato in viaggio a ovest e aveva trovato la terra. Al rientro al villaggio di Asglor morì, però prima di morire era riuscito a raccontarmi tutto.   
 
 **翻译**：
 最后他说："一个人...一个维京人告诉我的。他去西方旅行，发现了土地。在返回Asglor村的路上他死了，但在死之前他成功地把一切都告诉了我。"
@@ -472,7 +472,7 @@ Thoric和Niels走进大会堂。里面有很多人，很暖和。外面看起来
 ### 第33段
 
 **原文**：
-> La gente continuò a guardare Eskol con preoccupazione. – Amato popolo di Asglor, so che non è molto... però dobbiamo rischiare.
+> La gente continuò a guardare Eskol con preoccupazione. – Amato popolo di Asglor, so che non è molto... però dobbiamo rischiare.   
 
 **翻译**：
 人们继续担忧地看着Eskol。"Asglor亲爱的子民们，我知道这不多...但我们必须冒险。"
