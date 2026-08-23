@@ -56,14 +56,17 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 ---
 
-> **原句3:** I lupi si sono扩散dall'Italia verso altri paesi europei.
+> **原句3:** I lupi si sono diffusi dall'Italia verso altri paesi europei.
 
 **中文理解**：狼已从意大利扩散到其他欧洲国家。
 
 **句子结构**："X si sono Y da A verso B"（X已从A扩散到B）。
 
+**动词变位**：
+- si sono diffusi（已扩散）
+
 **关键词**：
-- si sono扩散dall'Italia（已从意大利扩散）
+- si sono diffusi dall'Italia（已从意大利扩散）
 - verso altri paesi europei（到其他欧洲国家）
 
 ---
@@ -169,7 +172,7 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 | l'indennizzo | 赔偿 | B2 | "paga indennizzi" |
 | il cinghiale | 野猪 | B2 | "cinghiali" |
 | il cervo | 鹿 | B2 | "cervi" |
-|扩散 | 扩散 | B2 | "si sono扩散dall'Italia" |
+| diffondersi | 扩散 | B2 | "si sono diffusi dall'Italia" |
 
 ### ⭐⭐⭐⭐ 高级（C1）
 

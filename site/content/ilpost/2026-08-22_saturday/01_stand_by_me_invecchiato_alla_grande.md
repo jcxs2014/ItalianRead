@@ -163,6 +163,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 
 **表达方式**："essere considerato uno dei migliori" = "被认为是最好的...之一"。
 
+**段落逻辑**：经典地位 → 名导陨落 → 童年回忆 → 电影魔力
+
 ---
 
 ### 第2段：剧情与人物
@@ -279,6 +281,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 - ubriaco（醉的）
 
 **表达方式**："provenire da" = "来自..."。
+
+**段落逻辑**：故事来源 → 四少年命运 → 死亡教育 → 纯真消逝
 
 ---
 
@@ -463,6 +467,8 @@ originalUrl: "Il Post [Sat, 22 Aug 2026] - calibre.epub"
 **结构**：Incarna perfettamente | quella strana sensazione | di nostalgia infantile | che può | allo stesso tempo | divertire e tormentarci
 
 ---
+
+**段落逻辑**：剧本创作 → 发行细节 → 口碑传播 → 跨代共鸣
 
 ## 精读结束总结
 
