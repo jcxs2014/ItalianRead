@@ -1,5 +1,5 @@
 ---
-title: "18 - Guicciardini (1483-1540): Storie fiorentine"
+title: "18 - Storie fiorentine"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Guicciardini (1483-1540)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 18 - Guicciardini (1483-1540): Storie fiorentine
+# 18 - Storie fiorentine
 
 ## 概要
 
-**情节摘要**：《Guicciardini (1483-1540): Storie fiorentine》是Guicciardini (1483-1540)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Storie fiorentine》是Guicciardini (1483-1540)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagnia che pò, ed al cospetto de tutti i più nobili ed estimati omini che siano nell’esercito, e massimamente alla presenzia e, se possibil è, inanzi agli occhi proprii del suo re o di quel signore a cui serve; perché in vero è ben conveniente valersi delle cose ben fatte. Ed io estimo che, siccome è male cercar gloria falsa e di quello che non si merita, così sia ancor male defraudar se stesso del debito onore e non cercarne quella laude, che sola è vero premio delle virtuose fatiche. Ed io ricordomi aver già conosciuti di quelli, che, avvenga che fossero valenti, pur in questa parte erano grossieri; e così metteano la vita a periculo per andar a pigliar una mandra di pecore come per esser i primi che montassero le mura d’una terra combat...
+dine e, quelle cose segnalate ed ardite che ha da fare, farle con minor compagnia che pò, ed al cospetto de tutti i più nobili ed estimati omini che siano nell’esercito, e massimamente alla presenzia e, se possibil è, inanzi agli occhi proprii del suo re o di quel signore a cui serve; perché in vero è ben conveniente valersi delle cose ben fatte. Ed io estimo che, siccome è male cercar gloria falsa e di quello che non si merita, così sia ancor male defraudar se stesso del debito onore e non cercarne quella laude, che sola è vero premio delle virtuose fatiche. Ed io ricordomi aver già conosciuti di quelli, che, avveng...
 
 **翻译**：
-*Guicciardini (1483-1540)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

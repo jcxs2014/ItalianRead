@@ -1,5 +1,5 @@
 ---
-title: "19 - Bandello (1484-1561): Novelle"
+title: "19 - Novelle"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Bandello (1484-1561)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 19 - Bandello (1484-1561): Novelle
+# 19 - Novelle
 
 ## 概要
 
-**情节摘要**：《Bandello (1484-1561): Novelle》是Bandello (1484-1561)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Novelle》是Bandello (1484-1561)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per rispetto ai dui mariti che ha avuti— fu di basso sangue e di legnaggio non molto stimato, il cui padre fu Giacomo Scappardone, uomo plebeo in Casal di Monferrato. Questo Giacomo, tutto quello che aveva ridotto in danari, si diede a prestar ad usura publicamente con sì larghi interessi, che avendo da giovine cominciato a far questo mestieri, ci divenne tanto ricco che comperò possessioni assai, e tuttavia prestando e poco spendendo acquistò grandissime facultà. Ebbe per moglie una giovane greca, venuta di Grecia con la madre del marchese Guglielmo, che fu padre de la duchessa di Mantova. Era la m...
+uscì il suono loro e ne’ confini del mondo le parole loro”, significasse che la fede di Cristo fusse per la bocca degli apostoli penetrata per tutto il mondo. 19. Bandello (1484–1561): Novelle Voi, signori miei, devete sapere che questa signora Bianca Maria de la quale s’è parlato —dico signora per rispetto ai dui mariti che ha avuti— fu di basso sangue e di legnaggio non molto stimato, il cui padre fu Giacomo Scappardone, uomo plebeo in Casal di Monferrato. Questo Giacomo, tutto quello che aveva ridotto in danari, si diede a prestar ad usura publicamente con sì larghi interessi, che avendo da giovine cominciato a far questo mestieri, ci divenne tanto ricco che comperò possessioni assai, e tut...
 
 **翻译**：
-*Bandello (1484-1561)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

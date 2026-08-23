@@ -1,5 +1,5 @@
 ---
-title: "42 - De Sanctis (1817-1883): Storia della letteratura italiana"
+title: "42 - De: Storia della letteratura"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "De Sanctis (1817-1883)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:44 +0000
 ---
 
-# 42 - De Sanctis (1817-1883): Storia della letteratura italiana
+# 42 - De: Storia della letteratura
 
 ## 概要
 
-**情节摘要**：《De Sanctis (1817-1883): Storia della letteratura italiana》是De Sanctis (1817-1883)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Storia della letteratura》是De Sanctis (1817-1883)的代表作之一。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -36,14 +36,14 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 42. De Sanctis (1817–1883): Storia della letteratura italiana Si può ora comprendere il meccanismo del dramma metastasiano. Sta in cima l’eroe o l’eroina, Zenobia o Issipile, Temistocle o Tito. L’eroe ha tutte le perfezioni che la poesia ha collocate nell’età dell’oro, e sveglia l’eroismo intorno a sé, rende eroici anche i personaggi secondari. Piú l’età è prosaica, piú esagerato è l’eroismo, abbandonato a una immaginazione libera, che ingrandisce le proporzioni a arbitrio, con non altro scopo che di eccitare la maraviglia. Il maraviglioso è in questo, che l’eroe è un’antitesi accentuata e romorosa alla vita comune, offrendo in olocausto alla...
 
 **翻译**：
-*De Sanctis (1817-1883)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ## 文化注释
 
-De Sanctis (1817-1883)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+De Sanctis (1817-1883)是意大利文学传统中的重要作家。
 
 ---
 
@@ -73,7 +73,7 @@ De Sanctis (1817-1883)是意大利文学传统中的重要作家，这部作品�
 
 **叙事视角**：待分析。
 **意象/象征**：待分析。
-**语言特点**：古意大利语风格。
+**语言特点**：现代意大利语风格。
 
 ---
 
@@ -85,7 +85,7 @@ De Sanctis (1817-1883)是意大利文学传统中的重要作家，这部作品�
 
 ## 精读笔记
 
-**中意对比难点**：古意大利语与现代意大利语差异。
+**中意对比难点**：意大利语学习难点。
 **骨架句型**：待记录。
 **可迁移表达**：待记录。
 **难句回顾**：待记录。

@@ -1,5 +1,5 @@
 ---
-title: "20 - Da Porto (1485-1529): -Istoria . . . di due nobili amanti-"
+title: "20 - Novelle"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Da Porto (1485-1529)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 20 - Da Porto (1485-1529): -Istoria . . . di due nobili amanti-
+# 20 - Novelle
 
 ## 概要
 
-**情节摘要**：《Da Porto (1485-1529): -Istoria . . . di due nobili amanti-》是Da Porto (1485-1529)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Novelle》是Da Porto (1485-1529)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-20. Da Porto (1485–1529): “Istoria . . . di due nobili amanti” Furono adunque, come dico, in Verona sotto il già detto signor le sopradette nobilissime famiglie, di valorosi omini e di richezza ugualmente dal cielo, da la natura e dalla fortuna dottate; tra le quali, come il più delle volte tra le gran case si vede, che che la cagion si fosse, crudelissima nimistà regnava, per la qual già più omini erano così dall’una come dall’altra parte morti, in guisa che sì per stanchezza, come spesso per questi casi adiviene, come anco per le minacie del signore, che con spiacere grandissimo le vedea nemiche, s’eran ritratte di più farsi dispiacere e senza altra pace col tempo in modo dimesticate, che gran parte degli loro uomini insieme parlavano. Essendo così costoro pacificati, adviene, uno carnevale, ch’in casa ...
+20. Da Porto (1485–1529): “Istoria . . . di due nobili amanti” Furono adunque, come dico, in Verona sotto il già detto signor le sopradette nobilissime famiglie, di valorosi omini e di richezza ugualmente dal cielo, da la natura e dalla fortuna dottate; tra le quali, come il più delle volte tra le gran case si vede, che che la cagion si fosse, crudelissima nimistà regnava, per la qual già più omini erano così dall’una come dall’altra parte morti, in guisa che sì per stanchezza, come spesso per questi casi adiviene, come anco per le minacie del signore, che con spiacere grandissimo le vedea nemiche, s’eran rit...
 
 **翻译**：
-*Da Porto (1485-1529)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

@@ -1,5 +1,5 @@
 ---
-title: "22 - Cellini (1500-1571): La vita"
+title: "22 - La vita"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Cellini (1500-1571)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 22 - Cellini (1500-1571): La vita
+# 22 - La vita
 
 ## 概要
 
-**情节摘要**：《Cellini (1500-1571): La vita》是Cellini (1500-1571)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《La vita》是Cellini (1500-1571)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo si domandava Giovanni, al quale io dissi: —Di grazia non andare, perché a simili cose sempre si vede la perdita sicura sanza nulla di guadagno.— Il simile gli diceva suo padre: —Deh, figliuol mio, non andare.— Questo giovane senza udir persona, corse giù pella scala. Giunto in Banchi, dove era la gran mistia, veduto Bertino levar di terra, correndo, tornando a drieto, si riscontrò in Cecchino mio fratello, il quali lo domandò che cosa quella era. Essendo Giovanni da alcuni accennato che tal cosa non dicessi al ditto Cecchino, disse a la ‘npazzata come gli era che Bertino Aldobrandi era stato a...
+22. Cellini (1500–1571): La vita ( A ) In tanto che queste cose seguivano, noi eramo tutti a tavola perché la mattina s’era desinato più d’un’ora più tardi che ’l solito nostro. Sentendo questi romori, un di quei figliuoli, il maggiore, si rizzò da tavola per andare a vedere questa mistia. Questo si domandava Giovanni, al quale io dissi: —Di grazia non andare, perché a simili cose sempre si vede la perdita sicura sanza nulla di guadagno.— Il simile gli diceva suo padre: —Deh, figliuol mio, non andare.— Questo giovane senza udir persona, corse giù pella scala. Giunto in Banchi, dove era la gran mistia, veduto Bertino levar di terra, correndo, tornando a drieto, si riscontrò in Cecchino mio ...
 
 **翻译**：
-*Cellini (1500-1571)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

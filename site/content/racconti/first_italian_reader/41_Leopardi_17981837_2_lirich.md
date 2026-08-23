@@ -1,5 +1,5 @@
 ---
-title: "41 - Leopardi (1798-1837): 2 liriche"
+title: "41 - Leopardi: 2 liriche"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Leopardi (1798-1837)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:44 +0000
 ---
 
-# 41 - Leopardi (1798-1837): 2 liriche
+# 41 - Leopardi: 2 liriche
 
 ## 概要
 
-**情节摘要**：《Leopardi (1798-1837): 2 liriche》是Leopardi (1798-1837)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《2 liriche》是Leopardi (1798-1837)的代表作之一。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -36,14 +36,14 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 41. Leopardi (1798–1837): 2 liriche L’infinito Sempre caro mi fu quest’ermo colle, e questa siepe, che da tanta parte dell’ultimo orizzonte il guardo esclude. Ma sedendo e mirando, interminati spazi di là da quella, e sovrumani silenzi, e profondissima quïete io nel pensier mi fingo; ove per poco il cor non si spaura. E come il vento odo stormir tra queste piante, io quello infinito silenzio a questa voce vo comparando: e mi sovvien l’eterno, e le morte stagioni, e la presente e viva, e il suon di lei. Cosí tra questa immensità s’annega il pensier mio: e il naufragar m’è dolce in questo mare. Le ricordanze Vaghe stelle dell’Orsa, io non credea tornare ancor per uso a contemplarvi sul p...
 
 **翻译**：
-*Leopardi (1798-1837)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ## 文化注释
 
-Leopardi (1798-1837)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Leopardi (1798-1837)是意大利文学传统中的重要作家。
 
 ---
 
@@ -73,7 +73,7 @@ Leopardi (1798-1837)是意大利文学传统中的重要作家，这部作品反
 
 **叙事视角**：待分析。
 **意象/象征**：待分析。
-**语言特点**：古意大利语风格。
+**语言特点**：现代意大利语风格。
 
 ---
 
@@ -85,7 +85,7 @@ Leopardi (1798-1837)是意大利文学传统中的重要作家，这部作品反
 
 ## 精读笔记
 
-**中意对比难点**：古意大利语与现代意大利语差异。
+**中意对比难点**：意大利语学习难点。
 **骨架句型**：待记录。
 **可迁移表达**：待记录。
 **难句回顾**：待记录。

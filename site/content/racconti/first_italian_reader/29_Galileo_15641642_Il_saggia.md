@@ -1,5 +1,5 @@
 ---
-title: "29 - Galileo (1564-1642): Il saggiatore"
+title: "29 - Galileo: Il saggiatore"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Galileo (1564-1642)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:24 +0000
 ---
 
-# 29 - Galileo (1564-1642): Il saggiatore
+# 29 - Galileo: Il saggiatore
 
 ## 概要
 
-**情节摘要**：《Galileo (1564-1642): Il saggiatore》是Galileo (1564-1642)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Il saggiatore》是Galileo (1564-1642)的代表作之一。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,17 +33,17 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-che un uomo; perché a quello essere non più ti avicini con esser sole, luna, che un uomo o una formica; e però nell’infinito queste cose sono indifferenti. E quello che dico di queste, intendo di tutte l’altre cose di sussistenza particulare. Or, se tutte queste cose particulari ne l’infinito non sono altro e altro, non sono differenti, non sono specie, per necessaria consequenza non sono numero; dunque, l’universo è ancor uno immobile. Questo, perché comprende tutto, e non patisce altro e altro essere, e non comporta seco né in sé mutazione alcuna; per consequenza, è tutto quello che può essere; ed in lui (come dissi l’altro giorno) non è differente l’atto da la potenza. Se dalla potenza non è differente l’atto, è necessario che in quello il punto, la linea, la superficie e il corpo non differiscano: perché cossì quella linea è superficie, come la linea, movendosi, può essere supe...
+che un uomo; perché a quello essere non più ti avicini con esser sole, luna, che un uomo o una formica; e però nell’infinito queste cose sono indifferenti. E quello che dico di queste, intendo di tutte l’altre cose di sussistenza particulare. Or, se tutte queste cose particulari ne l’infinito non sono altro e altro, non sono differenti, non sono specie, per necessaria consequenza non sono numero; dunque, l’universo è ancor uno immobile. Questo, perché comprende tutto, e non patisce altro e altro essere, e non comporta seco né in sé mutazione alcuna; per consequenza, è tutto quello che può essere; ed in lui (come dissi l’altro giorno) non è differente l’atto da la potenza. Se dalla pote...
 
 **翻译**：
-*Galileo (1564-1642)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ che un uomo; perché a quello essere non più ti avicini con esser sole, luna, c
 
 ## 文化注释
 
-Galileo (1564-1642)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Galileo (1564-1642)是意大利文学传统中的重要作家。
 
 ---
 

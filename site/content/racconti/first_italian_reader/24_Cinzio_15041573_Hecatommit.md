@@ -1,5 +1,5 @@
 ---
-title: "24 - Cinzio (1504-1573): Hecatommiti"
+title: "24 - Hecatommiti"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Cinzio (1504-1573)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 24 - Cinzio (1504-1573): Hecatommiti
+# 24 - Hecatommiti
 
 ## 概要
 
-**情节摘要**：《Cinzio (1504-1573): Hecatommiti》是Cinzio (1504-1573)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Hecatommiti》是Cinzio (1504-1573)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-corpo che si cuoprono; né pure farne sembiante, sì come alcuni trascurati famigliari fanno, tenendosele in seno o di dietro nascoste sotto a’ panni; ma le deono tenere in palese e fuori d’ogni sospetto, ed averle con ogni diligenzia lavate e nette senza avervi sù pure un segnuzzo di bruttura in alcuna parte. E quelli, che arrecano i piattelli o porgono la coppa, diligentemente si astenghino in quell’ora da sputare, da tossire e più da starnutire, perciocché in simili atti tanto vale e così noia i signori la sospezione quanto la certezza: e perciò procurino i famigliari di non dar cagione a’ padroni di sospicare, perciocché quello che poteva addivenire così noia come se egli fosse avvenuto. [. . .] 24. Cinzio (1504–1573): Hecatommiti Fu già in Venezia un Moro molto valoroso, il quale, per essere pro’della persona, e per aver dato segno, nelle cose della guerra, di gran prudenza e ...
+corpo che si cuoprono; né pure farne sembiante, sì come alcuni trascurati famigliari fanno, tenendosele in seno o di dietro nascoste sotto a’ panni; ma le deono tenere in palese e fuori d’ogni sospetto, ed averle con ogni diligenzia lavate e nette senza avervi sù pure un segnuzzo di bruttura in alcuna parte. E quelli, che arrecano i piattelli o porgono la coppa, diligentemente si astenghino in quell’ora da sputare, da tossire e più da starnutire, perciocché in simili atti tanto vale e così noia i signori la sospezione quanto la certezza: e perciò procurino i famigliari di non dar cagione a’ padroni di sospicare, perciocché quello che poteva addivenire così noia come se egli fosse avv...
 
 **翻译**：
-*Cinzio (1504-1573)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

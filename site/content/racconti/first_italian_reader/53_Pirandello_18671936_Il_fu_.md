@@ -1,5 +1,5 @@
 ---
-title: "53 - Pirandello (1867-1936): Il fu Mattia Pascal"
+title: "53 - Pirandello: Il fu Mattia Pascal"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Pirandello (1867-1936)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:44 +0000
 ---
 
-# 53 - Pirandello (1867-1936): Il fu Mattia Pascal
+# 53 - Pirandello: Il fu Mattia Pascal
 
 ## 概要
 
-**情节摘要**：《Pirandello (1867-1936): Il fu Mattia Pascal》是Pirandello (1867-1936)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Il fu Mattia Pascal》是Pirandello (1867-1936)的代表作之一。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,17 +33,17 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-fuori di quei limiti. Il che ha la sua riprova di fatto nella forza dell’eterno procedere socratico, nella facilità onde gli addottrinati lasciano confusi e a bocca aperta, con l’incalzare delle loro domande, i non addottrinati, che pure avevano cominciato col parlar bene, e ai quali, messi a rischio, nel corso dell’interrogatorio, di perdere anche quel poco sapere che possedevano, non resta altra difesa che rientrare nel proprio guscio, dichiarando che non amano le «sottigliezze». Ecco, dunque, dove soltanto può essere collocato l’orgoglio del filosofo: nella coscienza della maggiore intensità delle sue domande e delle sue risposte; orgoglio che non va scompagnato dalla modestia, cioè dalla consapevolezza che, se l’àmbito suo è più largo, o il più largo possibile in un determinato momento, ha pur tuttavia i suoi limiti, tracciati dalla storia di quel momento...
+fuori di quei limiti. Il che ha la sua riprova di fatto nella forza dell’eterno procedere socratico, nella facilità onde gli addottrinati lasciano confusi e a bocca aperta, con l’incalzare delle loro domande, i non addottrinati, che pure avevano cominciato col parlar bene, e ai quali, messi a rischio, nel corso dell’interrogatorio, di perdere anche quel poco sapere che possedevano, non resta altra difesa che rientrare nel proprio guscio, dichiarando che non amano le «sottigliezze». Ecco, dunque, dove soltanto può essere collocato l’orgoglio del filosofo: nella coscienza della maggiore intensità delle sue domande e delle sue risposte; orgoglio che non va scompagna...
 
 **翻译**：
-*Pirandello (1867-1936)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ fuori di quei limiti. Il che ha la sua riprova di fatto nella forza dell’etern
 
 ## 文化注释
 
-Pirandello (1867-1936)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Pirandello (1867-1936)是意大利文学传统中的重要作家。
 
 ---
 
@@ -73,7 +73,7 @@ Pirandello (1867-1936)是意大利文学传统中的重要作家，这部作品�
 
 **叙事视角**：待分析。
 **意象/象征**：待分析。
-**语言特点**：古意大利语风格。
+**语言特点**：现代意大利语风格。
 
 ---
 
@@ -85,7 +85,7 @@ Pirandello (1867-1936)是意大利文学传统中的重要作家，这部作品�
 
 ## 精读笔记
 
-**中意对比难点**：古意大利语与现代意大利语差异。
+**中意对比难点**：意大利语学习难点。
 **骨架句型**：待记录。
 **可迁移表达**：待记录。
 **难句回顾**：待记录。

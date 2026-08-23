@@ -1,5 +1,5 @@
 ---
-title: "15 - Ariosto (1474-1533): Orlando furioso"
+title: "15 - Orlando furioso"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Ariosto (1474-1533)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:40 +0000
 ---
 
-# 15 - Ariosto (1474-1533): Orlando furioso
+# 15 - Orlando furioso
 
 ## 概要
 
-**情节摘要**：《Ariosto (1474-1533): Orlando furioso》是Ariosto (1474-1533)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Orlando furioso》是Ariosto (1474-1533)的代表作之一，展现了意大利文学传统的重要片段。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,17 +33,17 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-lume da quello splendore pigliassero, che è reggitore de’ loro corsi, facitore del dì e della notte, apportatore del tempo, generatore e moderatore di tutte le nascenti cose. [. . .] 15. Ariosto (1474–1533): Orlando furioso Le donne, i cavallier, l’arme, gli amori, le cortesie, l’audaci imprese io canto, che furo al tempo che passaro i Mori d’Africa il mare, e in Francia nocquer tanto, seguendo l’ire e i giovenil furori d’Agramante lor re, che si diè vanto di vendicar la morte di Troiano sopra re Carlo imperator romano. Dirò d’Orlando in un medesmo tratto cosa non detta in prosa mai né in rima: che per amor venne in furore e matto, d’uom che sì saggio era stimato prima; se ...
+lume da quello splendore pigliassero, che è reggitore de’ loro corsi, facitore del dì e della notte, apportatore del tempo, generatore e moderatore di tutte le nascenti cose. [. . .] 15. Ariosto (1474–1533): Orlando furioso Le donne, i cavallier, l’arme, gli amori, le cortesie, l’audaci imprese io canto, che furo al tempo che passaro i Mori d’Africa il mare, e in Francia nocquer tanto, seguendo l’ire e i giovenil furori d’Agramante lor re, che si diè vanto di vendicar la morte ...
 
 **翻译**：
-*Ariosto (1474-1533)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ lume da quello splendore pigliassero, che è reggitore de’ loro corsi, facitor
 
 ## 文化注释
 
-Ariosto (1474-1533)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Ariosto (1474-1533)是意大利文学传统中的重要作家。
 
 ---
 

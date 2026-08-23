@@ -1,5 +1,5 @@
 ---
-title: "23 - Della Casa (1503-1556): Galateo"
+title: "23 - Galateo"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Della Casa (1503-1556)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:55 +0000
 ---
 
-# 23 - Della Casa (1503-1556): Galateo
+# 23 - Galateo
 
 ## 概要
 
-**情节摘要**：《Della Casa (1503-1556): Galateo》是Della Casa (1503-1556)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Galateo》是Della Casa (1503-1556)的代表作之一，是意大利文学传统中的重要作品。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-che mi faceva di bisognio, e fussi grande ispesa quanto si volessi: poi a me dette in su la spalla con la mana, dicendomi: — Mon ami (che vuol dire “amico mio”), io non so qual s’è maggior piacere, o quello d’un principe l’aver trovato un uomo sicondo il suo cuore, o quello di quel virtuoso l’aver trovato un principe che gli dia tanta comodità, che lui possa esprimere i sua gran virtuosi concetti.— Io risposi che se io ero quello che diceva sua maestà, gli era stato molto maggior ventura la mia. Rispose ridendo: —Diciamo che la sia eguale.— Partimmi con grande allegrezza, e tornai alle mie opere. [. . .] 23. Della Casa (1503–1556): Galateo E sappi che in Verona ebbe già un vescovo molto savio di scrittura e di senno naturale, il cui nome fu messer Giovanni Matteo Giberti; il quale fra gli altri suoi laudevoli costumi si fu cortese e liberale assai a’ nobili gentiluomini che andavano e venivano a...
+che mi faceva di bisognio, e fussi grande ispesa quanto si volessi: poi a me dette in su la spalla con la mana, dicendomi: — Mon ami (che vuol dire “amico mio”), io non so qual s’è maggior piacere, o quello d’un principe l’aver trovato un uomo sicondo il suo cuore, o quello di quel virtuoso l’aver trovato un principe che gli dia tanta comodità, che lui possa esprimere i sua gran virtuosi concetti.— Io risposi che se io ero quello che diceva sua maestà, gli era stato molto maggior ventura la mia. Rispose ridendo: —Diciamo che la sia eguale.— Partimmi con grande allegrezza, e tornai alle mie opere. [. . .] 23. Della Casa (1503–1556): Galateo E sappi che in Verona ebbe già un vescovo molto savio di scr...
 
 **翻译**：
-*Della Casa (1503-1556)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇

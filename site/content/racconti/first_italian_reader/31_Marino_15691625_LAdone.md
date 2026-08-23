@@ -1,5 +1,5 @@
 ---
-title: "31 - Marino (1569-1625): L-Adone"
+title: "31 - Marino: L'Adone"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Marino (1569-1625)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:24 +0000
 ---
 
-# 31 - Marino (1569-1625): L-Adone
+# 31 - Marino: L'Adone
 
 ## 概要
 
-**情节摘要**：《Marino (1569-1625): L-Adone》是Marino (1569-1625)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《L'Adone》是Marino (1569-1625)的代表作之一。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -36,14 +36,14 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 31. Marino (1569–1625): L’Adone Ma sovr’ogni augellin vago e gentile che più spieghi leggiadro il canto e ’l volo, versa il suo spirto tremulo e sottile la sirena de’ boschi, il rosignuolo; e tempra in guisa il peregrino stile che par maestro de l’alato stuolo. In mille fogge il suo cantar distingue, e trasforma una lingua in mille lingue. Udir musico mostro, oh meraviglia, che s’ode sì ma si discerne apena, come or tronca la voce, or la ripiglia, or la ferma, or la torce, or scema, or piena, or la mormora grave, or l’assottiglia, or fa di dolci groppi ampia catena, e sempre, o se la sparge o se l’accoglie, con egual melodia la lega e scioglie. Oh che vezzose, oh che pietose rime, lascivetto ...
 
 **翻译**：
-*Marino (1569-1625)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ## 文化注释
 
-Marino (1569-1625)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Marino (1569-1625)是意大利文学传统中的重要作家。
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "14 - Bembo (1470-1547): Gli Asolani"
+title: "14 - Gli Asolani"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,14 +7,14 @@ source: first_italian_reader
 author: "Bembo (1470-1547)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:02:40 +0000
 ---
 
-# 14 - Bembo (1470-1547): Gli Asolani
+# 14 - Gli Asolani
 
 ## 概要
 
-**情节摘要**：《Bembo (1470-1547): Gli Asolani》是Bembo (1470-1547)的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Gli Asolani》是Bembo (1470-1547)的代表作之一，展现了意大利文学传统的重要片段。
 
 **时间/地点**：意大利文学史重要时期
 
@@ -33,17 +33,17 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-14. Bembo (1470–1547): Gli Asolani “Hanno tra le loro più secrete memorie gli antichi maestri delle sante cose, essere una Reina in quelle isole, che io dico, Fortunate, bellissima e di maraviglioso aspetto e ornata di cari e preziosi vestiri e sempre giovane. La qual marito non vuole già e servasi vergine tutto tempo, ma bene d’essere amata e vagheggiata si contenta. E a quegli, che più l’amano, ella maggior guiderdone dà de’ loro amori, e convenevole, secondo la loro affezione, agli altri. Ma ella di tutti in questa guisa ne fa pruova. Perciò che venuto che ciascun l’è davanti, che è secondo che essi sono dallei fatti chiamare or uno or altro, essa, con una verghetta toccatigli, ne gli manda via. E questi, incontanente che del palagio della Reina sono usciti, s’addormentano, e così dormono infin attanto che essa gli fa risvegliare. Ritornano adunque costoro davanti la Reina un...
+14. Bembo (1470–1547): Gli Asolani “Hanno tra le loro più secrete memorie gli antichi maestri delle sante cose, essere una Reina in quelle isole, che io dico, Fortunate, bellissima e di maraviglioso aspetto e ornata di cari e preziosi vestiri e sempre giovane. La qual marito non vuole già e servasi vergine tutto tempo, ma bene d’essere amata e vagheggiata si contenta. E a quegli, che più l’amano, ella maggior guiderdone dà de’ loro amori, e convenevole, secondo la loro affezione, agli a...
 
 **翻译**：
-*Bembo (1470-1547)的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
 - 语法：重要语法结构分析
 - 写作手法：文学技巧解析
 
-**段落逻辑**：开篇引入 → 主题展开 → 思想深化
+**段落逻辑**：开篇 → 发展 → 结尾
 
 ---
 
@@ -65,7 +65,7 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ## 文化注释
 
-Bembo (1470-1547)是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+Bembo (1470-1547)是意大利文学传统中的重要作家。
 
 ---
 

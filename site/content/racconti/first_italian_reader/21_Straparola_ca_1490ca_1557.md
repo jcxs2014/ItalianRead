@@ -1,5 +1,5 @@
 ---
-title: "21 - Straparola (ca. 1490-ca. 1557): Le piacevoli notti"
+title: "21 - Straparola: Le piacevoli notti"
 lang: it
 状态: 精读中
 难度: A2-B1
@@ -7,16 +7,16 @@ source: first_italian_reader
 author: "Straparola"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
-date: Sun, 23 Aug 2026 14:54:32 +0000
+date: Sun, 23 Aug 2026 15:03:24 +0000
 ---
 
-# 21 - Straparola (ca. 1490-ca. 1557): Le piacevoli notti
+# 21 - Straparola: Le piacevoli notti
 
 ## 概要
 
-**情节摘要**：《Straparola (ca. 1490-ca. 1557): Le piacevoli notti》是Straparola的代表作之一，是意大利文学传统中的重要作品。
+**情节摘要**：《Le piacevoli notti》是斯特拉帕罗拉的代表作，是意大利文学中最早的小说集之一，包含多个民间故事。
 
-**时间/地点**：意大利文学史重要时期
+**时间/地点**：文艺复兴时期意大利
 
 **主要人物**：待补充
 
@@ -33,10 +33,10 @@ date: Sun, 23 Aug 2026 14:54:32 +0000
 
 ---
 
-forza tiratosi, ivi, sanza ch’ella od altri lo sapesse, ad udire lo suo bel parlare si sedea, e ora sopra la strada giacea. [. . .] 21. Straparola (ca 1490–ca 1557): Le piacevoli notti In Boemia, piacevoli donne, non è gran tempo che si trovò una vecchiarella, Bagolana Savonese per nome chiamata. Costei, essendo poverella e avendo due figliuole, l’una de’ quai Cassandra, l’altra Adamantina si addimandava, volse di quella poca povertà, che ella si trovava avere, ordinare i fatti suoi e contenta morire. E non avendo in casa né fuori cosa alcuna di cui testare potesse, eccetto che una cassettina piena di stoppa, fece testamento; e la cassettina con la stoppa lasciò alle figliuole, pregandole che dopo la morte sua pacificamente insieme vivessero. Le due sorelle, quantunque fussino povere de’ beni della fortuna, nondimeno erano ricche de’ beni dell’animo, e in costumi non erano...
+forza tiratosi, ivi, sanza ch’ella od altri lo sapesse, ad udire lo suo bel parlare si sedea, e ora sopra la strada giacea. [. . .] 21. Straparola (ca 1490–ca 1557): Le piacevoli notti In Boemia, piacevoli donne, non è gran tempo che si trovò una vecchiarella, Bagolana Savonese per nome chiamata. Costei, essendo poverella e avendo due figliuole, l’una de’ quai Cassandra, l’altra Adamantina si addimandava, volse di quella poca povertà, che ella si trovava avere, ordinare i fatti suoi e contenta morire. E non avendo in casa né fuori cosa alcuna di cui testare potesse, eccetto che una cassettina piena di stoppa, fece testamento; e la cassettina con la stoppa lasciò alle figliuole...
 
 **翻译**：
-*Straparola的这部作品片段讲述了关于人性、社会和文化的深刻故事。*
+*[需要完整翻译]*
 
 **注释**：
 - 词汇：关键文学词汇
@@ -65,7 +65,7 @@ forza tiratosi, ivi, sanza ch’ella od altri lo sapesse, ad udire lo suo bel pa
 
 ## 文化注释
 
-Straparola是意大利文学传统中的重要作家，这部作品反映了当时社会的特点和人文主义思想。
+斯特拉帕罗拉是文艺复兴时期的重要作家。
 
 ---
 
