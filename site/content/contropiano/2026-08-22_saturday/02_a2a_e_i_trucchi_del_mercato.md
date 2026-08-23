@@ -28,10 +28,16 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X è una delle più grandi Y italiane"（X是意大利最大的Y之一）。
 
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+
 **关键词**：
 - A2A（意大利能源公司）
 - una delle più grandi（最大的之一）
 - le aziende energetiche（能源公司）
+
+**表达方式**："una delle più grandi" = "最大的之一"；用于表达在某类中排名靠前。
+   - 例：È una delle più grandi aziende d'Italia.
 
 ---
 
@@ -85,6 +91,9 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - un grande potere（很大的控制权）
 - il prezzo dell'energia（能源价格）
 
+**表达方式**："in realtà" = "实际上"；用于引出与表面不同的真实情况。
+   - 例：In realtà, non era così semplice.
+
 ---
 
 > **原句5:** Possono decidere quando produrre e quando fermarsi per creare scarsità artificiale.
@@ -101,11 +110,20 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - creare scarsità artificiale（制造人为稀缺）
 - produrre（生产）
 
+**表达方式**："in modo speculativo" = "以投机的方式"；形容通过市场操纵获取利益的行为。
+   - 例：Le aziende manipolano i prezzi in modo speculativo.
+
 ---
 
 > **原句6:** Questo permette di far salire i prezzi in modo speculativo.
 
 **中文理解**：这使得价格能够以投机的方式上涨。
+
+**句子结构**："X permette di Y"（X使得Y）。
+
+**动词变位**：
+- permette（允许/使得）
+- far salire（使上涨）
 
 **关键词**：
 - in modo speculativo（以投机的方式）
@@ -120,6 +138,11 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 > **原句7:** Le aziende energetiche speculano sulla pelle dei cittadini.
 
 **中文理解**：能源公司在公民的皮上投机。
+
+**句子结构**："X specula sulla pelle di Y"（X在Y的皮上投机/剥削Y）。
+
+**动词变位**：
+- speculano（投机，现在时直陈式第三人称复数）
 
 **关键词**：
 - speculano sulla pelle（投机/剥削）
@@ -141,6 +164,9 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **关键词**：
 - regolamentazioni più severe（更严格的监管）
 - evitare questi abusi（避免这些滥用）
+
+**表达方式**："servirebbero...per" = "需要...来..."；用条件式表达建议。
+   - 例：Servirebbero leggi più severe per proteggere i consumatori.
 
 ---
 

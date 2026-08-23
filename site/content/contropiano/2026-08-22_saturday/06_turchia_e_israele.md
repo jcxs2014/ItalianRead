@@ -46,6 +46,10 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X è più Y che Z, ma segnala W"（X更多是Y而非Z，但标志着W）。
 
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+- segnala（标志，现在时直陈式第三人称单数）
+
 **关键词**：
 - più simbolica che reale（更多象征性而非实质性）
 - una crescente contrapposizione（日益增长的对立）
@@ -60,9 +64,16 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X hanno costituito Y"（X一直是Y）。
 
+**动词变位**：
+- hanno costituito（构成/一直是，完成时复数）
+
 **关键词**：
+- i due paesi（两国）
 - il pilastro meridionale della Nato（北约的南部支柱）
 - per decenni（几十年来）
+
+**表达方式**："per decenni" = "几十年来"；表示长期持续的时间。
+   - 例：Per decenni, questi paesi hanno cooperato.
 
 **段落逻辑**：土耳其对内塔尼亚胡发国际逮捕令 → 象征性多于实质 → 但显示日益增长的对立
 
@@ -76,10 +87,16 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Per X, non se ne parla più, dopo Y"（对于X，在Y之后，不再提了）。
 
+**动词变位**：
+- non se ne parla（不再谈论，无人称结构）
+
 **关键词**：
 - per Erdogan（对埃尔多安来说）
 - non se ne parla più（不再提了）
 - un ruolo dominante su Damasco（在大马士革的主导作用）
+
+**表达方式**："non se ne parla più" = "不再谈论/不再提了"；表示某事已被放弃或搁置。
+   - 例：Dopo il fallimento, non se ne parla più.
 
 ---
 
@@ -89,10 +106,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X che Y vuol mantenere è Z"（Y想要维持的X是Z）。
 
+**动词变位**：
+- vuol mantenere（想要维持，现在时直陈式第三人称单数）
+- è（是）
+
 **关键词**：
 - lo statu quo（现状）
 - vuol mantenere（想要维持）
 - senza autonomia（没有自主权）
+
+**表达方式**："lo statu quo" = "现状"；指当前维持的状态或局势。
+   - 例：Il governo vuole mantenere lo statu quo.
 
 ---
 

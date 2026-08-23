@@ -29,13 +29,16 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **句子结构**："X e Y stazionano in Z, a + 距离 dalla + 地点"（X和Y停在Z，距离A公里之外）。
 
 **动词变位**：
-- stazionano（停驻）
+- stazionano（停驻，现在时直陈式第三人称复数）
 
 **关键词**：
 - le due portaerei（两个航母）
 - la Lincoln e la Bush（林肯号和布什号）
 - nel Mare Arabico（在阿拉伯海）
 - a mille chilometri dalla costa（一千公里外）
+
+**表达方式**："a mille chilometri da" = "距离...一千公里"；表示距离。
+   - 例：La base si trova a mille chilometri dal confine.
 
 ---
 
@@ -55,7 +58,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - la vulnerabilità（脆弱性）
 - le nuove tecnologie militari（新军事技术）
 
-**表达方式**："a distanza di sicurezza" = "安全距离"。
+**表达方式**："a distanza di sicurezza" = "安全距离"；保持不会受到攻击或影响的安全距离。
+   - 例：Le navi restano a distanza di sicurezza dalla costa.
 
 **段落逻辑**：两航母千公里外停驻 → 历史最强舰队保持安全距离 → 避免暴露对新军事技术的脆弱性
 
@@ -69,12 +73,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X, da cui passava Y, è di fatto Z"（X——Y经此通过——实际上Z）。
 
+**动词变位**：
+- passava（通过，未完成时）
+- è chiuso（被封锁，被动态）
+
 **关键词**：
 - lo Stretto di Hormuz（霍尔木兹海峡）
 - un quinto del petrolio mondiale（全球五分之一的石油）
 - è di fatto chiuso（实际上被封锁）
 
-**表达方式**："di fatto" = "实际上"。
+**表达方式**："di fatto" = "实际上"；表示事实上的状态，与法律或官方名义相对。
+   - 例：Di fatto, il governo ha perso il controllo.
 
 ---
 
@@ -94,6 +103,9 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - contro Riad（针对利雅得）
 - gli impianti Aramco（沙特阿美炼油厂）
 
+**表达方式**："proclamare l'embargo" = "宣布封锁"；正式宣布实施禁运或封锁措施。
+   - 例：Il governo ha proclamato l'embargo contro il paese nemico.
+
 **段落逻辑**：霍尔木兹海峡实际封锁 → 全球五分之一石油受阻 → 胡塞宣布海上封锁
 
 ---
@@ -106,6 +118,10 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Le opzioni più efficaci sono impraticabili: X non può Y"（最有效的选项是行不通的：X无法Y）。
 
+**动词变位**：
+- sono impraticabili（是行不通的）
+- non può invadere（无法入侵）
+
 **关键词**：
 - le opzioni più efficaci（最有效的选项）
 - impraticabili（行不通的）
@@ -113,7 +129,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - invadere（入侵）
 - 92 milioni di abitanti（9200万人口）
 
-**表达方式**："le opzioni più efficaci sono impraticabili" = "最有效的选项恰恰是行不通的"。
+**表达方式**："le opzioni più efficaci sono impraticabili" = "最有效的选项恰恰是行不通的"；讽刺性地表达矛盾。
+   - 例：Le opzioni più efficaci sono spesso le più impossibili.
 
 ---
 
@@ -123,10 +140,18 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Un potere che può X ma non può Y, non è più Z"（一个能X却不能Y的力量不再是Z）。
 
+**动词变位**：
+- può punire（能惩罚）
+- non può proteggere（无法保护）
+- non è più（不再是）
+
 **关键词**：
 - un potere（一个力量）
 - può punire ma non può proteggere（能惩罚却无法保护）
 - non è più un'egemonia（不再是霸权）
+
+**表达方式**："non è più" = "不再是"；表示某种性质或身份的丧失。
+   - 例：Un alleato che tradisce non è più degno di fiducia.
 
 ---
 
@@ -136,13 +161,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："È X per Y, e Z per W"（对于Y是X，对于W是Z）。
 
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+
 **关键词**：
 - una dominazione bruta（粗暴的统治）
 - per le sue vittime（对于受害者）
 - un estortore mafioso（黑手党式的勒索者）
 - per i suoi amici（对于盟友）
 
-**表达方式**："per X, ... per Y" = "对于X，...对于Y"。
+**表达方式**："per X, ... per Y" = "对于X，...对于Y"；对比同一事物对不同对象的不同性质。
+   - 例：Per i deboli è un oppressore, per i potenti è un alleato.
 
 ---
 

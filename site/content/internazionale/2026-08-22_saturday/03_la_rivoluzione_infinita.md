@@ -64,6 +64,9 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Solo in X, Y hanno ottenuto Z"（直到X，Y才获得Z）。
 
+**动词变位**：
+- hanno ottenuto（获得，直陈式近过去时第三人称复数）
+
 **关键词**：
 - solo nel 1924（直到1924年）
 - gli indiani americani（美国印度安人）
@@ -94,6 +97,12 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 > **原句5:** I oleodotti che attraversano le terre tribali rappresentano una minaccia ambientale costante.
 
 **中文理解**：穿过部落土地的输油管道代表着持续的环境威胁。
+
+**动词变位**：
+- rappresentano（代表，直陈式现在时第三人称复数）
+
+**表达方式**："rappresentare una minaccia" = "构成威胁"。
+- 例：Il cambiamento climatico rappresenta una minaccia per tutti.（气候变化对所有人构成威胁。）
 
 **关键词**：
 - gli oleodotti（输油管道）
@@ -144,6 +153,10 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：争取原住民权利的斗争还远未结束，但在进步。
 
 **句子结构**："X è lungi dall'essere Y, ma fa Z"（X还远未Y，但在Z进步）。
+
+**动词变位**：
+- è（是，直陈式现在时第三人称单数）
+- fa progressi（在进步，直陈式现在时第三人称单数）
 
 **关键词**：
 - la lotta per i diritti（争取权利的斗争）

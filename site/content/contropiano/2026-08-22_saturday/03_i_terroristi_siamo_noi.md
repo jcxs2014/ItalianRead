@@ -28,11 +28,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X si parla sempre più spesso di Y in relazione a Z"（关于Z，人们越来越多地谈到Y）。
 
+**动词变位**：
+- si parla（被谈论，无人称结构现在时）
+
 **关键词**：
 - si parla di（谈到）
 - sempre più spesso（越来越多地）
 - il terrorismo（恐怖主义）
 - in relazione a（关于）
+
+**表达方式**："si parla di" = "谈论/讨论"；无人称结构，表示人们谈论某事。
+   - 例：Si parla molto di questo problema.
 
 ---
 
@@ -42,11 +48,18 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X è strumentale: serve a Y"（X是工具性的：目的是Y）。
 
+**动词变位**：
+- è（是）
+- serve a giustificare（目的是为...辩护）
+
 **关键词**：
 - questo uso del termine（这个词的这种使用）
 - strumentale（工具性的）
 - servire a giustificare（目的是为...辩护）
 - politiche repressive（镇压性政策）
+
+**表达方式**："servire a" = "用于..."；表示目的或用途。
+   - 例：Questo argomento serve a giustificare le sue azioni.
 
 ---
 
@@ -56,10 +69,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X sono altri: sono quelli che Y"（X是其他人：是那些Y的人）。
 
+**动词变位**：
+- sono（是）
+- bombano（轰炸，现在时直陈式第三人称复数）
+
 **关键词**：
 - i veri terroristi（真正的恐怖分子）
 - bombano paesi stranieri（轰炸外国）
 - per interessi economici（为了经济利益）
+
+**表达方式**："per interessi economici" = "为了经济利益"；解释行为动机。
+   - 例：Gli stati intervengono per interessi economici.
 
 **段落逻辑**：移民与恐怖主义挂钩 → 术语工具性使用 → 真正恐怖分子另有其人
 
@@ -91,16 +111,28 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X ha inventato Y per Z"（X发明了Y来Z）。
 
+**动词变位**：
+- ha inventato（发明了，完成时）
+
 **关键词**：
 - l'Occidente（西方）
 - ha inventato（发明了）
 - per controllare il mondo（来控制世界）
+
+**表达方式**："per controllare" = "为了控制"；表示目的的不定式结构。
+   - 例：Le potenze usano i media per controllare il consenso.
 
 ---
 
 > **原句6:** Gli immigrati vengono additati come capri espiatori per distogliere l'attenzione dai veri problemi.
 
 **中文理解**：移民被指责为替罪羊，以转移人们对真正问题的注意力。
+
+**句子结构**："X vengono additati come Y per Z"（X被指责为Y，为了Z）。
+
+**动词变位**：
+- vengono additati（被指责，被动态现在时复数）
+- per distogliere（为了转移）
 
 **关键词**：
 - vengono additati（被指责）
@@ -120,10 +152,18 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **中文理解**：制度性种族主义是对民主的真正威胁。
 
+**句子结构**："X è Y per Z"（X是对Y的Z）。
+
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+
 **关键词**：
 - il razzismo istituzionale（制度性种族主义）
 - la vera minaccia（真正的威胁）
 - per la democrazia（对民主）
+
+**表达方式**："la vera minaccia" = "真正的威胁"；强调某事物的危险性和严重性。
+   - 例：Il cambiamento climatico è la vera minaccia per l'umanità.
 
 ---
 

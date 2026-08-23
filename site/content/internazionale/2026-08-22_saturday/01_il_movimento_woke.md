@@ -45,6 +45,9 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："In realtà, X significa Y"（实际上，X意味着Y）。
 
+**动词变位**：
+- significa（意味着，现在时直陈式第三人称单数）
+
 **关键词**：
 - in realtà（实际上）
 - essere consapevoli（有意识的）
@@ -80,6 +83,9 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Ma X ignora che Y"（但X忽视了Y）。
 
+**动词变位**：
+- ignora（忽视，直陈式现在时第三人称单数）
+
 **关键词**：
 - questa critica（这种批评）
 - ignora（忽视）
@@ -114,6 +120,12 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X sono spesso Y da Z"（X往往是Y作Z的掩护）。
 
+**动词变位**：
+- sono mascherate da（被以...作掩护，被动态现在时复数）
+
+**表达方式**："mascherare da" = "以...作掩护/伪装"。
+- 例：Le critiche sono mascherate da preoccupazioni sincere.（批评往往是打着真诚担忧的幌子。）
+
 **关键词**：
 - mascherate da（以...作掩护）
 - preoccupazioni per la libertà（对...的担忧）
@@ -124,6 +136,12 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 > **原句7:** In realtà, il movimento woke sta expandendo la nostra capacità di includere prospettive diverse.
 
 **中文理解**：实际上，woke运动正在扩展我们纳入不同视角的能力。
+
+**动词变位**：
+- sta espandendo（正在扩展，现在进行时）
+
+**表达方式**："espandere la capacità di" = "扩展...的能力"。
+- 例：La tecnologia sta espandendo la nostra capacità di comunicare.（科技正在扩展我们的沟通能力。）
 
 **关键词**：
 - sta espandendo（正在扩展）
@@ -138,6 +156,9 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：这不是要取消辩论，而是要用迄今被边缘化的声音来丰富它。
 
 **句子结构**："Non si tratta di X, ma di Y"（这不是要X，而是要Y）。
+
+**动词变位**：
+- si tratta di（这是关于...，无人称结构）
 
 **关键词**：
 - non si tratta di（这不是要）

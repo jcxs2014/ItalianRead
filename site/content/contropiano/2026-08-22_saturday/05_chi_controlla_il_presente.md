@@ -28,11 +28,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Chi scrive è X e Y, originario di Z"（作者是X和Y，来自Z）。
 
+**动词变位**：
+- chi scrive（笔者，自反动词现在时）
+
 **关键词**：
 - chi scrive（作者/笔者）
 - un missionario（传教士）
 - antropologo（人类学家）
 - originario di（来自）
+
+**表达方式**："chi scrive" = "笔者/作者"；自指写作人的礼貌用语。
+   - 例：Chi scrive ha esperienza diretta di questi fatti.
 
 ---
 
@@ -87,7 +93,8 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 - si tratti di（是/涉及，虚拟式）
 - una fabbricazione della paura（恐惧的制造）
 
-**表达方式**："fabbricazione della paura" = "制造恐惧"。
+**表达方式**："fabbricazione della paura" = "制造恐惧"；指通过媒体或宣传人为制造恐慌情绪。
+   - 例：La fabbricazione della paura è una tecnica di controllo.
 
 ---
 
@@ -96,6 +103,9 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：民主制度建立在宪法的规定之上。
 
 **句子结构**："X è basato su Y"（X建立在Y之上）。
+
+**动词变位**：
+- è basato（建立在，被动态现在时）
 
 **关键词**：
 - un regime democratico（民主制度）
@@ -110,11 +120,15 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X è diversa da Y"（X与Y不同）。
 
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+
 **关键词**：
 - la forza delle idee（思想的力量）
 - la forza delle armi（武器的力量）
 
-**表达方式**："la forza di" = "...的力量"。
+**表达方式**："la forza di" = "...的力量"；表示某种力量或影响。
+   - 例：La forza delle parole può cambiare il mondo.
 
 **段落逻辑**：恐惧是制造的 → 民主基于宪法 → 思想力量不同于武器力量
 
@@ -128,10 +142,16 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Come sempre nella storia, X"（正如历史上常发生的，X）。
 
+**动词变位**：
+- controlla（控制，现在时直陈式第三人称单数）
+
 **关键词**：
 - come sempre nella storia（正如历史上常发生的）
 - chi controlla il presente（谁控制现在）
 - controlla il passato（控制过去）
+
+**表达方式**："come sempre" = "一如既往/正如常发生的"；引出普遍规律。
+   - 例：Come sempre, la storia si ripete.
 
 ---
 
@@ -139,14 +159,18 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **中文理解**：记忆是一个政治战场。
 
+**句子结构**："X è Y"（X是Y）。
+
+**动词变位**：
+- è（是）
+
 **关键词**：
 - la memoria（记忆）
 - un campo di battaglia（战场）
 - politico（政治的）
 
-**表达方式**："un campo di battaglia" = "一个战场"。
-
----
+**表达方式**："un campo di battaglia" = "一个战场"；比喻竞争或冲突激烈的领域。
+   - 例：Il sociale è un campo di battaglia per Ideologie.
 
 **段落逻辑**：控制现在控制过去 → 记忆是政治战场 → 权力与历史书写
 

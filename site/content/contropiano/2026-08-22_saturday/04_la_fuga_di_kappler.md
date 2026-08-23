@@ -63,10 +63,18 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **中文理解**：他是唯一被关押在意大利的高级纳粹军官。
 
+**句子结构**："X era Y"（X是Y）。
+
+**动词变位**：
+- era（是，过去时第三人称单数）
+
 **关键词**：
 - l'unico alto ufficiale（唯一的高级军官）
 - nazista（纳粹）
 - detenuto in Italia（被关押在意大利）
+
+**表达方式**："l'unico" = "唯一的"；强调独一无二性。
+   - 例：È l'unico testimone di quegli eventi.
 
 **段落逻辑**：1977年8月15日越狱 → 纳粹战犯被判终身 → 唯一关押意纳粹军官
 

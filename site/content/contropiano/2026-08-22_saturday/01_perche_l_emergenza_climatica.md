@@ -65,7 +65,19 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **中文理解**：为什么媒体不持续关注气候危机？
 
-**句子结构**："Perché X non Y?"（为什么X不Y？）
+**句子结构**："Perché X non Y?"（为什么X不Y？）。
+
+**动词变位**：
+- danno（给予，现在时直陈式第三人称复数）
+
+**关键词**：
+- i media（媒体）
+- non danno spazio（不给予空间）
+- la crisi climatica（气候危机）
+- costante（持续的）
+
+**表达方式**："dare spazio a" = "关注/给予空间"；指媒体持续报道某话题。
+   - 例：I media dovrebbero dare più spazio ai problemi ambientali.
 
 **段落逻辑**：最严重问题 → 仅极端事件才被讨论 → 日常性遗忘 → 核心问题提出
 
@@ -119,12 +131,17 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**：简单对比句。
 
+**动词变位**：
+- fa notizia（成为新闻，现在时直陈式第三人称单数）
+
 **关键词**：
 - un'alluvione（洪水）
 - fa notizia（成为新闻）
 - il riscaldamento graduale（逐渐变暖）
+- no（不会）
 
-**表达方式**："fare notizia" = "成为新闻"。
+**表达方式**："fare notizia" = "成为新闻"；指某事件因重要性而被媒体报道。
+   - 例：Qualsiasi disast natural fa notizia.
 
 **段落逻辑**：新闻依赖时事 → 气候危机是缓慢过程 → 不符合新闻价值逻辑 → 洪水上新闻渐暖不上
 
@@ -155,6 +172,10 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：广告是媒体的经济引擎，付费者想要销售，而不是提供信息。
 
 **句子结构**："X è Y, e Z vuole W, non V"（X是Y，Z想要W而不是V）。
+
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+- vuole（想要，现在时直陈式第三人称单数）
 
 **关键词**：
 - la pubblicità（广告）
@@ -195,6 +216,9 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X sono programmati per Y, non a Z"（X天生对Y反应，而不是Z）。
 
+**动词变位**：
+- sono programmati（被设定/天生的，被动态现在时复数）
+
 **关键词**：
 - gli esseri umani（人类）
 - programmati（天生的）
@@ -208,6 +232,12 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 > **原句11:** L'ansia climatica è reale, ma viene spesso repressa perché paralizzante.
 
 **中文理解**：气候焦虑是真实的，但经常被压抑，因为它是令人瘫痪的。
+
+**句子结构**："X è Y, ma Z perché W"（X是Y，但Z因为W）。
+
+**动词变位**：
+- è（是，现在时直陈式第三人称单数）
+- viene repressa（被压抑，被动态现在时单数）
 
 **关键词**：
 - l'ansia climatica（气候焦虑）

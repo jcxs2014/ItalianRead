@@ -46,6 +46,9 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Invece di X, ho scelto Y"（我没有X，而是选择了Y）。
 
+**动词变位**：
+- ho scelto（我选择了，直陈式近过去时第一人称单数）
+
 **关键词**：
 - invece di fretta（没有匆忙）
 - la lentezza（缓慢）
@@ -60,6 +63,10 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：区域火车很慢，但它让你看到真实的意大利。
 
 **句子结构**："X è lento, ma ti fa vedere Y"（X很慢，但它让你看到Y）。
+
+**动词变位**：
+- è lento（是慢的，直陈式现在时第三人称单数）
+- ti fa vedere（让你看到，习惯用法，相当于英语"lets you see"）
 
 **关键词**：
 - il treno Regionale（区域火车）
@@ -81,6 +88,10 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："X sono A, B e C che non possono permettersi Y"（X是A、B和C，Y负担不起）。
 
+**动词变位**：
+- sono（是，直陈式现在时复数）
+- non possono permettersi（负担不起，直陈式现在时第三人称复数）
+
 **关键词**：
 - i passeggeri（乘客）
 - pensionati（退休人员）
@@ -98,6 +109,12 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 
 **句子结构**："Abbiamo tempo di X, di Y, di Z"（我们有X、Y、Z的时间）。
 
+**动词变位**：
+- abbiamo tempo di（有时间，直陈式现在时第一人称复数）
+
+**表达方式**："avere tempo di fare qualcosa" = "有时间做某事"。
+- 例：Non abbiamo tempo di perdere.（我们没有时间浪费了。）
+
 **关键词**：
 - abbiamo tempo di（有时间）
 - parlare（交谈）
@@ -109,6 +126,12 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 > **原句6:** Il paesaggio cambia lentamente: colline, uliveti, mare.
 
 **中文理解**：风景缓慢变化：丘陵、橄榄园、大海。
+
+**动词变位**：
+- cambia（变化，直陈式现在时第三人称单数）
+
+**表达方式**："cambiare lentamente" = "缓慢变化"，表示渐进过程。
+- 例：La situazione sta cambiando lentamente.（局势正在慢慢变化。）
 
 **关键词**：
 - il paesaggio cambia（风景变化）
@@ -143,6 +166,10 @@ originalUrl: "Internazionale [Sat, 22 Aug 2026] - calibre.epub"
 **中文理解**：这是一种重新发现旅行乐趣的方式，不仅仅是目的地。
 
 **句子结构**："È un modo per X, non solo di Y"（这是一种X的方式，不仅仅是Y）。
+
+**动词变位**：
+- è（是，直陈式现在时第三人称单数）
+- riscoprire（重新发现，不定式）
 
 **关键词**：
 - un modo per（...的方式）
