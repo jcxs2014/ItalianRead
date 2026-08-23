@@ -8,38 +8,40 @@ description: 意大利语精读文章列表
 中文母语者用高品质意大利语来源做**逐句意语精读**的个人知识库。
 目标是"从看中文翻译过渡到直接读懂意大利语原文"。
 
-## 来源
+## 内容统计
 
-| 来源       | 类别     | 难度  |
-| ---------- | -------- | ------ |
-| doppiozero | 文学/文化 | B2-C1 |
+| 来源           | 篇数 | 难度     |
+| -------------- | ---- | -------- |
+| doppiozero     | 4    | B2-C1   |
+| Il Post        | 8    | B1-B2   |
+| Contropiano    | 7    | B2-C1   |
+| Internazionale  | 4    | B2-C1   |
+| racconti       | 205  | A2-C1   |
+| **总计**           | **228** |          |
 
-## 精读文章
+## 精读格式
 
-精读文档 = 原文 + 中文分析，Quartz 优先展示精读部分。
+- **文章精读**：概览 → 逐句精读 → 词汇分级 → 长难句 → 总结 → 可迁移表达
+- **故事精读**：chunk分段（原文→翻译→注释）+ 词汇表 + 固定表达 + 文化注释 + 文学手法 + 主题探讨 + 精读笔记
+- **新闻精读**：800-1000词核心段落 + 完整精读结构
 
 ## 每日工作流
 
-1. **抓文**：运行 `python3 scripts/fetch_<source>.py`
-2. **自动选 3-4 篇**：长度适中、题材多样、语言密度高
-3. **精读**：逐句分析，原句 / 自然中文 / 句子结构 / 动词变位 / 关键词 / 表达方式
-4. **合并**：原文 + 精读分析合并为一个 `.md` 文件
-
-## 精读核心原则
-
-- 以理解意语原文为核心，**不做逐词翻译**
-- 重点：动词变位、名词单复数、前置词搭配、长难句、地道/学术表达
-- 词汇分级：A1/A2 → B1/B2 → C1
-- 交互指令：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
+1. **抓文**：Calibre Fetch News 或 `python3 scripts/fetch_doppiozero.py`
+2. **提取**：`ebook-convert "news/xxx.epub" /tmp/xxx.txt`
+3. **选文**：选 800-1000 词核心段落，B1-C1 难度
+4. **精读**：逐句分析，原句 / 自然中文 / 句子结构 / 动词变位 / 关键词 / 表达方式
+5. **本地预览**：`./serve.sh`
 
 ## 本地预览
 
 ```bash
-./serve.sh
+./serve.sh          # 启动 http://localhost:8080
+./serve.sh build    # 仅构建
 ```
 
-部署（Cloudflare Pages）：
+## 部署（Cloudflare Pages）
 
-```bash
-cd quartz && npx quartz build --directory ../content
-```
+- Build command: `bash build.sh`
+- Build output: `site/public`
+- 环境变量: `NODE_VERSION=22`（由根目录 `.nvmrc` 自动设置）
