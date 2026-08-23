@@ -138,16 +138,23 @@
 
 ### 源文件管理
 - `news/` 存放 Calibre 抓取的 epub 新闻（不 git 追踪）
-- 支持的意大利语来源：Il Post, Internazionale, Contropiano, Il Corriere della Sera, Il Fatto Quotidiano, Il Manifesto, La Repubblica, La Stampa 等
+- `content/<source>/` 存放精读文档
+
+### 抓取工具
+1. **Calibre Fetch News**：用户手动抓取 epub 到 `news/`
+2. **fetch_ilpost.py**：使用 Il Post API（`pip install ilpost-api-wrapper`）
+3. **fetch_trafilatura.py**：通用全文提取，支持任意 URL（`pip install trafilatura`）
+4. **fetch_doppiozero.py**：doppiozero RSS（唯一有全文的 RSS 源）
 
 ### 处理流程
 1. 用户用 Calibre 抓取新闻 → epub 保存到 `news/`
 2. 用 ebook-convert 提取文本：`ebook-convert "news/xxx.epub" /tmp/xxx.txt`
-3. 从文本中选择适合精读的文章（1000-3000词，B1-C1难度）
-4. 生成精读文档 → 保存到 `content/<source>/<日期_星期>/`
+3. 或使用 `fetch_ilpost.py` 直接获取 Il Post 文章
+4. 从文本中选择适合精读的文章（800-1000词核心段落，B1-C1难度）
+5. 生成精读文档 → 保存到 `content/<source>/<日期_星期>/`
 
 ### 文章选择标准
-- 词数：1000-3000词（太短不够分析，太长阅读负担重）
-- 难度：B1-C1（A1/A2太简单，C2太难）
+- 词数：800-1000词（核心段落）
+- 难度：B1-C1
 - 主题：文化、社会、生活、科技（避免纯政治/体育）
 - 语言：清晰规范，有学习价值
