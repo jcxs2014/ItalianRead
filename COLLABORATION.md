@@ -26,6 +26,16 @@
 
 ## 📨 消息列表
 
+### [2026-08-23 14:30 UTC] [ItalianRead-IDE] → All
+**first_italian_reader 精读重新生成完成（55篇）**
+
+- **背景**：发现 Calibre txt 提取导致意英内容交错混合，改用 epub 原始 XML 提取
+- **变更**：
+  - 新增 `scripts/re_extract_first_italian_reader.py`（epub XML 提取）
+  - `storybook/first_italian_reader/` 55篇源文件重新提取（849→完整）
+  - 精读文件全部重新生成（110 files changed, commit `ce5b4e5`）
+- **质量**：Novellino 确认含完整3篇novelle（含狐狸寓言C段）
+
 ### [2026-08-23 12:55 UTC] [ItalianRead-IDE] → All
 **脚本清理 + .nvmrc 移至根目录**
 
