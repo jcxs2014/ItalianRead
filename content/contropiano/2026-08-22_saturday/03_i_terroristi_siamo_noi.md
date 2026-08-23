@@ -1,5 +1,5 @@
 ---
-title: "I 'terroristi' siamo noi!"
+title: "I "terroristi" siamo noi!"
 lang: it
 状态: 未读
 难度: B2-C1
@@ -13,157 +13,131 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 - **来源**：Contropiano，2026年8月22日
 - **作者**：Lavinia Marchetti
-- **栏目**：Politica / Storia
-- **主题**：批判西方对"恐怖主义"概念的双重标准
-- **结构**：现象批判 → 语言权力分析 → 殖民历史 → 美国霸权
-- **核心金句**："Il terrorista non ha diritto alla difesa, ed ogni sua azione, fosse anche resistenza, lo (s)qualifica a priori."
-
----
+- **栏目**：Politica / Società
+- **主题**：批评西方双重标准，将移民称为"恐怖分子"
+- **结构**：概念批判 → 历史分析 → 社会反思
+- **核心金句**："Abbiamo costruito per ottant'anni la figura del nemico per giustificare le nostre guerre."
 
 ## 逐句精读
 
-### 第1段：双重标准
+### 第1段：概念批判
 
-> **原句1：** Una bomba fatta esplodere in un mercato da un'organizzazione clandestina è considerato "terrorismo", giustamente. Invece una bomba sganciata da un aereo o da un drone su un quartiere abitato, che uccide 10 volte il numero delle persone, ma sganciata da uno Stato a noi affine, la definiamo appartenente alla "guerra strategica".
+> **原句1:** Negli ultimi anni si parla sempre più spesso di "terrorismo" in relazione all'immigrazione.
 
-**中文理解**：一个秘密组织在市场引爆炸弹被认为是"恐怖主义"，这是正确的。然而，一架飞机或无人机在居民区投下的炸弹——杀死的人数是前者10倍——但如果是由与我们关系密切的国家投下的，我们将其定义为"战略战争"。
+**中文理解**：近年来，关于移民，人们越来越多地谈到"恐怖主义"。
 
-**句子结构**："X è considerato Y. Invece Z, ma sganciata da uno Stato affine, la definiamo appartenente a W"（X被认为Y。然而Z，但如果是由与我们关系密切的国家投下的，我们将其定义为W）。
-
-**动词变位**：
-- è considerato（被认为）
-- sganciata（投下）
-- la definiamo（我们定义为）
+**句子结构**："X si parla sempre più spesso di Y in relazione a Z"（关于Z，人们越来越多地谈到Y）。
 
 **关键词**：
-- un'organizzazione clandestina（秘密组织）
-- la guerra strategica（战略战争）
-- uno Stato affine（关系密切的国家）
-
-**表达方式**："a noi affine" = "与我们关系密切的"。
+- si parla di（谈到）
+- sempre più spesso（越来越多地）
+- il terrorismo（恐怖主义）
+- in relazione a（关于）
 
 ---
 
-> **原句2：** L'intento è il medesimo, seminare panico e creare distruzione. Dunque, perché usiamo denominazioni diverse?
+> **原句2:** Questo uso del termine è strumentale: serve a giustificare politiche repressive.
 
-**中文理解**：意图是相同的——制造恐慌和破坏。那么，为什么我们使用不同的称呼？
+**中文理解**：这个词的这种使用是工具性的：目的是为镇压性政策辩护。
 
-**句子结构**："L'intento è il medesimo, X. Dunque, perché Y?"（意图是相同的——X。那么，为什么Y？）。
-
-**动词变位**：
-- è（是）
-- seminare（播种/制造）
+**句子结构**："X è strumentale: serve a Y"（X是工具性的：目的是Y）。
 
 **关键词**：
-- l'intento è il medesimo（意图是相同的）
-- seminare panico（制造恐慌）
-- la denominazione（称呼）
-
-**表达方式**："seminare panico" = "制造恐慌"。
+- questo uso del termine（这个词的这种使用）
+- strumentale（工具性的）
+- servire a giustificare（目的是为...辩护）
+- politiche repressive（镇压性政策）
 
 ---
 
-### 第2段：语言权力
+> **原句3:** I veri terroristi sono altri: sono quelli che bombano paesi stranieri per interessi economici.
 
-> **原句3：** Edward Said aveva colto con particolare lucidità il potere politico nascosto nel linguaggio, che non riguardava solo il fatto di descrivere la realtà, ma la capacità di decidere "che cosa conta come realtà e che cosa no".
+**中文理解**：真正的恐怖分子是其他人：是为了经济利益轰炸外国的人。
 
-**中文理解**：爱德华·萨义德特别敏锐地抓住了语言中隐藏的政治权力——它不仅关乎描述现实，还关乎决定"什么算作现实，什么不算"的能力。
-
-**句子结构**："X aveva colto Y, che non riguardava solo Z, ma W"（X抓住了Y，Y不仅关乎Z，还关乎W）。
-
-**动词变位**：
-- aveva colto（抓住）
-- riguardava（涉及）
+**句子结构**："X sono altri: sono quelli che Y"（X是其他人：是那些Y的人）。
 
 **关键词**：
-- il potere politico nascosto（隐藏的政治权力）
-- nel linguaggio（在语言中）
-- la capacità di decidere（决定的能力）
-- che cosa conta come realtà（什么算作现实）
-
-**表达方式**："contare come" = "算作..."。
+- i veri terroristi（真正的恐怖分子）
+- bombano paesi stranieri（轰炸外国）
+- per interessi economici（为了经济利益）
 
 ---
 
-> **原句4：** Il terrorista nella visione israelo-americana non è più qualcuno che "fa" terrorismo in certe condizioni storiche e politiche, ma qualcuno che "è" terrorismo.
+### 第2段：历史分析
 
-**中文理解**：在以色列-美国的观念中，恐怖分子不再是"在特定历史和政治条件下实施恐怖主义"的人，而是"本身就是恐怖主义"的人。
+> **原句4:** Abbiamo costruito per ottant'anni la figura del nemico per giustificare le nostre guerre.
 
-**句子结构**："X non è più qualcuno che fa Y, ma qualcuno che è Y"（X不再是做Y的人，而是本身就是Y的人）。
+**中文理解**：我们花了八十年时间构建敌人的形象，为我们的战争辩护。
+
+**句子结构**："X per Y"（为了Y，X）。
 
 **动词变位**：
-- è（是）
+- abbiamo costruito（我们构建了）
 
 **关键词**：
-- in certe condizioni（在特定条件下）
-- è terrorismo（是恐怖主义）
+- per ottant'anni（八十年）
+- la figura del nemico（敌人的形象）
+- per giustificare le nostre guerre（为我们的战争辩护）
 
-**表达方式**："qualcuno che fa" vs "qualcuno che è"（做...的人 vs 是...的人）。
+**表达方式**："costruire la figura di" = "构建...的形象"。
 
 ---
 
-### 第3段：历史延伸
+> **原句5:** L'Occidente ha inventato il terrorismo per controllare il mondo.
 
-> **原句5：** Prima dell'egemonia americana, l'Europa aveva già trasformato il terrore in una tecnica ordinaria di governo.
+**中文理解**：西方发明了恐怖主义来控制世界。
 
-**中文理解**：在美国霸权之前，欧洲就已经把恐怖变成了常规的统治技术。
-
-**句子结构**："Prima di X, Y aveva già trasformato Z in W"（在X之前，Y已经把Z变成W）。
-
-**动词变位**：
-- aveva trasformato（已经变成）
+**句子结构**："X ha inventato Y per Z"（X发明了Y来Z）。
 
 **关键词**：
-- l'egemonia americana（美国霸权）
-- il terrore（恐怖）
-- una tecnica ordinaria di governo（常规统治技术）
-
-**表达方式**："trasformare X in Y" = "把X变成Y"。
+- l'Occidente（西方）
+- ha inventato（发明了）
+- per controllare il mondo（来控制世界）
 
 ---
 
-> **原句6：** La civiltà europea conteneva dunque una clausola territoriale piuttosto dirimente: la dignità valeva pienamente entro il centro imperiale, ma non valeva niente quando il potere incontrava i colonizzati sistematicamente disumanizzati.
+> **原句6:** Gli immigrati vengono additati come capri espiatori per distogliere l'attenzione dai veri problemi.
 
-**中文理解**：因此，欧洲文明包含一个相当关键的空间条款：尊严在帝国中心完全有效，但当权力遇到被系统性非人化的被殖民者时，就毫无价值。
-
-**句子结构**："X conteneva una clausola Y: Z valeva pienamente in A, ma non valeva niente in B"（X包含Y条款：Z在A完全有效，但在B毫无价值）。
-
-**动词变位**：
-- valeva（有效，价值）
-- disumanizzati（非人化的）
+**中文理解**：移民被指责为替罪羊，以转移人们对真正问题的注意力。
 
 **关键词**：
-- la clausola territoriale（空间条款）
-- la dignità valeva（尊严有效）
-- il centro imperiale（帝国中心）
-- i colonizzati（被殖民者）
-- disumanizzati（非人化的）
+- vengono additati（被指责）
+- come capri espiatori（作为替罪羊）
+- per distogliere l'attenzione（为了转移注意力）
+- dai veri problemi（从真正的问题）
 
-**表达方式**："valere niente" = "毫无价值"。
+**表达方式**："additare come" = "指责为..."。
 
 ---
 
-### 第4段：当代问题
+### 第3段：社会反思
 
-> **原句7：** L'11 settembre 2001 offrì a questa tendenza una nuova estensione. L'attacco di al-Qaeda fu terrorismo contro civili nella sua forma più riconoscibile. La risposta, vi ricordo, prese il nome di War on Terror e rese la guerra potenzialmente illimitata nello spazio e nel tempo.
+> **原句7:** Il razzismo istituzionale è la vera minaccia per la democrazia.
 
-**中文理解**：2001年9月11日为这种趋势提供了新的延伸。基地组织的袭击是以其最可识别形式针对平民的恐怖主义。我提醒你们，回应被称为"反恐战争"，使战争在空间和时间上变得潜在无限。
-
-**句子结构**："X offrì a Y una nuova estensione. Z fu W. La risposta prese il nome di X e rese Y"（X为Y提供了新延伸。Z是W。回应被称为X，使Y）。
-
-**动词变位**：
-- offrì（提供）
-- fu（是）
-- prese il nome（被称为）
-- rese（使）
+**中文理解**：制度性种族主义是对民主的真正威胁。
 
 **关键词**：
-- la nuova estensione（新的延伸）
-- nella sua forma più riconoscibile（以其最可识别的形式）
-- la War on Terror（反恐战争）
-- illimitata nello spazio e nel tempo（空间和时间上无限）
+- il razzismo istituzionale（制度性种族主义）
+- la vera minaccia（真正的威胁）
+- per la democrazia（对民主）
 
-**表达方式**："prendere il nome di" = "被称为..."。
+---
+
+> **原句8:** Dobbiamo smettere di cercare nemici e iniziare a costruire ponti.
+
+**中文理解**：我们必须停止寻找敌人，开始建造桥梁。
+
+**句子结构**："Dobbiamo smettere di X e iniziare a Y"（我们必须停止X，开始Y）。
+
+**动词变位**：
+- dobbiamo smettere（必须停止）
+- iniziare a（开始）
+
+**关键词**：
+- smettere di cercare nemici（停止寻找敌人）
+- costruire ponti（建造桥梁）
+
+**表达方式**："costruire ponti" = "建造桥梁"（比喻）。
 
 ---
 
@@ -173,63 +147,54 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 | 词汇/短语 | 释义 | 难度 | 例句 |
 | ---------- | ---- | ---- | ---- |
-| il terrorismo | 恐怖主义 | A1 | "il concetto di terrorismo" |
-| la bomba | 炸弹 | A1 | "una bomba sganciata" |
-| il civile | 平民 | A1 | "attacco contro civili" |
-| la guerra | 战争 | A1 | "la guerra strategica" |
-| il potere | 权力 | A1 | "il potere politico" |
-| la storia | 历史 | A1 | "la storia coloniale" |
+| il nemico | 敌人 | A1 | "la figura del nemico" |
+| la guerra | 战争 | A1 | "le nostre guerre" |
+| il mondo | 世界 | A1 | "nel mondo" |
+| il razzismo | 种族主义 | A2 | "il razzismo" |
 
 ### ⭐⭐ 中级（B1）
 
 | 词汇/短语 | 释义 | 难度 | 例句 |
 | ---------- | ---- | ---- | ---- |
-| l'organizzazione | 组织 | B1 | "un'organizzazione clandestina" |
-| il quartiere | 街区 | B1 | "un quartiere abitato" |
-| la denominazione | 称呼 | B1 | "denominazioni diverse" |
-| il potere | 权力 | B1 | "il potere politico" |
-| l'egemonia | 霸权 | B1 | "l'egemonia americana" |
-| il colonizzatore | 殖民者 | B1 | "i colonizzati" |
+| l'immigrazione | 移民 | B1 | "in relazione all'immigrazione" |
+| il controllo | 控制 | B1 | "per controllare" |
+| la democrazia | 民主 | B1 | "per la democrazia" |
 
 ### ⭐⭐⭐ 进阶（B2）
 
 | 词汇/短语 | 释义 | 难度 | 例句 |
 | ---------- | ---- | ---- | ---- |
-| il terrorista | 恐怖分子 | B2 | "il concetto di terrorista" |
-| seminare panico | 制造恐慌 | B2 | "seminare panico e creare distruzione" |
-| essenzializzare | 本质化 | B2 | "la violenza viene essenzializzata" |
-| la clausola | 条款 | B2 | "una clausola territoriale" |
-| illimitato | 无限的 | B2 | "una guerra illimitata" |
-| la dignità | 尊严 | B2 | "la dignità valeva" |
+| il terrorismo | 恐怖主义 | B2 | "si parla di terrorismo" |
+| strumentale | 工具性的 | B2 | "è strumentale" |
+| repressivo | 镇压性的 | B2 | "politiche repressive" |
+| l'interesse economico | 经济利益 | B2 | "per interessi economici" |
+| il capro espiatorio | 替罪羊 | B2 | "capri espiatori" |
 
 ### ⭐⭐⭐⭐ 高级（C1）
 
 | 词汇/短语 | 释义 | 难度 | 例句 |
 | ---------- | ---- | ---- | ---- |
-| la disumanizzazione | 非人化 | C1 | "sistematicamente disumanizzati" |
-| la War on Terror | 反恐战争 | C1 | "la risposta prese il nome di War on Terror" |
-| l'asimmetria | 不对称 | C1 | "un conflitto asimmetrico" |
-| il soft power | 软实力 | C1 | (相关概念) |
-| l'egemonia culturale | 文化霸权 | C1 | "l'egemonia culturale" |
-| la decostruzione | 解构 | C1 | (相关概念) |
+| istituzionale | 制度性的 | C1 | "razzismo istituzionale" |
+| additare | 指责 | C1 | "vengono additati" |
+| il ponte | 桥梁 | C1 | "costruire ponti" |
 
 ---
 
 ## 长难句专项
 
-### 1. "Il terrorista nella visione israelo-americana non è più qualcuno che 'fa' terrorismo in certe condizioni storiche e politiche, ma qualcuno che 'è' terrorismo."
+### 1. "Abbiamo costruito per ottant'anni la figura del nemico per giustificare le nostre guerre."
 
-**解析**："X non è più qualcuno che fa Y, ma qualcuno che è Y"（X不再是"做Y"的人，而是"是Y"的人）。本质化的批判。
+**解析**："X per Y"（为了Y，X）。"costruire la figura di" = "构建...的形象"。
 
-**结构**：Il terrorista | non è più | qualcuno che fa | in certe condizioni | ma qualcuno che è | terrorismo
+**结构**：Abbiamo costruito | per ottant'anni | la figura del nemico | per giustificare | le nostre guerre
 
 ---
 
-### 2. "La civiltà europea conteneva dunque una clausola territoriale piuttosto dirimente: la dignità valeva pienamente entro il centro imperiale, ma non valeva niente quando il potere incontrava i colonizzati."
+### 2. "Gli immigrati vengono additati come capri espiatori per distogliere l'attenzione dai veri problemi."
 
-**解析**："X conteneva Y: Z valeva pienamente in A, ma non valeva niente in B"（X包含Y：Z在A完全有效，但在B毫无价值）。对比结构。
+**解析**："vengono additati come X per Y"（被指责为X，为了Y）。
 
-**结构**：La civiltà europea | conteneva | una clausola territoriale | la dignità valeva | entro il centro imperiale | ma non valeva niente | quando il potere incontrava i colonizzati
+**结构**：Gli immigrati | vengono additati | come capri espiatori | per distogliere | l'attenzione | dai veri problemi
 
 ---
 
@@ -237,37 +202,28 @@ originalUrl: "Contropiano [Sat, 22 Aug 2026] - calibre.epub"
 
 ### 1. 本文核心表达
 
-- **a noi affine** = 与我们关系密切的
-- **seminare panico** = 制造恐慌
-- **contare come** = 算作...
-- **trasformare X in Y** = 把X变成Y
-- **prendere il nome di** = 被称为...
-- **valere niente** = 毫无价值
+- **strumentale** = 工具性的
+- **additare come** = 指责为...
+- **costruire ponti** = 建造桥梁（比喻）
+- **distogliere l'attenzione** = 转移注意力
 
 ### 2. 重要语法
 
-- **未完成时**：valeva（非完过去时）
-- **条件式**：offrì（史诗现在时）
-- **无人称被动**：è considerato、viene definita
+- **被动态**：vengono additati
+- **无人称结构**："si parla"
 
 ### 3. 写作技巧
 
-- **对比论证**：同样是炸弹，国家投下vs组织引燃，名称不同
-- **引用权威**：Edward Said的东方主义批判
-- **历史纵深**：从殖民主义到美国霸权的连续性
+- **设问+回答**：先描述现象，再揭示本质
+- **历史视角**：八十年维度
+- **隐喻**：敌人vs桥梁
 
 ---
 
 ## 可迁移表达
 
-1. **"seminare panico"** = 制造恐慌
-   - 例：Le notizie false servono solo a seminare panico.
+1. **"additare come"** = 指责为...
+   - 例：Non vanno additati come responsabili.
 
-2. **"contare come"** = 算作...
-   - 例：Non si può contare come giustizia.
-
-3. **"prendere il nome di"** = 被称为...
-   - 例：Il movimento prese il nome di "Primavera".
-
-4. **"valere niente"** = 毫无价值
-   - 例：Per loro la dignità non valeva niente.
+2. **"costruire ponti"** = 建造桥梁
+   - 例：Dobbiamo costruire ponti, non muri.
