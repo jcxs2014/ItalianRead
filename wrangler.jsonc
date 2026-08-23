@@ -3,7 +3,7 @@
   "name": "italianread",
   "compatibility_date": "2025-08-01",
   "assets": {
-    "directory": "./site/quartz/public",
+    "directory": "./site/public",
     "not_found_handling": "404-page"
   }
 }
