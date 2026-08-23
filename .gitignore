@@ -1,23 +1,22 @@
 # ItalianRead — Git Ignore
 
-## CortexKit / OpenChamber 临时文件
+## 系统 / IDE 配置
 .cortexkit/
 .openchamber/
+.obsidian/
+setup_obsidian.sh
 
-## 模板软连接（由multi-ide-template生成，不入库）
+## 模板软连接
 check_collab.sh
 setup_multi_ide.sh
 sync_memory.sh
 
-## 故事书源文件（epub，不入git）
+## 内容源文件（epub，不入git）
 storybook/
-
-## 新闻源文件（epub，不入git）
 news/
 
-## Quartz 静态站点生成
+## Quartz 构建产物
 site/public/
-site/quartz/public/
 site/node_modules/
 site/quartz/node_modules/
 site/.quartz-cache/
@@ -39,22 +38,16 @@ public/
 *.swo
 *~
 .#*
-
-## 抓取缓存
-*.cache/
 __pycache__/
 *.pyc
-
-## Obsidian 配置（用户自行管理）
-.obsidian/
-setup_obsidian.sh
+*.cache/
 
 ## Python 虚拟环境
 venv/
 .venv/
 env/
 
-## Cloudflare Pages 部署相关
-# CF Pages 构建命令：bash build.sh
-# CF Pages 输出目录：site/public
-# 环境变量：NODE_VERSION=22
+## Quartz 框架配置（参考）
+# 构建命令：bash build.sh
+# 输出目录：site/public
+# Node版本：22
