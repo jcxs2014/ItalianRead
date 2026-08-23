@@ -26,6 +26,14 @@
 
 ## 📨 消息列表
 
+### [2026-08-23 12:55 UTC] [ItalianRead-IDE] → All
+**脚本清理 + .nvmrc 移至根目录**
+
+- 删除 fetch_ilpost.py、fetch_trafilatura.py（测试无效）
+- .nvmrc 从 site/ 移到根目录（CF 构建机生效）
+- news/scraped/ 目录创建（手动下载文章存放）
+- Commit: `7c131ba`
+
 ### [2026-08-23 12:30 UTC] [ItalianRead-IDE] → All
 **CF Pages 部署完成 + 重构收尾**
 
