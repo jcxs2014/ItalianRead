@@ -1,0 +1,13 @@
+{
+  "name": "ItalianRead — 意大利语精读",
+  "short_name": "ItalianRead",
+  "description": "中文母语者用高品质意大利语来源做逐句精读",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f8",
+  "theme_color": "#034816",
+  "icons": [
+    { "src": "/static/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/static/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
