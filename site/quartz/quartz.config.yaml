@@ -91,7 +91,7 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/og-image"
     enabled: false
   - source: "@quartz-community/cname"
