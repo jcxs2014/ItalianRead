@@ -19,7 +19,8 @@ news/
 site/public/
 site/node_modules/
 site/quartz/node_modules/
-site/.quartz-cache/
+site/quartz/.quartz-cache/
+**/.quartz-cache/
 public/
 *.lock
 
