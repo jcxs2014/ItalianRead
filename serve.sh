@@ -22,13 +22,13 @@ show_help() {
 
 cmd_build() {
     echo "Building..."
-    cd "$QUARTZ_DIR"
-    npx quartz build -d ../content 2>&1 | tail -5
+    cd "$SITE_DIR"
+    npx quartz build -d content 2>&1 | tail -5
     echo "Done"
 }
 
 cmd_serve() {
-    [ ! -d "$QUARTZ_DIR/node_modules" ] && echo "Installing deps..." && cd "$QUARTZ_DIR" && npm install 2>&1 | tail -3
+    [ ! -d "$SITE_DIR/node_modules" ] && echo "Installing deps..." && cd "$SITE_DIR" && npm install 2>&1 | tail -3
     PID=$(lsof -ti :$PORT 2>/dev/null)
     [ -n "$PID" ] && echo "Port $PORT occupied, killing..." && kill $PID 2>/dev/null && sleep 1
 

@@ -20,8 +20,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Lora
+      body: Lora
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -91,7 +91,7 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/og-image"
     enabled: false
   - source: "@quartz-community/cname"
