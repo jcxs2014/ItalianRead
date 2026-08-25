@@ -1,25 +1,22 @@
-# ItalianRead 项目记忆
+# ItalianRead 跨 IDE 共享记忆（拓扑 + 协作日志）
 
-## 基本信息
-- **工作区**：`~/Documents/Works/ItalianRead/`
-- **初始化日期**：2026-08-22
-- **语言**：意大利语精读
-- **学习者水平**：A1/A2 起步，覆盖至 B2-C1
+> 注意：本文档为跨 IDE 共享记忆，非操作规则；操作规则见根 `AGENTS.md`，项目说明见 `README.md`。
 
-## 精读库现状（2026-08-25 共 253 篇）
-| 来源 | 篇数 | 说明 |
-| ---- | ---- | ---- |
-| racconti（故事） | 205 | 7 个子来源（first_italian_reader 55 / italian_short_stories 97 / first_italian_readings 15 / italian_reader_en_it 13 / olly_richards 8 / penguin_parallel 7 / touri 10） |
-| ilpost | 8 | 新闻 B1-B2 |
-| treccani | 10 | 文章 B2-C1 |
-| lespresso | 9 | 文章 B1-C1（来源：思源笔记） |
-| contropiano | 7 | 新闻 B2-C1 |
-| wired | 6 | 文章 B1-C1（来源：思源笔记） |
-| doppiozero | 4 | 文章 B2-C1 |
+## 是什么
+中文母语者的意大利语**逐句精读**知识库。目标：从"看中文翻译"过渡到"直接读懂意大利语原文"。
+学习者水平 A1/A2 起步，覆盖至 B2-C1。
+
+## 协作约定（跨 IDE）
+- 同一目录多 IDE 共享文件系统，写入即同步，**无需 git pull/push**
+- 时间戳一律 **UTC**（`date -u '+%Y-%m-%d %H:%M UTC'`）
+- 消息/commit 前缀：`[IDE名-机器名]`（本机身份：`Opencode-MAC`）
+- 记忆目录：`.memory/`（本文件为共享记忆宿主）
+- 三层分工：**本文件** = 项目级长期记忆 + 协作协议（变动少）；**`.memory/daily/YYYY-MM-DD.md`** = 每日工作日志（高频追加，不覆盖）；**`COLLABORATION.md`** = 跨机消息板（重要状态/决策/事件，简短）
+- 来源/工作流/精读规则 → 详见根 `AGENTS.md` / `README.md`
 
 ## 目录结构
 - `storybook/<source>/` — 故事 epub 源（不 git 追踪）
-- `news/` — 新闻 epub 源（不 git 追踪）
+- `news/` — 新闻 epub 源（不 git 追踪，Calibre 抓取）
 - `site/content/` — 精读文档（**真内容在这里**）
 - `site/quartz/` — Quartz 源码树（活链：内层 CLI 管线 + 外层配置组件，见下）
 - `site/public/` — 构建产物（gitignore）
@@ -42,8 +39,14 @@
 1. **Git**：已启用，推送需等用户明确指令（精读文档+网站配置推送需逐次确认）
 2. **只建议不直接改**：跨项目工作（EnglishRead）只给建议；本工作区精读生成流程不变
 3. **抓取**：doppiozero RSS（唯一全文源）；其余新闻源 Calibre 抓取 → `news/`
-4. **来源**：racconti 故事已全部精读完成；新文章来源含思源笔记（lespresso/wired）
+4. **来源**：racconti 故事已全部精读完成；新文章来源含思源笔记（lespresso/wired/treccani）
 5. **Obsidian 用户自配**——`.obsidian/` 由用户自行设置
+
+## 日记忆约定
+- 每日事项落到 `.memory/daily/YYYY-MM-DD.md`（追加，不覆盖）；项目级长期记忆落本文件。
+- 各机独立维护，不入 git；跨机协调一律走 `COLLABORATION.md`。
+- **不使用** `HERMES_MEMORY/` 等其他本地记忆目录——`.memory/` 是本机唯一工作记忆宿主。
+- 高频变动的统计数据（精读篇数等）只记到 daily，不写本文件。
 
 ## 精读格式要点
 - frontmatter 含 `lang: it`
