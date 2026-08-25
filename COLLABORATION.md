@@ -164,7 +164,7 @@
 - **相关文件**：`AGENTS.md`、`doppiozero/`、`lastampa/`、`lescienze/`
 - **状态**：✅ 已完成
 
-### [2026-08-25 08:40 UTC] [ItalianRead-IDE] → All
+### [2026-08-25 08:40 UTC] [Opencode-MAC] → All
 **Quartz 嵌套死副本清理 + 构建入口统一（commit 09282e3，已推送）**
 - **背景**：审计发现 `site/quartz/quartz/` 嵌套第三层源码树为死副本，且此前字体/favicon 改动误写进内层副本、线上从未生效
 - **变更**：
@@ -175,20 +175,20 @@
 - **相关文件**：`serve.sh`、`site/quartz.config.yaml`、`site/quartz/`
 - **状态**：✅ 已完成
 
-### [2026-08-25 07:00 UTC] [ItalianRead-IDE] → All
+### [2026-08-25 07:00 UTC] [Opencode-MAC] → All
 **字体栈统一约定（参照 EnglishRead commit 75f31cd）**
 - **背景**：EnglishRead 取证发现"观感非 Lora"根因是标题走思源宋拉丁字形 + 面包屑硬编码导致回退路径分裂
 - **约定**：Latin 一律 Lora 打头、中文按位置回退 Noto Serif SC（宋体）、代码 IBM Plex Mono
 - **实现分工**：config typography 管 Google Fonts 加载（单一 family 名防 css2 400），custom.scss 只改变量层（--headerFont/--bodyFont），禁元素级硬编码 font-family+!important
 - **状态**：📋 约定确立，ItalianRead 待镜像执行
 
-### [2026-08-24 06:30 UTC] [ItalianRead-IDE] → All
+### [2026-08-24 06:30 UTC] [Opencode-MAC] → All
 **PWA 图标完整配置 + quartz-cache git 清理**
 - **变更**：manifest.json、icon-72~512 多尺寸、apple-touch-icon(180)、theme-color #034816；Head.tsx 注入 PWA 标签；修复 `.gitignore` 的 quartz-cache 路径并清出已追踪的 4 个缓存文件
 - **Commit**：`a16ef1d`（PWA）、`ae72447`/`945ed65`（cache 清理，均已推送）
 - **状态**：✅ 已完成
 
-### [2026-08-23 22:00-24 20:00 UTC] [ItalianRead-IDE] → All
+### [2026-08-23 22:00-24 20:00 UTC] [Opencode-MAC] → All
 **新来源精读：Treccani 10 篇 + Wired 6 篇 + L'espresso 9 篇**
 - **背景**：新增思源笔记作为精读来源（`/意语学习/News and Papers/`）
 - **Treccani**（B2-C1，10 篇）→ `site/content/treccani/2026-08-23_sunday/`
@@ -197,7 +197,7 @@
 - **Commit**：`499b215`(espresso)、`c6eb68a`(wired)；treccani 此前已推送
 - **状态**：✅ 已完成
 
-### [2026-08-23 12:00 UTC] [ItalianRead-IDE] → All
+### [2026-08-23 12:00 UTC] [Opencode-MAC] → All
 **新闻精读 19 篇全部完成（核心段落 800-1000 词标准）**
 - **变更**：ilpost 8 / internazionale 4 / contropiano 7，重做此前不完整的全文精读，统一核心段落标准 + 完整分析结构；修复段落逻辑缺失与中文混入错误
 - **Commit**：`06f3148`、`ab9ca2b`、`c33070f`、`6c53a13`
@@ -247,9 +247,9 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
-| 精读库总量 253 篇 | [ItalianRead-IDE] | ✅ 已完成 | 2026-08-25 |
-| Quartz 嵌套树清理 + 构建入口统一 | [ItalianRead-IDE] | ✅ 已完成 | 2026-08-25 |
-| CF Pages 部署 | [ItalianRead-IDE] | ✅ 已部署（注入 Lora 字体+完整 PWA 待 CF 重新构建生效） | 2026-08-25 |
+| 精读库总量 253 篇 | [Opencode-MAC] | ✅ 已完成 | 2026-08-25 |
+| Quartz 嵌套树清理 + 构建入口统一 | [Opencode-MAC] | ✅ 已完成 | 2026-08-25 |
+| CF Pages 部署 | [Opencode-MAC] | ✅ 已部署（注入 Lora 字体+完整 PWA 待 CF 重新构建生效） | 2026-08-25 |
 
 ---
 
