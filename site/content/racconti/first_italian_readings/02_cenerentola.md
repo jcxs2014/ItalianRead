@@ -5,6 +5,7 @@ lang: it
 难度: A2-B1
 source: first_italian_readings
 author: "Charles Perrault — trad. C. Collodi"
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 02 - Cenerentola

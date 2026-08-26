@@ -8,6 +8,7 @@ author: "Bandello (1484-1561)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 19:40:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 19 - Bandello: Novelle

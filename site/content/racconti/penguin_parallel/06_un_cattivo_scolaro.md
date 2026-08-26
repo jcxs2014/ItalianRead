@@ -8,6 +8,7 @@ author: "Stefano Benni"
 story_source: "Short Stories in Italian - New Penguin Parallel Texts"
 originalUrl: "epub: penguin_parallel/Short Stories in Italian_ New Penguin Parallel Texts.epub#chapter008"
 date: Sat, 22 Aug 2026 15:00:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 06 - Un cattivo scolaro

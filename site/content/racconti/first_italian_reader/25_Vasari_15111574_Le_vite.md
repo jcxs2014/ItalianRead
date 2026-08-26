@@ -8,6 +8,7 @@ author: "Vasari (1511-1574)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 20:40:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 25 - Vasari: Le vite

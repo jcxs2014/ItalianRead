@@ -8,6 +8,7 @@ author: "Parini (1729-1799)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 22:20:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 35 - Parini: sonetto

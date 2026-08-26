@@ -8,6 +8,7 @@ author: "Lorenzo de' Medici (1449-1492)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 18:20:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 10 - Lorenzo de' Medici: 2 liriche

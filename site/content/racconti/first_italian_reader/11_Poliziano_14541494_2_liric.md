@@ -8,6 +8,7 @@ author: "Poliziano (1454-1494)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 16:40:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 11 - Poliziano: 2 liriche

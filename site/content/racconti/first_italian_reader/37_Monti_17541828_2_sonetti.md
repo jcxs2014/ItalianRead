@@ -8,6 +8,7 @@ author: "Monti (1754-1828)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 15:03:44 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 37 - Monti: 2 sonetti

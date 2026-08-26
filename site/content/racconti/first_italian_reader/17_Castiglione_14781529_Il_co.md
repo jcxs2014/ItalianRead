@@ -8,6 +8,7 @@ author: "Castiglione (1478-1529)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 19:20:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 17 - Castiglione: Il cortegiano

@@ -8,6 +8,7 @@ author: "Carducci (1835-1907)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 23:50:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 45 - Carducci: 2 liriche e una prosa

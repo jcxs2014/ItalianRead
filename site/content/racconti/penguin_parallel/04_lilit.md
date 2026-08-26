@@ -8,6 +8,7 @@ author: "Primo Levi"
 story_source: "Short Stories in Italian - New Penguin Parallel Texts"
 originalUrl: "epub: penguin_parallel/Short Stories in Italian_ New Penguin Parallel Texts.epub#chapter005"
 date: Sat, 22 Aug 2026 14:40:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 04 - Lilít

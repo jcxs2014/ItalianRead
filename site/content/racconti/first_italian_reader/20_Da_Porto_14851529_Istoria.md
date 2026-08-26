@@ -8,6 +8,7 @@ author: "Da Porto (1485-1529)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 19:50:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 20 - Da Porto: Istoria di due nobili amanti

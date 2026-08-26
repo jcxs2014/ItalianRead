@@ -8,6 +8,7 @@ author: "Christian Stahl"
 story_source: "100 Italian Short Stories for Beginners"
 originalUrl: "epub: 100 Italian Short Stories for Beginners Learn Italian with Stories Including Audiobook (Christian Stahl) (Z-Library).epub#index_split_082.html"
 date: Sun, 23 Aug 2026 04:25:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 079 - Un Nuovo Mondo

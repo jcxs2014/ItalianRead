@@ -8,6 +8,7 @@ author: "Italian Reader (EN-IT) — adatt. da W. W. Jacobs"
 story_source: "Italian Reader — Short Stories (English-Italian)"
 originalUrl: "epub: Italian Reader_ Short Stories (English-Ita - Unknown.epub#text/part0000_split_016.html"
 date: Sun, 23 Aug 2026 07:30:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 13 - Tre al tavolo

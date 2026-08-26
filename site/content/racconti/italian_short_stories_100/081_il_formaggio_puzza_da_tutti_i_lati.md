@@ -8,6 +8,7 @@ author: "Christian Stahl"
 story_source: "100 Italian Short Stories for Beginners"
 originalUrl: "epub: 100 Italian Short Stories for Beginners Learn Italian with Stories Including Audiobook (Christian Stahl) (Z-Library).epub#index_split_084.html"
 date: Sun, 23 Aug 2026 04:35:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 081 - Il Formaggio Puzza Da Tutti I Lati

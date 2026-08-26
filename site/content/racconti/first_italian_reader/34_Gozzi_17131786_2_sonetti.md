@@ -8,6 +8,7 @@ author: "Gozzi (1713-1786)"
 story_source: "First Italian Reader - A Dual-Language Book (Appelbaum)"
 originalUrl: "epub: first_italian_reader/First Italian reader (Appelbaum, Stanley)"
 date: Sun, 23 Aug 2026 22:10:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 34 - Gozzi: 2 sonetti
