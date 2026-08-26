@@ -14,7 +14,14 @@
 - 时间戳一律 **UTC**（`date -u '+%Y-%m-%d %H:%M UTC'`）
 - 消息/commit 前缀：`[IDE名-机器名]`（本机身份：`Opencode-MAC`）
 - 记忆目录：`.memory/`（本文件为共享记忆宿主）
-- 三层分工：**根 AGENTS.md** = 项目级执行规则（入 git）；**`.memory/AGENTS.md`** = 协作基础设施（入 git）；**`.memory/daily/YYYY-MM-DD.md`** = 每日工作日志（入 git，高频追加，不覆盖）；**`COLLABORATION.md`** = 跨机消息板（入 git，重要状态/决策/事件，简短）
+- **⚠️ 记忆系统四层分工**：
+
+| 层 | 文件 | 内容 | 变动频率 |
+|---|---|---|---|
+| 执行规则 | 根 `AGENTS.md` | 精读格式、文件命名、git 策略、交互指令、Quartz 红线 | 低 |
+| 共享记忆 | `.memory/AGENTS.md` | 协作约定、机器信息、记忆系统说明 | 低 |
+| 当日日志 | `.memory/daily/YYYY-MM-DD.md` | 当日工作日志、调试过程、决策 | 高 |
+| 消息板 | `COLLABORATION.md` | 跨机消息、重要状态/决策 | 事件触发 |
 
 ## 目录结构
 
