@@ -164,6 +164,40 @@
 - **相关文件**：`AGENTS.md`、`doppiozero/`、`lastampa/`、`lescienze/`
 - **状态**：✅ 已完成
 
+### [2026-08-26 13:45 UTC] [Opencode-MAC] → All
+**racconti 列表页正序排列修复（commit 21a48a6）**
+- **背景**：PageList 按 modified 倒序，racconti 故事因生成时刻乱序导致 99-01 倒序、穿插
+- **调研**：created-modified-date 只读 created/modified/published，不读 date；explorer 侧边栏走 localeCompare(numeric) 始终正序
+- **方案**：每文件夹一个统一 `modified` = 精读启动日，触发稳定排序 → 文件名序 01→N
+- **教训**：粗略的方案需多轮迭代（4ec4c96 全局粗暴 → 55d7207 mtime 误导 → 21a48a6 git log 推断）
+- **Commit**：`21a48a6`（已推送）
+- **状态**：✅ 已完成
+- **相关文件**：racconti/ 下 7 目录 205 文件
+
+### [2026-08-26 12:30 UTC] [Opencode-MAC] → All
+**记忆库三层重构 + 身份修正（commit 98ae6df / 664bcca）**
+- **背景**：ItalianRead `.memory/` 用单文件 `ItalianRead_MEMORY.md`，与 EnglishRead 三层结构（AGENTS.md 长期 + daily/ 当日 + COLLABORATION 消息板）不一致
+- **变更**：`ItalianRead_MEMORY.md` → `AGENTS.md`（去掉高频变动数据）；新建 `daily/2026-08-25.md`；身份改为 `[Opencode-MAC]`
+- **状态**：✅ 已完成
+- **Commit**：`98ae6df`、`664bcca`
+
+### [2026-08-26 10:00 UTC] [Opencode-MAC] → All
+**创建 md2web 标准工作流仓库（独立 git 子项目）**
+- **背景**：沉淀 ItalianRead / EnglishRead 两站 Quartz 构建经验为通用模板
+- **位置**：`/Users/jcxs2014/Sites/OpenCodeFiles/md2web/`（与 multi-ide-template 平级）
+- **结构**：WORKFLOW.md（L1流程/L2清单/L3坑位/L4案例）+ template/ 模板包（build.sh/serve.sh/.nvmrc/wrangler.jsonc/gitignore.quartz/quartz.config.yaml/custom.scss 变量层/manifest.json/Head.tsx PWA patch 说明）+ examples/ 两站案例 + scripts/check_site.sh + CHECK_SITE.md
+- **OpenCodeFiles 根 .gitignore**：已加 `md2web/`
+- **审查发现**：setup_quartz.sh 第70行 `sed -i` 在 macOS（BSD sed）需 `-i ''` 后缀，否则报错
+- **状态**：✅ 已完成
+
+### [2026-08-26 08:30 UTC] [Opencode-MAC] → All
+**字体栈配置核实 + PWA 重新推送**
+- **背景**：字体 PWA 审计指出 "线上仍是 Quartz 默认字体"
+- **核实**：ItalianRead 外层 config 字体 (Lora/Lora) 实际已在 commit 09282e3 提交并推送
+- **结论**：审计报告基于旧快照，结论过时；实际线上 CF 已构建 Lora 版
+- **变更**：custom.scss 仍是元素级硬编码 font-family !important，待镜像 EnglishRead 变量层方案
+- **状态**：✅ 核实完成；custom.scss 镜像待办
+
 ### [2026-08-25 08:40 UTC] [Opencode-MAC] → All
 **Quartz 嵌套死副本清理 + 构建入口统一（commit 09282e3，已推送）**
 - **背景**：审计发现 `site/quartz/quartz/` 嵌套第三层源码树为死副本，且此前字体/favicon 改动误写进内层副本、线上从未生效
@@ -247,9 +281,11 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
-| 精读库总量 253 篇 | [Opencode-MAC] | ✅ 已完成 | 2026-08-25 |
-| Quartz 嵌套树清理 + 构建入口统一 | [Opencode-MAC] | ✅ 已完成 | 2026-08-25 |
-| CF Pages 部署 | [Opencode-MAC] | ✅ 已部署（注入 Lora 字体+完整 PWA 待 CF 重新构建生效） | 2026-08-25 |
+| racconti 列表页正序排列修复 | [Opencode-MAC] | ✅ 已完成（commit 21a48a6） | 2026-08-26 |
+| md2web 标准工作流仓库 | [Opencode-MAC] | ✅ 已建立（独立 git 仓库） | 2026-08-26 |
+| 记忆库三层重构 + 身份修正 | [Opencode-MAC] | ✅ 已完成（commit 98ae6df） | 2026-08-26 |
+| 字体栈审计 + PWA 推送 | [Opencode-MAC] | ✅ 核实完成（Lora 已生效） | 2026-08-25 |
+| custom.scss 变量层镜像 | [Opencode-MAC] | ⏳ 待办（英文版字体栈约定 #1791 已生效，意大利版待镜像） | 2026-08-25 |
 
 ---
 
