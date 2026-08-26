@@ -8,10 +8,10 @@
 ```
 ~/Documents/Works/ItalianRead/
 ├── README.md              ← 本文件
-├── AGENTS.md             ← agent 操作手册
+├── AGENTS.md             ← agent 执行规则（入 git，所有 IDE 共享）
 ├── COLLABORATION.md      ← 协作记录（跨机消息板）
 ├── .memory/              ← 本机工作记忆（三层结构）
-│   ├── AGENTS.md           ← 项目级长期记忆 + 协作协议
+│   ├── AGENTS.md           ← 协作基础设施（跨 IDE 共享记忆，不入 git）
 │   └── daily/              ← 每日工作日志（YYYY-MM-DD.md）
 │   ├── 2026-08-25.md
 │   └── 2026-08-26.md
@@ -104,6 +104,17 @@
 - `racconti/` 下所有带编号的文档必须在 frontmatter 添加 `modified: <项目启动日>` 字段
 - 同目录所有文件 modified 相同 → 稳定排序触发 → 文件名序 01→N 正序
 - 详见 `.memory/AGENTS.md`「排序规则」章节
+
+## 记忆与协作分工
+
+| 层 | 文件 | 内容 | 入 git | 变动频率 |
+|----|------|------|--------|----------|
+| 项目级执行规则 | `AGENTS.md` | 精读流程、命名/日期规范、精读格式、news 工作流、git/推送策略、Quartz 配置红线（排序/字体/前端定制）、交互指令 | ✅ 是 | 低（执行规则变更） |
+| 协作基础设施 | `.memory/AGENTS.md` | 跨 IDE 协作约定、记忆系统三层分工说明、Quartz 站点活链结构、目录结构、系统设计决策 | ❌ 否 | 低（协作拓扑变更） |
+| 当日工作日志 | `.memory/daily/YYYY-MM-DD.md` | 当日工作日志、调试过程、决策 | ❌ 否 | 高（追加不覆盖） |
+| 跨机消息板 | `COLLABORATION.md` | 重要状态/决策/事件 | ✅ 是 | 事件触发 |
+
+**两套 AGENTS.md 分工**：根负责「执行规则」（agent 接到精读任务时必读），.memory 负责「协作基础设施」（多 IDE 间的机器对照与记忆说明）。
 
 ## 精读核心原则
 
