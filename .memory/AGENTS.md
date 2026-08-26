@@ -1,6 +1,6 @@
 # ItalianRead 跨 IDE 共享记忆（拓扑 + 协作日志）
 
-> **.memory/AGENTS.md = 协作基础设施**（不入 git，各机独立维护）。
+> **.memory/AGENTS.md = 协作基础设施**（入 git，与根 `AGENTS.md` 同步共享）。
 > 执行规则见根 `AGENTS.md`；当日工作见 `.memory/daily/YYYY-MM-DD.md`；跨 IDE 消息见 `COLLABORATION.md`。
 
 ## 是什么
@@ -14,7 +14,7 @@
 - 时间戳一律 **UTC**（`date -u '+%Y-%m-%d %H:%M UTC'`）
 - 消息/commit 前缀：`[IDE名-机器名]`（本机身份：`Opencode-MAC`）
 - 记忆目录：`.memory/`（本文件为共享记忆宿主）
-- 三层分工：**根 AGENTS.md** = 项目级执行规则（入 git）；**`.memory/AGENTS.md`** = 协作基础设施（不入 git）；**`.memory/daily/YYYY-MM-DD.md`** = 每日工作日志（高频追加，不覆盖）；**`COLLABORATION.md`** = 跨机消息板（重要状态/决策/事件，简短）
+- 三层分工：**根 AGENTS.md** = 项目级执行规则（入 git）；**`.memory/AGENTS.md`** = 协作基础设施（入 git）；**`.memory/daily/YYYY-MM-DD.md`** = 每日工作日志（入 git，高频追加，不覆盖）；**`COLLABORATION.md`** = 跨机消息板（入 git，重要状态/决策/事件，简短）
 
 ## 目录结构
 
@@ -42,7 +42,7 @@
 ## 日记忆约定
 
 - 每日事项落到 `.memory/daily/YYYY-MM-DD.md`（追加，不覆盖）；项目级长期记忆落根 `AGENTS.md` 或本文件
-- 各机独立维护，不入 git；跨机协调一律走 `COLLABORATION.md`
+- 各机通过 git 同步；跨机协调走 `COLLABORATION.md` + git
 - **不使用** `HERMES_MEMORY/` 等其他本地记忆目录——`.memory/` 是本机唯一工作记忆宿主
 - 高频变动的统计数据（精读篇数等）只记到 daily，不写本文件
-- 三个 AGENTS.md 分工：根 AGENTS.md = 执行规则（入 git）；`.memory/AGENTS.md` = 协作基础设施（不入 git）；无第三个 AGENTS.md
+- 两个 AGENTS.md 分工：根 `AGENTS.md` = 执行规则（入 git）；`.memory/AGENTS.md` = 协作基础设施（入 git）
