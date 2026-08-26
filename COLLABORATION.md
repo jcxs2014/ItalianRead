@@ -164,15 +164,16 @@
 - **相关文件**：`AGENTS.md`、`doppiozero/`、`lastampa/`、`lescienze/`
 - **状态**：✅ 已完成
 
-### [2026-08-26 13:45 UTC] [Opencode-MAC] → All
-**racconti 列表页正序排列修复（commit 21a48a6）**
-- **背景**：PageList 按 modified 倒序，racconti 故事因生成时刻乱序导致 99-01 倒序、穿插
-- **调研**：created-modified-date 只读 created/modified/published，不读 date；explorer 侧边栏走 localeCompare(numeric) 始终正序
-- **方案**：每文件夹一个统一 `modified` = 精读启动日，触发稳定排序 → 文件名序 01→N
-- **教训**：粗略的方案需多轮迭代（4ec4c96 全局粗暴 → 55d7207 mtime 误导 → 21a48a6 git log 推断）
-- **Commit**：`21a48a6`（已推送）
+### [2026-08-26 15:30 UTC] [Opencode-MAC] → All
+**双 AGENTS.md 重构 + .memory 入库（commit 9868c33 / 5da3338）**
+- **背景**：根 AGENTS.md 与 .memory/AGENTS.md 内容重叠（命名规范/精读格式/排序规则两边都有），且 .memory/AGENTS.md 原标「不入 git」实际已入库
+- **重构原则**：根 = 执行规则（入 git，agent 接到精读任务时必读）；.memory = 协作基础设施（入 git，跨 IDE 拓扑 + 记忆分工）
+- **根 AGENTS.md 补齐**：来源清单、日期文件夹规范、git 与推送策略、Quartz 配置红线（排序/typography/前端定制/PWA/红线文件/嵌套副本）
+- **.memory/AGENTS.md 精简**：移除重复内容（精读格式/命名规范/排序规则），保留协作约定/三层分工说明/Quartz 活链结构/系统设计决策
+- **根 ↔ .memory 互引**：根末尾加指针「见 .memory/AGENTS.md」，.memory 头部加指针「见根 AGENTS.md」
+- **README**：目录树注释加「入 git」语义，新增记忆与协作分工四层表格
+- **Commit**：`9868c33`（重构）、`5da3338`（入 git 标注统一）
 - **状态**：✅ 已完成
-- **相关文件**：racconti/ 下 7 目录 205 文件
 
 ### [2026-08-26 12:30 UTC] [Opencode-MAC] → All
 **记忆库三层重构 + 身份修正（commit 98ae6df / 664bcca）**
