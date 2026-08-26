@@ -8,7 +8,7 @@ author: "B. L. Bowen (Gutenberg)"
 story_source: "First Italian Readings - A Dual-Language Book"
 originalUrl: "epub: first_italian_readings/First Italian Readings"
 date: Sun, 23 Aug 2026 14:20:52 +0000
-modified: Tue, 26 Aug 2026 00:00:00 +0000
+modified: Fri, 22 Aug 2026 00:00:00 +0000
 ---
 
 # 08 - La dote d'Orsolina
