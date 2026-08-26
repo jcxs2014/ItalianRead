@@ -5,7 +5,7 @@ lang: it
 难度: A2-B1
 source: first_italian_readings
 author: "Edmondo De Amicis (B. L. Bowen, Gutenberg)"
-modified: Fri, 22 Aug 2026 00:00:00 +0000
+modified: Tue, 26 Aug 2026 00:00:00 +0000
 ---
 
 # 03 - Il piccolo patriotta padovano

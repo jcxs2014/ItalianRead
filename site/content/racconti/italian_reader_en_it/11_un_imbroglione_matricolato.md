@@ -8,7 +8,7 @@ author: "Italian Reader (EN-IT) — adatt. da O. Henry"
 story_source: "Italian Reader — Short Stories (English-Italian)"
 originalUrl: "epub: Italian Reader_ Short Stories (English-Ita - Unknown.epub#text/part0000_split_014.html"
 date: Sun, 23 Aug 2026 07:20:00 +0000
-modified: Fri, 22 Aug 2026 00:00:00 +0000
+modified: Sat, 23 Aug 2026 00:00:00 +0000
 ---
 
 # 11 - Un imbroglione matricolato

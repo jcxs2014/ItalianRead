@@ -8,7 +8,7 @@ author: "Italian Reader (EN-IT)"
 story_source: "Italian Reader — Short Stories (English-Italian)"
 originalUrl: "epub: Italian Reader_ Short Stories (English-Ita - Unknown.epub#text/part0000_split_006.html"
 date: Sun, 23 Aug 2026 06:40:00 +0000
-modified: Fri, 22 Aug 2026 00:00:00 +0000
+modified: Sat, 23 Aug 2026 00:00:00 +0000
 ---
 
 # 03 - Il fattorino
