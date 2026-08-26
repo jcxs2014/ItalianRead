@@ -1,7 +1,7 @@
 # ItalianRead — 意大利语精读库
 
 中文母语者用高品质意大利语来源做**逐句意语精读**的个人知识库。
-目标是"从看中文翻译过渡到直接读懂意大利语原文"。
+目标：从「看中文翻译」过渡到「直接读懂意大利语原文」。
 
 ## 目录结构
 
@@ -9,34 +9,40 @@
 ~/Documents/Works/ItalianRead/
 ├── README.md              ← 本文件
 ├── AGENTS.md             ← agent 操作手册
-├── COLLABORATION.md      ← 协作记录
-├── .memory/              ← 本机工作记忆
+├── COLLABORATION.md      ← 协作记录（跨机消息板）
+├── .memory/              ← 本机工作记忆（三层结构）
+│   ├── AGENTS.md           ← 项目级长期记忆 + 协作协议
+│   └── daily/              ← 每日工作日志（YYYY-MM-DD.md）
+│   ├── 2026-08-25.md
+│   └── 2026-08-26.md
 ├── .obsidian/            ← Obsidian 配置（用户自行管理，不入git）
 ├── .gitignore            ← gitignore（含 Quartz + CF Pages）
 ├── build.sh              ← CF Pages 构建脚本
 ├── serve.sh              ← 本地预览脚本
 ├── wrangler.jsonc        ← Workers 配置文件
-├── scripts/              ← 抓取脚本
-│   ├── fetch_doppiozero.py    ← doppiozero RSS（唯一有全文的RSS）
-│   ├── extract_calibre.py     ← Calibre epub 批量提取
-│   └── extract_*.py           ← 各来源专用提取
 ├── site/                 ← Quartz 静态博客（CF Pages 部署）
 │   ├── content/          ← 精读文档源
 │   │   ├── index.md      ← 首页
-│   │   ├── doppiozero/   ← 文学/文化（B2-C1）
-│   │   ├── ilpost/       ← 新闻（B1-B2）
-│   │   ├── contropiano/  ← 新闻（B2-C1）
-│   │   ├── internazionale/ ← 国际新闻（B2-C1）
-│   │   └── racconti/     ← 短篇故事精读
-│   │       ├── first_italian_reader/    ← 55篇
-│   │       ├── italian_short_stories_100/ ← 97篇
-│   │       ├── penguin_parallel/         ← 7篇
-│   │       └── ...
-│   ├── quartz/           ← Quartz 框架
-│   │   ├── quartz.config.yaml
-│   │   ├── package.json
-│   │   └── public/       ← 构建产物（自动生成）
-│   └── public/           ← 静态输出（CF Pages 托管）
+│   │   ├── doppiozero/       ← 文学/文化（B2-C1）
+│   │   ├── ilpost/           ← 新闻（B1-B2）
+│   │   ├── contropiano/      ← 政治/社会（B2-C1）
+│   │   ├── internazionale/   ← 国际新闻（B2-C1）
+│   │   ├── treccani/         ← 思源来源（B2-C1）
+│   │   ├── lespresso/        ← 思源来源（B1-C1）
+│   │   ├── wired/            ← 思源来源（B1-C1）
+│   │   └── racconti/         ← 短篇故事精读
+│   │       ├── first_italian_reader/      ← 55篇 A2-B1
+│   │       ├── italian_short_stories_100/  ← 97篇 A1-A2
+│   │       ├── first_italian_readings/     ← 15篇 A2-B1
+│   │       ├── italian_reader_en_it/       ← 13篇 A2-B1
+│   │       ├── olly_richards/              ← 8篇 A1-A2
+│   │       ├── penguin_parallel/           ← 7篇 B1-B2
+│   │       └── touri/                      ← 10篇 A1-A2
+│   ├── quartz/           ← Quartz 源码树（CLI 壳 + 管线）
+│   ├── quartz.config.yaml← Quartz 配置
+│   ├── components/        ← 自定义组件（如 Head.tsx PWA 注入）
+│   ├── styles/custom.scss← 自定义样式
+│   └── public/           ← 构建产物（CF Pages 托管，gitignore）
 ├── storybook/            ← epub 源文件（不入git）
 └── news/                 ← Calibre 新闻抓取（不入git）
     └── scraped/          ← 手动下载的原始文章（不入git）
@@ -44,14 +50,29 @@
 
 ## 内容统计
 
-| 来源                      | 篇数 | 难度     |
-| ------------------------- | ---- | -------- |
-| doppiozero                | 4    | B2-C1   |
-| ilpost                    | 8    | B1-B2   |
-| contropiano               | 7    | B2-C1   |
-| internazionale            | 4    | B2-C1   |
-| racconti (总计)           | 205  | A2-C1   |
-| **总计**                      | **228** |          |
+| 来源                  | 篇数 | 难度     |
+| --------------------- | ---- | -------- |
+| doppiozero            | 4    | B2-C1   |
+| ilpost                | 8    | B1-B2   |
+| contropiano           | 7    | B2-C1   |
+| internazionale        | 4    | B2-C1   |
+| treccani              | 10   | B2-C1   |
+| lespresso             | 9    | B1-C1   |
+| wired                 | 6    | B1-C1   |
+| racconti（故事合计） | 205  | A1-C1   |
+| **总计**                | **253** |          |
+
+### racconti 子来源明细（205 篇）
+
+| 来源                  | 篇数 | 难度    | 文件名格式      |
+| --------------------- | ---- | ------- | --------------- |
+| first_italian_reader  | 55   | A2-B1   | `01_novellino...md` |
+| italian_short_stories_100 | 97   | A1-A2   | `001_chef...md` |
+| first_italian_readings | 15   | A2-B1   | `01_il_gatto...md` |
+| italian_reader_en_it   | 13   | A2-B1   | `01_fortuna...md` |
+| olly_richards         | 8    | A1-A2   | `01_la_pizza...md` |
+| penguin_parallel      | 7    | B1-B2   | `01_il_lungo...md` |
+| touri                 | 10   | A1-A2   | `01_il_ghiacciolo.md` |
 
 ## Quartz 部署
 
@@ -59,38 +80,51 @@
 
 ```bash
 ./serve.sh          # 启动 http://localhost:8080
-./serve.sh build    # 仅构建
+./serve.sh build    # 仅构建到 site/public/
 ./serve.sh clean    # 清理产物
 ```
 
 ### Cloudflare Pages 部署
 
-- **Build command**: `bash build.sh`
-- **Build output directory**: `site/public`
-- **环境变量**: `NODE_VERSION=22`
+| 参数                  | 值                  |
+| --------------------- | ------------------- |
+| Build command         | `bash build.sh`    |
+| Build output directory| `site/public`        |
+| 环境变量              | `NODE_VERSION=22`    |
+| 仓库根 `.nvmrc`       | `22`                 |
 
-### Quartz 命令
+### 字体（`quartz.config.yaml`）
 
-```bash
-cd site
-npm install --legacy-peer-deps
-npx quartz build -d content    # 构建
-```
+- 字体加载：header/body 通过 `fontOrigin: googleFonts`
+- 视觉字形：Latin Lora + 中文（思源宋 SC）+ 代码 IBM Plex Mono
+- ⚠️ **大陆网络**：fonts.googleapis.com 不可达，全站回退 system-ui
+
+### 排序规则（重要）
+
+- `racconti/` 下所有带编号的文档必须在 frontmatter 添加 `modified: <项目启动日>` 字段
+- 同目录所有文件 modified 相同 → 稳定排序触发 → 文件名序 01→N 正序
+- 详见 `.memory/AGENTS.md`「排序规则」章节
 
 ## 精读核心原则
 
-- **精读格式**：概览 → 逐句精读（中文理解/句子结构/动词变位/关键词/表达方式）→ 词汇分级 → 长难句 → 总结 → 可迁移表达
-- **词汇分级**：⭐基础(A1-A2) / ⭐⭐中级(B1) / ⭐⭐⭐进阶(B2) / ⭐⭐⭐⭐高级(C1)
-- **故事精读**：chunk分段结构（原文→翻译→注释）+ 词汇表 + 固定表达 + 文化注释 + 文学手法 + 主题探讨 + 精读笔记
-- **新闻精读**：800-1000词核心段落 + 完整精读结构
+- **文章精读**（6 章）：概览 → 逐句精读 → 词汇分级 → 长难句专项 → 精读总结 → 可迁移表达
+- **词汇分级四档**：⭐基础(A1-A2) / ⭐⭐中级(B1) / ⭐⭐⭐进阶(B2) / ⭐⭐⭐⭐高级(C1)
+- **故事精读**（8 章）：概要 / 原文与解析 / 词汇表 / 固定表达 / 文化注释 / 文学手法 / 主题探讨 / 精读笔记
+- **新闻精读**：800-1000 词核心段落 + 完整精读结构
 
 ## 来源
 
-| 来源           | 类型   | 难度  |
-| -------------- | ------ | ----- |
-| doppiozero     | 文学/文化 | B2-C1 |
-| Il Post        | 新闻   | B1-B2 |
-| Contropiano    | 政治/社会 | B2-C1 |
-| Internazionale  | 国际   | B2-C1 |
+| 来源            | 类型        | 难度   |
+| --------------- | ----------- | ------ |
+| doppiozero      | 文学/文化    | B2-C1  |
+| Il Post         | 新闻        | B1-B2  |
+| Contropiano     | 政治/社会    | B2-C1  |
+| Internazionale  | 国际新闻    | B2-C1  |
+| Treccani        | 杂志/文化（思源来源） | B2-C1 |
+| L'espresso      | 杂志（思源来源） | B1-C1 |
+| Wired Italia    | 科技（思源来源） | B1-C1 |
 
-Calibre 新闻源（需手动抓取）：Il Post, Internazionale, Contropiano 等。
+抓取方式：
+- **doppiozero**：唯一有全文的 RSS，自动抓取（`scripts/fetch_doppiozero.py`）
+- **Il Post / Internazionale / Contropiano**：Calibre 内置新闻源手动抓取
+- **Treccani / L'espresso / Wired**：思源笔记导出 + 整理
